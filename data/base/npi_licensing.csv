@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Ofisten çıkarken birini gördü.,Ofisten çıkarken kimseyi gördü.,birini,kimseyi,gördü,npi_licensing
+Birileri evde yumurta olmadığını fark etmiş.,Kimse evde yumurta olmadığını fark etmiş.,Birileri,Kimse,fark etmiş,npi_licensing
+Annem yurt dışına daha önce çıkmıştı.,Annem yurt dışına daha önce hiç çıkmıştı.,∅,hiç,çıkmıştı,npi_licensing
+Benden ne istediğini anladım.,Benden ne istediğini hiç anladım.,∅,hiç,anladım,npi_licensing
+Birine nereye gittiğini söylemiş.,Hiç kimseye nereye gittiğini söylemiş.,Birine,Hiç kimseye,söylemiş,npi_licensing
+Bir yönetici çalışanların fazla mesai yapmamasına karışabilir.,Hiçbir yönetici çalışanların fazla mesai yapmamasına karışabilir.,Bir,Hiçbir,karışabilir,npi_licensing
+Aslında çocukluğuma dair bir şey hatırlıyorum.,Aslında çocukluğuma dair hiçbir şey hatırlıyorum.,bir şey,hiçbir şey,hatırlıyorum,npi_licensing
+Onu sahneye çıkmaya ikna edebilirsin.,Onu sahneye çıkmaya asla ikna edebilirsin.,∅,asla,edebilirsin,npi_licensing
+Bana anahtarları evde unuttuğunu söyle.,Bana sakın anahtarları evde unuttuğunu söyle.,∅,sakın,söyle,npi_licensing
+Anneleri o çocukla görüşmelerine izin verir.,Anneleri o çocukla görüşmelerine asla izin verir.,∅,asla,verir,npi_licensing
+Arkadaşlarımdan biri yardım etti.,Arkadaşlarımdan kimse yardım etti.,biri,kimse,yardım etti,npi_licensing
+Bu konuda fikrim var.,Bu konuda hiç fikrim var.,∅,hiç,fikrim var,npi_licensing
+Dün biri geldi.,Dün kimse geldi.,biri,kimse,geldi,npi_licensing
+Evden çıkmadan bir şey yiyebilirsin.,Evden çıkmadan hiçbir şey yiyebilirsin.,bir şey,hiçbir şey,yiyebilirsin,npi_licensing
+Ay sonuna param kaldı.,Ay sonuna hiç param kaldı.,∅,hiç,kaldı,npi_licensing
+Bana haber getirdi.,Bana hiç haber getirdi.,∅,hiç,getirdi,npi_licensing
+Apartmanda ses duyuyorum.,Apartmanda hiç ses duyuyorum.,∅,hiç,duyuyorum,npi_licensing
+Biri kapıyı çaldı.,Kimse kapıyı çaldı.,Biri,Kimse,çaldı,npi_licensing
+Bu kitabı bir yerde gördüm.,Bu kitabı hiçbir yerde gördüm.,bir,hiçbir,gördüm,npi_licensing
+Seni dün biri aradı.,Seni dün hiç kimse aradı.,biri,hiç kimse,aradı,npi_licensing
+Sınavla ilgili soru sordum.,Sınavla ilgili hiç soru sordum.,∅,hiç,sordum,npi_licensing
+Doğum gününü kutlayabileceğimiz bir yer biliyorum.,Doğum gününü kutlayabileceğimiz hiçbir yer biliyorum.,bir,hiçbir,biliyorum,npi_licensing
+Hayatımı değiştiren bir film izledim.,Hayatımı değiştiren hiçbir film izledim.,bir,hiçbir,izledim,npi_licensing
+Müdüre olanları anlatınca problemi çözebildik.,Müdüre olanları anlatınca problemi hiç çözebildik.,∅,hiç,çözdüm,npi_licensing
+Yıl dönümümüzde hediye aldım.,Yıl dönümümüzde hiç hediye aldım.,∅,hiç,aldım,npi_licensing
+Mezuniyet töreninde konuşma yaptım.,Mezuniyet töreninde hiç konuşma yaptım.,∅,hiç,yaptım,npi_licensing
+Kalabalığın önünde şarkı söyledim.,Kalabalığın önünde hiç şarkı söyledim.,∅,hiç,söyledim,npi_licensing
+Bana öğrettiği tekerlemeyi söylebildim.,Bana öğrettiği hiçbir tekerlemeyi söylebildim.,∅,hiçbir,söylebildim,npi_licensing
+Daha önce  bahsettiği söyleşiye katıldım.,Daha önce  bahsettiği hiçbir söyleşiye katıldım.,∅,hiçbir,katıldım,npi_licensing
+Balıkçıda denediğim mezeyi beğendim.,Balıkçıda denediğim hiçbir mezeyi beğendim.,∅,hiçbir,beğendim,npi_licensing
+Palyaçonun şakalarına çocuk güldü.,Palyaçonun şakalarına hiçbir çocuk güldü.,∅,hiçbir,güldü,npi_licensing
+Hocanın anlattığı yeni konuyu öğrenciler anladı.,Hocanın anlattığı yeni konuyu öğrenciler hiç anladı.,∅,hiç,anladı,npi_licensing
+Müdür yıllık izni onayladı.,Müdür hiçbir yıllık izni onayladı.,∅,hiçbir,onayladı,npi_licensing
+Sana neyin iyi geleceğini doktor bilir.,Sana neyin iyi geleceğini hiçbir doktor bilir.,∅,hiçbir,bilir,npi_licensing
+Geç kalan otobüs yolcuyu bekliyor.,Geç kalan otobüs yolcuyu hiç bekliyor.,∅,hiç,bekliyor,npi_licensing
+Doğum yaptıktan sonra misafir geldi.,Doğum yaptıktan sonra hiçbir misafir geldi.,∅,hiçbir,geldi,npi_licensing
+Bu yazarın romanlarını okudum.,Bu yazarın romanlarını hiç okudum.,∅,hiç,okudum,npi_licensing
+Olaylar üzerine sanatçı öğrencilere destek olduğunu söyledi.,Olaylar üzerine hiçbir sanatçı öğrencilere destek olduğunu söyledi.,∅,hiçbir,söyledi,npi_licensing
+İhtiyaç molası için şoför durdu.,İhtiyaç molası için şoför hiç durdu.,∅,hiç,durdu,npi_licensing
+Tren istasyonunda polis gördü.,Tren istasyonunda hiç polis gördü.,∅,hiç,gördü,npi_licensing
+Acı içindeki adama hemşire baktı.,Acı içindeki adama hiçbir hemşire baktı.,∅,hiçbir,baktı,npi_licensing
+Bu yemeği daha önce yemiştim.,Bu yemeği daha önce hiç yemiştim.,∅,hiç,yemiştim,npi_licensing
+Babam böyle bir olay yaşamıştı.,Babam böyle bir olay hiç yaşamıştı.,∅,hiç,yaşamıştı,npi_licensing
+Kardeşim bu şarkıyı daha önce duymuş.,Kardeşim bu şarkıyı daha önce hiç duymuş.,∅,hiç,duymuş,npi_licensing
+Bu kitabı okudum.,Bu kitabı hiç okudum.,∅,hiç,okudum,npi_licensing
+Onu tiyatroda izlemişler.,Onu tiyatroda hiç izlememişler.,∅,hiç,izlememişler,npi_licensing
+Buraya kadar yürüdüm.,Buraya kadar hiç yürüdüm.,∅,hiç,yürüdüm,npi_licensing
+O filmi izlemiştik.,O filmi hiç O filmi izlemiştik.,∅,hiç,izlemiştik,npi_licensing
+Bu konuda düşünmüştüm.,Bu konuda hiç düşünmüştüm.,∅,hiç,düşünmüştüm,npi_licensing
+Onu partiye davet edebiliriz.,Onu partiye asla davet edebiliriz.,∅,asla,edebiliriz,npi_licensing
+Bu kapıyı açabilirsin.,Bu kapıyı asla açabilirsin.,∅,asla,açabilirsin,npi_licensing
+Bu sırrı ona söyleyebilirsin.,Bu sırrı ona asla söyleyebilirsin.,∅,asla,söyleyebilirsin,npi_licensing
+Gönderdiği yemeklerden yiyebilirsin.,Gönderdiği yemeklerden asla yiyebilirsin.,∅,asla,yiyebilirsin,npi_licensing
+Sahil yolundan gidebilirsiniz.,Sahil yolundan asla gidebilirsiniz.,∅,asla,gidebilirsiniz,npi_licensing
+Bu ilacı kullanabilir.,Bu ilacı asla kullanabilir.,∅,asla,kullanabilir,npi_licensing
+İş teklifini kabul edebilirim.,İş teklifini asla kabul edebilirim.,∅,asla,edebilirim,npi_licensing
+Buraya gelebilirsin.,Buraya asla gelebilirsin.,∅,asla,gelebilirsin,npi_licensing
+Onunla konuşabilirsin.,Onunla asla konuşabilirsin.,∅,asla,konuşabilirsin,npi_licensing
+Benim konsolumla oynayabilirsin.,Benim konsolumla asla oynayabilirsin.,∅,asla,oynayabilirsin,npi_licensing
+Bana gerçeği söyle.,Bana sakın gerçeği söyle.,∅,sakın,söyle,npi_licensing
+Buradan ayrıl.,Buradan sakın ayrıl.,∅,sakın,ayrıl,npi_licensing
+O dosyayı bilgisayarından sil.,O dosyayı bilgisayarından sakın sil.,∅,sakın,sil,npi_licensing
+Zor zamanlarda ona güven.,Zor zamanlarda ona sakın güven.,∅,sakın,güven,npi_licensing
+Kırmızı düğmeye bas.,Kırmızı düğmeye sakın bas.,∅,sakın,bas,npi_licensing
+Acil yardım hattını bu gibi durumlarda arayabilirsin.,Acil yardım hattını bu gibi durumlarda asla arayabilirsin,∅,asla,ara,npi_licensing
+Yüzüklerin Efendisi serisini okumuş.,Yüzüklerin Efendisi serisini hiç okumuş.,∅,hiç,okumuş,npi_licensing
+Kavgadan sonra onunla konuşmuş.,Kavgadan sonra onunla hiç konuşmuş.,∅,hiç,konuşmuş,npi_licensing
+Annem bu yolu daha önce kullanmış.,Annem bu yolu daha önce hiç kullanmış.,∅,hiç,kullanmış,npi_licensing
+Bu problemi tek başıma çözebilirim.,Bu problemi tek başıma asla çözebilirim.,∅,asla,çözebilirim,npi_licensing
+O konuda anlaşabiliriz.,O konuda asla anlaşabiliriz.,∅,asla,anlaşabiliriz,npi_licensing
+Bu planı uygulayabiliriz.,Bu planı asla uygulayabiliriz.,∅,asla,uygulayabiliriz,npi_licensing
+Personal odasına girebilirsin.,Personal odasına asla girebilirsin.,∅,asla,girebilirsin,npi_licensing
+Şartları düşününce bu riski alabiliriz.,Şartları düşününce bu riski asla alabiliriz.,∅,asla,alabiliriz,npi_licensing
+Fırındaki poğaçaları ye.,Fırındaki poğaçaları sakın ye.,∅,sakın,ye,npi_licensing
+Annemin dolaba koyduğu şerbetten iç.,Annemin dolaba koyduğu şerbetten sakın iç.,∅,sakın,iç,npi_licensing
+Avukatla ilgili çıkan haberi yay.,Avukatla ilgili çıkan sakın yay.,∅,sakın,yay,npi_licensing
+Kreşte bir öğrenci uyuyordu.,Kreşte hiçbir öğrenci uyuyordu.,bir,hiçbir,uyuyordu,npi_licensing
+Parkta bir çocuk ağlıyordu.,Parkta hiçbir çocuk ağlıyordu.,bir,hiçbir,ağlıyordu,npi_licensing
+Toplantıda biri itiraz etti.,Toplantıda kimse itiraz etti.,biri,kimse,etti,npi_licensing
+Otobüste biri bagajını unutmuş.,Otobüste kimse bagajını unutmuş.,biri,kimse,unutmuş,npi_licensing
+Mahallede bir ev satılıktı.,Mahallede hiçbir ev satılıktı.,bir,hiçbir,satılıktı,npi_licensing
+Bir doktor hastayı muayene etti.,Hiçbir doktor hastayı muayene etti.,Bir,Hiçbir,etti,npi_licensing
+Bir polis olaya müdahale etti.,Hiçbir polis olaya müdahale etti.,Bir,Hiçbir,etti,npi_licensing
+Birileri kapının zilini çaldı.,Kimse kapının zilini çaldı.,Birileri,Kimse,çaldı,npi_licensing
+Birileri pencereden bakıyordu.,Kimse pencereden bakıyordu.,Birileri,Kimse,bakıyordu,npi_licensing
+Biri bahçeye top atmış.,Kimse bahçeye top atmış.,Biri,Kimse,atmış,npi_licensing
+Birine önemli bir sırrımı verdim.,Hiç kimseye önemli bir sırrımı verdim.,Birine,Hiç kimseye,verdim,npi_licensing
+Yılbaşı çekilişinde birine hediye aldım.,Yılbaşı çekilişinde hiç kimseye hediye aldım.,Birine,Hiç kimseye,aldım,npi_licensing
+Alt dönemden birine tavsiye verdim.,Alt dönemden hiç kimseye tavsiye verdim.,birine,hiç kimseye,verdim,npi_licensing
+Bir müdür işçilere izin verdi.,Hiçbir müdür işçilere izin verdi.,Bir,Hiçbir,verdi,npi_licensing
+Bir öğrenci öğretmenler odasına gidip soru sordu.,Hiçbir öğrenci öğretmenler odasına gidip soru sordu.,Bir,Hiçbir,sordu,npi_licensing
+Bir misafirimiz kapuska yemek istedi.,Hiçbir misafirimiz kapuska yemek istedi.,Bir,Hiçbir,istedi,npi_licensing
+Bir şarkıcı konser çıkışında imza verdi.,Hiçbir şarkıcı konser çıkışında imza verdi.,Bir,Hiçbir,verdi,npi_licensing
+Bu gece bir sanatçı performans sergiledi.,Bu gece hiçbir sanatçı performans sergiledi.,bir,hiçbir,sergiledi,npi_licensing
+Bir garson sipariş aldı.,Hiçbir garson sipariş aldı.,Bir,Hiçbir,aldı,npi_licensing
+Kızıma o masalı daha önce anlatmıştım.,Kızıma o masalı daha önce hiç anlatmıştım.,∅,hiç,anlatmıştım,npi_licensing
+İspanya'da yaşadığı dönem onunla konuşmuş.,İspanya'da yaşadığı dönem onunla hiç konuşmuş.,∅,hiç,konuşmuş,npi_licensing
+Fransa'da yaşadığı sırada müzeleri gezmiş.,Fransa'da yaşadığı sırada müzeleri hiç gezmiş.,∅,hiç,gezmiş,npi_licensing
+Portekiz'de yaşarken yerel lezzetleri tatmışlar.,Portekiz'de yaşarken yerel lezzetleri hiç tatmışlar.,∅,hiç,tatmışlar,npi_licensing
+Japonya'da yaşarken bunları görmüşsündür.,Japonya'da yaşarken bunları hiç görmüşsündür.,∅,hiç,görmüşsündür,npi_licensing

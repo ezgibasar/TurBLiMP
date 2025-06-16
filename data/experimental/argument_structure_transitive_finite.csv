@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon,subtype
+Eda hediyesine resmen bayıldı sanıyor.,Eda hediyesini resmen bayıldı sanıyor.,hediyesine,hediyesini,bayıldı,argument_structure,transitive
+İnternette her okuduğun şeye körü körüne inanma sanıyor.,İnternette her okuduğun şeyi körü körüne inanma sanıyor.,şeye,şeyi,inanma,argument_structure,transitive
+Eşimin zevkine çok güvenirim sanıyor.,Eşimin zevkini çok güvenirim sanıyor.,zevkine,zevkini,güvenirim,argument_structure,transitive
+Ben artık sana sadece acıyorum sanıyor.,Ben artık seni sadece acıyorum sanıyor.,sana,seni,acıyorum,argument_structure,transitive
+Hemşire hanım yaşlı hastayla özel olarak ilgileniyor sanıyor.,Hemşire hanım yaşlı hastayı özel olarak ilgileniyor sanıyor.,hastayla,hastayı,ilgileniyor,argument_structure,transitive
+Bizim ufaklık sıra arkadaşından baya hoşlanıyormuş sanıyor.,Bizim ufaklık sıra arkadaşını baya hoşlanıyormuş sanıyor.,arkadaşından,arkadaşını,hoşlanıyormuş,argument_structure,transitive
+Muhalefet partisi erken seçimde hala ısrar ediyor sanıyor.,Muhalefet partisi erken seçimi hala ısrar ediyor sanıyor.,seçimde,seçimi,ısrar ediyor,argument_structure,transitive
+Saygısız çalışan yaşlı kadınla resmen alay etti sanıyor.,Saygısız çalışan yaşlı kadına resmen alay etti sanıyor.,kadınla,kadına,alay etti,argument_structure,transitive
+Senin bu hallerinden bıktım sanıyor.,Senin bu hallerine bıktım sanıyor.,hallerinden,hallerine,bıktım,argument_structure,transitive
+Balayı için Urla'da karar kılmışlar sanıyor.,Balayı için Urla'ya karar kılmışlar sanıyor.,Urla'da,Urla'ya,karar kılmışlar,argument_structure,transitive
+Bu konuya çok kafa yordum sanıyor.,Bu konuyu çok kafa yordum sanıyor.,konuya,konuyu,yordum,argument_structure,transitive
+Bütün gün seni düşündüm sanıyor.,Bütün gün senden düşündüm sanıyor.,seni,senden,düşündüm,argument_structure,transitive
+Bu şarkıya bayılıyorum sanıyor.,Bu şarkıyı bayılıyorum sanıyor.,şarkıya,şarkıyı,bayılıyorum,argument_structure,transitive
+Arkadaşımın doğum gününü unuttum sanıyor.,Arkadaşımın doğum gününe unuttum sanıyor.,doğum gününü,doğum gününe,unuttum,argument_structure,transitive
+Yarın size de gelirim sanıyor.,Yarın sizi de gelirim sanıyor.,size,sizi,gelirim,argument_structure,transitive
+Bu habere çok sevindim sanıyor.,Bu haberi çok sevindim sanıyor.,habere,haberi,sevindim,argument_structure,transitive
+Kedim balkondan düştü sanıyor.,Kedim balkonu düştü sanıyor.,balkondan,balkonu,düştü,argument_structure,transitive
+Annem her zaman bana destek olur sanıyor.,Annem her zaman beni destek olur sanıyor.,bana,beni,destek olur,argument_structure,transitive
+Öğretmenimiz bize çok kızdı sanıyor.,Öğretmenimiz bizi çok kızdı sanıyor.,bize,bizi,kızdı,argument_structure,transitive
+Bu filme bayılıyoruz sanıyor.,Bu filmi bayılıyoruz sanıyor.,filme,filmi,bayılıyoruz,argument_structure,transitive
+Bu şehri çok seviyorum sanıyor.,Bu şehre çok seviyorum sanıyor.,şehri,şehre,seviyorum,argument_structure,transitive
+Bu gözlüğü çok beğendim sanıyor.,Bu gözlüğe çok beğendim sanıyor.,gözlüğü,gözlüğe,beğendim,argument_structure,transitive
+Yeni bir hobiye başladık sanıyor.,Yeni bir hobiyi başladık sanıyor.,hobiye,hobiyi,başladık,argument_structure,transitive
+Bu öneriye sıcak baktı sanıyor.,Bu öneriyi sıcak baktı sanıyor.,öneriye,öneriyi,baktı,argument_structure,transitive
+Komşularımla iyi geçiniyorum sanıyor.,Komşularımı iyi geçiniyorum sanıyor.,komşularımla,komşularımı,geçiniyorum,argument_structure,transitive
+Bu kitap serisine bayıldım sanıyor.,Bu kitap serisini bayıldım sanıyor.,serisine,serisini,bayıldım,argument_structure,transitive
+Onun doğruyu söylediğine inanıyorum sanıyor.,Onun doğruyu söylediğini inanıyorum sanıyor.,söylediğine,söylediğini,inanıyorum,argument_structure,transitive
+Tatile çıkma fikrine çok ısındım sanıyor.,Tatile çıkma fikrini çok ısındım sanıyor.,fikrine,fikrini,ısındım,argument_structure,transitive
+Bu duruma çok üzüldüler sanıyor.,Bu durumu çok üzüldüler sanıyor.,duruma,durumu,üzüldüler,argument_structure,transitive
+Yeni projeye başlamaya karar verdiler sanıyor.,Yeni projeye başlamayı karar verdiler sanıyor.,başlamaya,başlamayı,karar verdiler,argument_structure,transitive
+Onun tepkisine çok şaşırdım sanıyor.,Onun tepkisini çok şaşırdım sanıyor.,tepkisine,tepkisini,şaşırdım,argument_structure,transitive
+Bu tabloya hayran kaldım sanıyor.,Bu tabloyu hayran kaldım sanıyor.,tabloya,tabloyu,hayran kaldım,argument_structure,transitive
+Ona büyük saygı duyuyorum sanıyor.,Onu büyük saygı duyuyorum sanıyor.,ona,onu,duyuyorum,argument_structure,transitive
+Yeni bir işe girdim sanıyor.,Yeni bir işi girdim sanıyor.,işe,işi,girdim,argument_structure,transitive
+Ona koşulsuz destek oluyorum sanıyor.,Onu koşulsuz destek oluyorum sanıyor.,ona,onu,oluyorum,argument_structure,transitive
+Bu projeye çok önem veriyoruz sanıyor.,Bu projeyi çok önem veriyoruz sanıyor.,projeye,projeyi,veriyoruz,argument_structure,transitive
+Son duruma çok şaşırdım sanıyor.,Son durumu çok şaşırdım sanıyor.,duruma,durumu,şaşırdım,argument_structure,transitive
+Sana her zaman güveniyorum sanıyor.,Seni her zaman güveniyorum sanıyor.,sana,seni,güveniyorum,argument_structure,transitive
+Bu sınava günlerce çalıştım sanıyor.,Bu sınavı günlerce çalıştım sanıyor.,sınava,sınavı,çalıştım,argument_structure,transitive
+Onun söylediklerine katılıyorum sanıyor.,Onun söylediklerini katılıyorum sanıyor.,söylediklerine,söylediklerini,katılıyorum,argument_structure,transitive
+Şu değişikliklere oldum olası alışamadım sanıyor.,Şu değişiklikleri oldum olası alışamadım sanıyor.,değişikliklere,değişiklikleri,alışamadım,argument_structure,transitive
+Annemin sözlerine kulak verdim sanıyor.,Annemin sözlerini kulak verdim sanıyor.,sözlerine,sözlerini,verdim,argument_structure,transitive
+Konferansa katılmaya karar verdim sanıyor.,Konferansı katılmayı karar verdim sanıyor.,katılmaya,katılmayı,karar verdim,argument_structure,transitive
+Oyunlara fazla kapılmamalısın sanıyor.,Oyunları fazla kapılmamalısın sanıyor.,oyunlara,oyunları,kapılmamalısın,argument_structure,transitive
+Dün yaptıklarından sonra sana çok kırıldım sanıyor.,Dün yaptıklarından sonra seni çok kırıldım sanıyor.,sana,seni,kırıldım,argument_structure,transitive
+Etkinliğe katılmayı düşünüyorlar sanıyor.,Etkinliğe katılmaya düşünüyorlar sanıyor.,katılmayı,katılmaya,düşünüyorlar,argument_structure,transitive
+Gözden kaçan hataya çok üzüldüm sanıyor.,Gözden kaçan hatayı çok üzüldüm sanıyor.,hataya,hatayı,üzüldüm,argument_structure,transitive
+Tartışmaya girmeyi sevmem sanıyor.,Tartışmaya girmeye sevmem sanıyor.,girmeyi,girmeye,sevmem,argument_structure,transitive
+Seni buralarda görmeye son zamanlarda iyice alıştım sanıyor.,Seni buralarda görmeyi son zamanlarda iyice alıştım sanıyor.,görmeye,görmeyi,alıştım,argument_structure,transitive
+Zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim sanıyor.,Zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim sanıyor.,başarıya,başarıyı,sevindim,argument_structure,transitive
+Eda yeni elbisesine resmen hayran kaldı sanıyor.,Eda yeni elbisesini resmen hayran kaldı sanıyor.,elbisesine,elbisesini,hayran kaldı,argument_structure,transitive
+İnternette her gördüğün habere körü körüne inanma sanıyor.,İnternette her gördüğün haberi körü körüne inanma sanıyor.,habere,haberi,inanma,argument_structure,transitive
+Eşimin kararlarına çok güvenirim sanıyor.,Eşimin kararlarını çok güvenirim sanıyor.,kararlarına,kararlarını,güvenirim,argument_structure,transitive
+Ben artık ona sadece gülüyorum sanıyor.,Ben artık onu sadece gülüyorum sanıyor.,ona,onu,gülüyorum,argument_structure,transitive
+Doktor bey yaşlı hastayla özel olarak ilgileniyor sanıyor.,Doktor bey yaşlı hastayı özel olarak ilgileniyor sanıyor.,hastayla,hastayı,ilgileniyor,argument_structure,transitive
+Bizim kuşumuz komşunun kedisinden baya korkuyormuş sanıyor.,Bizim kuşumuz komşunun kedisini baya korkuyormuş sanıyor.,kedisinden,kedisini,korkuyormuş,argument_structure,transitive
+Hükümet partisi yeni yasada hala ısrar ediyor sanıyor.,Hükümet partisi yeni yasayı hala ısrar ediyor sanıyor.,yasada,yasayı,ısrar ediyor,argument_structure,transitive
+Kaba müşteri genç garsonla resmen dalga geçti sanıyor.,Kaba müşteri genç garsona resmen dalga geçti sanıyor.,garsonla,garsona,dalga geçti,argument_structure,transitive
+Senin bu tavırlarından bıktım sanıyor.,Senin bu tavırlarına bıktım sanıyor.,tavırlarından,tavırlarına,bıktım,argument_structure,transitive
+Tatil için Bodrum'da karar kılmışlar sanıyor.,Tatil için Bodrum'a karar kılmışlar sanıyor.,Bodrum'da,Bodrum'a,karar kılmışlar,argument_structure,transitive
+Bu soruna çok kafa yordum sanıyor.,Bu sorunu çok kafa yordum sanıyor.,soruna,sorunu,yordum,argument_structure,transitive
+Bütün gece onu düşündüm sanıyor.,Bütün gece ondan düşündüm sanıyor.,onu,ondan,düşündüm,argument_structure,transitive
+Bu türküye bayılıyorum sanıyor.,Bu türküyü bayılıyorum sanıyor.,türküye,türküyü,bayılıyorum,argument_structure,transitive
+Kardeşimin mezuniyetini unuttum sanıyor.,Kardeşimin mezuniyetine unuttum sanıyor.,mezuniyetini,mezuniyetine,unuttum,argument_structure,transitive
+Yarın onlara da uğrarım sanıyor.,Yarın onları da uğrarım sanıyor.,onlara,onları,uğrarım,argument_structure,transitive
+Bu müjdeye çok sevindim sanıyor.,Bu müjdeyi çok sevindim sanıyor.,müjdeye,müjdeyi,sevindim,argument_structure,transitive
+Köpeğim merdivenlerden düştü sanıyor.,Köpeğim merdivenleri düştü sanıyor.,merdivenlerden,merdivenleri,düştü,argument_structure,transitive
+Babam her zaman bana destek olur sanıyor.,Babam her zaman beni destek olur sanıyor.,bana,beni,destek olur,argument_structure,transitive
+Müdürümüz bize çok kızdı sanıyor.,Müdürümüz bizi çok kızdı sanıyor.,bize,bizi,kızdı,argument_structure,transitive
+Bu diziye bayılıyoruz sanıyor.,Bu diziyi bayılıyoruz sanıyor.,diziye,diziyi,bayılıyoruz,argument_structure,transitive
+Bu kasabayı çok seviyorum sanıyor.,Bu kasabaya çok seviyorum sanıyor.,kasabayı,kasabaya,seviyorum,argument_structure,transitive
+Bu saati çok beğendim sanıyor.,Bu saate çok beğendim sanıyor.,saati,saate,beğendim,argument_structure,transitive
+Yeni bir spora başladık sanıyor.,Yeni bir sporu başladık sanıyor.,spora,sporu,başladık,argument_structure,transitive
+Bu fikre sıcak baktı sanıyor.,Bu fikri sıcak baktı sanıyor.,fikre,fikri,baktı,argument_structure,transitive
+Akrabalarımla iyi geçiniyorum sanıyor.,Akrabalarımı iyi geçiniyorum sanıyor.,akrabalarımla,akrabalarımı,geçiniyorum,argument_structure,transitive
+Bu film serisine bayıldım sanıyor.,Bu film serisini bayıldım sanıyor.,serisine,serisini,bayıldım,argument_structure,transitive
+Onun doğruyu söylediğine inanıyorum sanıyor.,Onun doğruyu söylediğini inanıyorum sanıyor.,söylediğine,söylediğini,inanıyorum,argument_structure,transitive
+Tatile çıkma planına çok ısındım sanıyor.,Tatile çıkma planını çok ısındım sanıyor.,planına,planını,ısındım,argument_structure,transitive
+Bu olaya çok üzüldüler sanıyor.,Bu olayı çok üzüldüler sanıyor.,olaya,olayı,üzüldüler,argument_structure,transitive
+Yeni projeye başlamaya karar verdiler sanıyor.,Yeni projeye başlamayı karar verdiler sanıyor.,başlamaya,başlamayı,karar verdiler,argument_structure,transitive
+Onun cevabına çok şaşırdım sanıyor.,Onun cevabını çok şaşırdım sanıyor.,cevabına,cevabını,şaşırdım,argument_structure,transitive
+Bu heykellere hayran kaldım sanıyor.,Bu heykelleri hayran kaldım sanıyor.,heykellere,heykelleri,hayran kaldım,argument_structure,transitive
+Ona büyük saygı duyuyorum sanıyor.,Onu büyük saygı duyuyorum sanıyor.,ona,onu,duyuyorum,argument_structure,transitive
+Yeni bir kursa girdim sanıyor.,Yeni bir kursu girdim sanıyor.,kursa,kursu,girdim,argument_structure,transitive
+Ona koşulsuz destek oluyorum sanıyor.,Onu koşulsuz destek oluyorum sanıyor.,ona,onu,oluyorum,argument_structure,transitive
+Bu fikre çok önem veriyoruz sanıyor.,Bu fikri çok önem veriyoruz sanıyor.,fikre,fikri,veriyoruz,argument_structure,transitive
+Son gelişmeye çok şaşırdım sanıyor.,Son gelişmeyi çok şaşırdım sanıyor.,gelişmeye,gelişmeyi,şaşırdım,argument_structure,transitive
+Sana her zaman güveniyorum sanıyor.,Seni her zaman güveniyorum sanıyor.,sana,seni,güveniyorum,argument_structure,transitive
+Bu yarışmaya günlerce çalıştım sanıyor.,Bu yarışmayı günlerce çalıştım sanıyor.,yarışmaya,yarışmayı,çalıştım,argument_structure,transitive
+Onun söylediklerine katılıyorum sanıyor.,Onun söylediklerini katılıyorum sanıyor.,söylediklerine,söylediklerini,katılıyorum,argument_structure,transitive
+Şu yeniliklere oldum olası alışamadım sanıyor.,Şu yenilikleri oldum olası alışamadım sanıyor.,yeniliklere,yenilikleri,alışamadım,argument_structure,transitive
+Babamın öğütlerine kulak verdim sanıyor.,Babamın öğütlerini kulak verdim sanıyor.,öğütlerine,öğütlerini,verdim,argument_structure,transitive
+Seminere katılmaya karar verdim sanıyor.,Semineri katılmayı karar verdim sanıyor.,katılmaya,katılmayı,karar verdim,argument_structure,transitive
+Kumara fazla kapılmamalısın sanıyor.,Kumarı fazla kapılmamalısın sanıyor.,kumara,kumarı,kapılmamalısın,argument_structure,transitive
+Dün söylediklerinden sonra sana çok kırıldım sanıyor.,Dün söylediklerinden sonra seni çok kırıldım sanıyor.,sana,seni,kırıldım,argument_structure,transitive
+Konsere katılmayı düşünüyorlar sanıyor.,Konsere katılmaya düşünüyorlar sanıyor.,katılmayı,katılmaya,düşünüyorlar,argument_structure,transitive
+Gözden kaçan detaya çok üzüldüm sanıyor.,Gözden kaçan detayı çok üzüldüm sanıyor.,detaya,detayı,üzüldüm,argument_structure,transitive
+Tartışmaya girmeyi sevmem sanıyor.,Tartışmaya girmeye sevmem sanıyor.,girmeyi,girmeye,sevmem,argument_structure,transitive
+Seni burada görmeye son zamanlarda iyice alıştım sanıyor.,Seni burada görmeyi son zamanlarda iyice alıştım sanıyor.,görmeye,görmeyi,alıştım,argument_structure,transitive
+Zorlu bir maratondan sonra elde ettiğin bu zafere sevindim sanıyor.,Zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim sanıyor.,zafere,zaferi,sevindim,argument_structure,transitive

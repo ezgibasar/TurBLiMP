@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Hasan'ın makaleyi yazdığını biliyorum.,Hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Otelde çarşafların değiştirildiğine emin olamadık.,Otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Kapıya gelen işportacının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen işportacının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kardeşinin doğruyu söylediğine inanıyor.,Kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Sizin de açılışa katılmanızı çok isteriz.,Sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Çocuklar bayramın gelmesini heyecanla bekliyor.,Çocuklar gelmesini bayramın heyecanla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Hep birlikte arabanın çıkarılmasına yardım ettik.,Hep birlikte çıkarılmasına arabanın yardım ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Her sabah aynı fırından ekmek aldığını söyledi.,Her sabah aynı fırından aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Okulun önünde çocukların karnelerini almasını bekliyoruz.,Okulun önünde çocukların almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Patronu arayıp bacağını kırdığını haber verdi.,Patronu arayıp kırdığını bacağını haber verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Müdürün projeyi onayladığını duydum.,Müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Köpeğin komşunun bahçesini kazdığını gördüm.,Köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Polislerin hırsızı yakaladığını duyduk.,Polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Doktorun ilacı yazdığını unutmuş.,Doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Annemin pastayı yaptığını sanıyordum.,Annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Müşterinin hesabı kapattığını öğrendik.,Müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Kardeşimin bisikleti çaldığını itiraf etti.,Kardeşimin çaldığını bisikleti itiraf etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Yolcuların valizlerini kaybettiğini duyurdu.,Yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Adamın cüzdanını düşürdüğünü gördüm.,Adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Çocuğun camı kırdığını kimse görmedi.,Çocuğun kırdığını camı kimse görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Yönetici maaşları ödediğini söyledi.,Yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Bebeğe mamasını yedirdiğini gördük.,Bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Garsonun siparişi yanlış getirdiğini fark ettik.,Garsonun yanlış getirdiğini siparişi fark ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Çocuğun köpeğini sevmesine izin verdi.,Çocuğun sevmesine köpeğini izin verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Kızın kedisini sevmesine izin verdi.,Kızın sevmesine kedisini izin verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Ufaklığın ödevlerini bitirmesine sevindim.,Ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Hizmetlinin odasını topladığını söyledi.,Hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Müdürün raporu imzaladığını duydum.,Müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Annemin yemeği yaktığını geç fark ettim.,Annemin yaktığını yemeği geç fark ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Arkadaşımın arabasını sattığını öğrendim.,Arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Çocukların topu kaçırdığını gördük.,Çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Adamın cep telefonunu düşürdüğünü gördüm.,Adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Kardeşimin anahtarları kaybettiğini anladık.,Kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Öğretmenin soruyu yanıtlamasını dinlediler.,Öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Çocuğun bardağı kırdığını kimse görmedi.,Çocuğun kırdığını bardağı kimse görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Müşterinin faturayı ödediğini söylediler.,Müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Kızının resim yaptığını bile bilmiyormuş.,Kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+İşçilerin duvarı örmesini izledik.,İşçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Öğrencilerin barikatı aşmasını izledim.,Öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Doktorun hastayı muayene ettiğini duydum.,Doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Kızım oyuncağını bozmasına üzüldü.,Kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Öğrencinin kitabı unuttuğunu fark ettim.,Öğrencinin unuttuğunu kitabı fark ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Müdürün kararı açıkladığını duydum.,Müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Adamın yalan söylediğini anladık.,Adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Çocuğun şekerleri yediğini gördüm.,Çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Teyzenin balkondaki çiçekleri suladığını gördüm.,Teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Müdür yardımcısının evrakları imzaladığını duydum.,Müdür yardımcısının imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Okul müdürünün öğrencileri azarlamasına inanamadık.,Okul müdürünün azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Kuzenimin yeni telefonunu kaybettiğini söyledi.,Kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+İşçilerin bahçedeki ağacı budamasını izlediler.,İşçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Çalışanların şikayetleri dinlemesini söyledi.,Çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Komşumuzun çitleri boyadığını fark ettim.,Komşumuzun boyadığını çitleri fark ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Öğrencilerin deney tüplerini kırdığını duydum.,Öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Dedemin tapu evraklarını bulduğunu öğrendik.,Dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Teknisyenin arızayı giderdiğini açıkladı.,Teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yöneticinin kararı ertelettiğini duyurdu.,Yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Kardeşimin bisikleti tamir ettiğini biliyorum.,Kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Çiftçilerin traktörleri sürdüğünü gördük.,Çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Garsonun siparişleri karıştırdığını fark ettiler.,Garsonun karıştırdığını siparişleri fark ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Küçük kızın şarkıyı yanlış söylemesine güldü.,Küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Müdürün yeni kararları açıkladığını bildirdi.,Müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Evde defterini unuttuğunu haber ettim.,Evde unuttuğunu defterini haber ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Öğretmenin soruları yanıtlamasını bekledik.,Öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Mimarın projeyi değiştirdiğini öğrendik.,Mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Kaptanın rotayı değiştirdiğini duyurdu.,Kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Çocukların oyuncakları paylaşmasını izledim.,Çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Müdürün toplantıyı iptal ettiğini duyurdular.,Müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Çocukların parktaki salıncağı kırdığını gördük.,Çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Yazarın yeni romanını bitirdiğini söyledi.,Yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Teknisyenlerin sistemi yenilediğini açıkladılar.,Teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Çalışan antika vazoyu kırdığını itiraf etti.,Çalışan kırdığını antika vazoyu itiraf etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Görevlinin evrakları kaybettiğini öğrendik.,Görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Çiftçilerin tarlayı sulamasına yardım ettiler.,Çiftçilerin sulamasına tarlayı yardım ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu fark ettik.,Garsonun unuttuğunu müşterinin siparişini fark ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Polislerin hırsızın izini sürdüğünü duyduk.,Polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Mimarın proje detaylarını değiştirdiğini öğrendik.,Mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Çocukların duvarı boyadığını gördüm.,Çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını haber verdi.,Öğretmenin açıkladığını sınav sonuçlarını haber verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Teknisyenin arızayı giderdiğini müjdeledi.,Teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yöneticinin kararı ertelediğini ilan etti.,Yöneticinin ertelediğini kararı ilan etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Kaptanın rotayı değiştirdiğini anons etti.,Kaptanın değiştirdiğini rotayı anons etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Müdürün hukuksuzluk yaptığını duyurdu.,Müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Eylemcilerin alanı temizlediğini gördük.,Eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Adayların görüşmeleri başarıyla tamamladığını duydum.,Adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Canlı destek müşterilerin şikayetlerini kaydettiğini iletti.,Canlı destek kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Mimarın proje için gerekli izinleri aldığını öğrendik.,Mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Belediye başkanının şehir planını revize ettiğini açıkladı.,Belediye başkanının ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Müdürün yeni çalışma saatlerini onayladığını duyurdu.,Müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini fark ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları fark ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Müdür yardımcısının önemli evrakları şifrelediğini öğrendik.,Müdür yardımcısının şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Polislerin şüphelinin izini sürdüğünü basına açıkladı.,Polislerin sürdüğünü şüphelinin izini basına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+İşçilerin greve çıkacağını haber verdi.,İşçilerin çıkacağını greve haber verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+Her fırsatta işini çok sevdiğini söyler.,Her fırsatta çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Seni dışarıya çıkmaya ikna etmiş sonunda.,Seni çıkmaya dışarıya ikna etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Babaaannem üniversiteyi kazanmana çok sevinmiş.,Babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling

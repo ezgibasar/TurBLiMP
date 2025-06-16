@@ -1,0 +1,1001 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Hasan'ın makaleyi yazdığını biliyorum.,Hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Otelde çarşafların değiştirildiğine emin olamadık.,Otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Kapıya gelen işportacının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen işportacının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kardeşinin doğruyu söylediğine inanıyor.,Kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Sizin de açılışa katılmanızı çok isteriz.,Sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Çocuklar bayramın gelmesini heyecanla bekliyor.,Çocuklar gelmesini bayramın heyecanla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Hep birlikte arabanın çıkarılmasına yardım ettik.,Hep birlikte çıkarılmasına arabanın yardım ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Her sabah aynı fırından ekmek aldığını söyledi.,Her sabah aynı fırından aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Okulun önünde çocukların karnelerini almasını bekliyoruz.,Okulun önünde çocukların almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Patronu arayıp bacağını kırdığını haber verdi.,Patronu arayıp kırdığını bacağını haber verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Müdürün projeyi onayladığını duydum.,Müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Köpeğin komşunun bahçesini kazdığını gördüm.,Köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Polislerin hırsızı yakaladığını duyduk.,Polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Doktorun ilacı yazdığını unutmuş.,Doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Annemin pastayı yaptığını sanıyordum.,Annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Müşterinin hesabı kapattığını öğrendik.,Müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Kardeşimin bisikleti çaldığını itiraf etti.,Kardeşimin çaldığını bisikleti itiraf etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Yolcuların valizlerini kaybettiğini duyurdu.,Yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Adamın cüzdanını düşürdüğünü gördüm.,Adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Çocuğun camı kırdığını kimse görmedi.,Çocuğun kırdığını camı kimse görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Yönetici maaşları ödediğini söyledi.,Yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Bebeğe mamasını yedirdiğini gördük.,Bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Garsonun siparişi yanlış getirdiğini fark ettik.,Garsonun yanlış getirdiğini siparişi fark ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Çocuğun köpeğini sevmesine izin verdi.,Çocuğun sevmesine köpeğini izin verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Kızın kedisini sevmesine izin verdi.,Kızın sevmesine kedisini izin verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Ufaklığın ödevlerini bitirmesine sevindim.,Ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Hizmetlinin odasını topladığını söyledi.,Hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Müdürün raporu imzaladığını duydum.,Müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Annemin yemeği yaktığını geç fark ettim.,Annemin yaktığını yemeği geç fark ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Arkadaşımın arabasını sattığını öğrendim.,Arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Çocukların topu kaçırdığını gördük.,Çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Adamın cep telefonunu düşürdüğünü gördüm.,Adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Kardeşimin anahtarları kaybettiğini anladık.,Kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Öğretmenin soruyu yanıtlamasını dinlediler.,Öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Çocuğun bardağı kırdığını kimse görmedi.,Çocuğun kırdığını bardağı kimse görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Müşterinin faturayı ödediğini söylediler.,Müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Kızının resim yaptığını bile bilmiyormuş.,Kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+İşçilerin duvarı örmesini izledik.,İşçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Öğrencilerin barikatı aşmasını izledim.,Öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Doktorun hastayı muayene ettiğini duydum.,Doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Kızım oyuncağını bozmasına üzüldü.,Kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Öğrencinin kitabı unuttuğunu fark ettim.,Öğrencinin unuttuğunu kitabı fark ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Müdürün kararı açıkladığını duydum.,Müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Adamın yalan söylediğini anladık.,Adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Çocuğun şekerleri yediğini gördüm.,Çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Teyzenin balkondaki çiçekleri suladığını gördüm.,Teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Müdür yardımcısının evrakları imzaladığını duydum.,Müdür yardımcısının imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Okul müdürünün öğrencileri azarlamasına inanamadık.,Okul müdürünün azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Kuzenimin yeni telefonunu kaybettiğini söyledi.,Kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+İşçilerin bahçedeki ağacı budamasını izlediler.,İşçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Çalışanların şikayetleri dinlemesini söyledi.,Çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Komşumuzun çitleri boyadığını fark ettim.,Komşumuzun boyadığını çitleri fark ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Öğrencilerin deney tüplerini kırdığını duydum.,Öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Dedemin tapu evraklarını bulduğunu öğrendik.,Dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Teknisyenin arızayı giderdiğini açıkladı.,Teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yöneticinin kararı ertelettiğini duyurdu.,Yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Kardeşimin bisikleti tamir ettiğini biliyorum.,Kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Çiftçilerin traktörleri sürdüğünü gördük.,Çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Garsonun siparişleri karıştırdığını fark ettiler.,Garsonun karıştırdığını siparişleri fark ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Küçük kızın şarkıyı yanlış söylemesine güldü.,Küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Müdürün yeni kararları açıkladığını bildirdi.,Müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Evde defterini unuttuğunu haber ettim.,Evde unuttuğunu defterini haber ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Öğretmenin soruları yanıtlamasını bekledik.,Öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Mimarın projeyi değiştirdiğini öğrendik.,Mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Kaptanın rotayı değiştirdiğini duyurdu.,Kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Çocukların oyuncakları paylaşmasını izledim.,Çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Müdürün toplantıyı iptal ettiğini duyurdular.,Müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Çocukların parktaki salıncağı kırdığını gördük.,Çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Yazarın yeni romanını bitirdiğini söyledi.,Yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Teknisyenlerin sistemi yenilediğini açıkladılar.,Teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Çalışan antika vazoyu kırdığını itiraf etti.,Çalışan kırdığını antika vazoyu itiraf etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Görevlinin evrakları kaybettiğini öğrendik.,Görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Çiftçilerin tarlayı sulamasına yardım ettiler.,Çiftçilerin sulamasına tarlayı yardım ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu fark ettik.,Garsonun unuttuğunu müşterinin siparişini fark ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Polislerin hırsızın izini sürdüğünü duyduk.,Polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Mimarın proje detaylarını değiştirdiğini öğrendik.,Mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Çocukların duvarı boyadığını gördüm.,Çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını haber verdi.,Öğretmenin açıkladığını sınav sonuçlarını haber verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Teknisyenin arızayı giderdiğini müjdeledi.,Teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yöneticinin kararı ertelediğini ilan etti.,Yöneticinin ertelediğini kararı ilan etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Kaptanın rotayı değiştirdiğini anons etti.,Kaptanın değiştirdiğini rotayı anons etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Müdürün hukuksuzluk yaptığını duyurdu.,Müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Eylemcilerin alanı temizlediğini gördük.,Eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Adayların görüşmeleri başarıyla tamamladığını duydum.,Adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Canlı destek müşterilerin şikayetlerini kaydettiğini iletti.,Canlı destek kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Mimarın proje için gerekli izinleri aldığını öğrendik.,Mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Belediye başkanının şehir planını revize ettiğini açıkladı.,Belediye başkanının ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Müdürün yeni çalışma saatlerini onayladığını duyurdu.,Müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini fark ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları fark ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Müdür yardımcısının önemli evrakları şifrelediğini öğrendik.,Müdür yardımcısının şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Polislerin şüphelinin izini sürdüğünü basına açıkladı.,Polislerin sürdüğünü şüphelinin izini basına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+İşçilerin greve çıkacağını haber verdi.,İşçilerin çıkacağını greve haber verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+Her fırsatta işini çok sevdiğini söyler.,Her fırsatta çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Seni dışarıya çıkmaya ikna etmiş sonunda.,Seni çıkmaya dışarıya ikna etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Babaaannem üniversiteyi kazanmana çok sevinmiş.,Babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Hasan'ın makaleyi yazdığını biliyorum.,Hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Yani hasan'ın makaleyi yazdığını biliyorum.,Yani hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Anlaşılan hasan'ın makaleyi yazdığını biliyorum.,Anlaşılan hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Görünüşe göre hasan'ın makaleyi yazdığını biliyorum.,Görünüşe göre hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Demek ki hasan'ın makaleyi yazdığını biliyorum.,Demek ki hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Öyle görünüyor ki hasan'ın makaleyi yazdığını biliyorum.,Öyle görünüyor ki hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Anlaşılıyor ki hasan'ın makaleyi yazdığını biliyorum.,Anlaşılıyor ki hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Belli ki hasan'ın makaleyi yazdığını biliyorum.,Belli ki hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Şu halde hasan'ın makaleyi yazdığını biliyorum.,Şu halde hasan'ın yazdığını makaleyi biliyorum.,makaleyi yazdığını ,yazdığını makaleyi,-,scrambling
+Otelde çarşafların değiştirildiğine emin olamadık.,Otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Yani otelde çarşafların değiştirildiğine emin olamadık.,Yani otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Görünüşe göre otelde çarşafların değiştirildiğine emin olamadık.,Görünüşe göre otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Belli ki otelde çarşafların değiştirildiğine emin olamadık.,Belli ki otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Anlaşılıyor ki otelde çarşafların değiştirildiğine emin olamadık.,Anlaşılıyor ki otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Demek ki otelde çarşafların değiştirildiğine emin olamadık.,Demek ki otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+O halde otelde çarşafların değiştirildiğine emin olamadık.,O halde otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Anlaşılan otelde çarşafların değiştirildiğine emin olamadık.,Anlaşılan otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Öyle görünüyor ki otelde çarşafların değiştirildiğine emin olamadık.,Öyle görünüyor ki otelde değiştirildiğine çarşafların emin olamadık.,çarşafların değiştirildiğine,değiştirildiğine çarşafların,-,scrambling
+Kapıya gelen babacının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen babacının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kapıya gelen secinin kendisini dolandırıldığını sonradan anladı.,Kapıya gelen secinin dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kapıya gelen satıcıcının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen satıcıcının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kapıya gelen esnafçının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen esnafçının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kapıya gelen malcının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen malcının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kapıya gelen acentecinin kendisini dolandırıldığını sonradan anladı.,Kapıya gelen acentecinin dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kapıya gelen işportacının kendisini dolandırıldığını sonradan anladı.,Kapıya gelen işportacının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Görünüşe göre kapıya gelen işportacının kendisini dolandırıldığını sonradan anladı.,Görünüşe göre kapıya gelen işportacının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Anlaşılıyor ki kapıya gelen işportacının kendisini dolandırıldığını sonradan anladı.,Anlaşılıyor ki kapıya gelen işportacının dolandırıldığını kendisini sonradan anladı.,kendisini dolandırıldığını,dolandırıldığını kendisini,-,scrambling
+Kardeşinin doğruyu söylediğine inanıyor.,Kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Anlaşılıyor ki kardeşinin doğruyu söylediğine inanıyor.,Anlaşılıyor ki kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Görünüşe göre kardeşinin doğruyu söylediğine inanıyor.,Görünüşe göre kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Belli ki kardeşinin doğruyu söylediğine inanıyor.,Belli ki kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Yani kardeşinin doğruyu söylediğine inanıyor.,Yani kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Şu halde kardeşinin doğruyu söylediğine inanıyor.,Şu halde kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Öyle görünüyor ki kardeşinin doğruyu söylediğine inanıyor.,Öyle görünüyor ki kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+O halde kardeşinin doğruyu söylediğine inanıyor.,O halde kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Demek ki kardeşinin doğruyu söylediğine inanıyor.,Demek ki kardeşinin söylediğine doğruyu inanıyor.,doğruyu söylediğine,söylediğine doğruyu,-,scrambling
+Belli ki sizin de açılışa katılmanızı çok isteriz.,Belli ki sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Anlaşılan sizin de açılışa katılmanızı çok isteriz.,Anlaşılan sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Demek ki sizin de açılışa katılmanızı çok isteriz.,Demek ki sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+O halde sizin de açılışa katılmanızı çok isteriz.,O halde sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Görünüşe göre sizin de açılışa katılmanızı çok isteriz.,Görünüşe göre sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Şu halde sizin de açılışa katılmanızı çok isteriz.,Şu halde sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Öyle görünüyor ki sizin de açılışa katılmanızı çok isteriz.,Öyle görünüyor ki sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Yani sizin de açılışa katılmanızı çok isteriz.,Yani sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Anlaşılıyor ki sizin de açılışa katılmanızı çok isteriz.,Anlaşılıyor ki sizin de katılmanızı açılışa çok isteriz.,açılışa katılmanızı,katılmanızı açılışa,-,scrambling
+Çocuklar bayramın gelmesini korkuyla bekliyor.,Çocuklar gelmesini bayramın korkuyla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini heyecanla bekliyor.,Çocuklar gelmesini bayramın heyecanla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini sabırla bekliyor.,Çocuklar gelmesini bayramın sabırla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini merakla bekliyor.,Çocuklar gelmesini bayramın merakla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini istekle bekliyor.,Çocuklar gelmesini bayramın istekle bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini hevesle bekliyor.,Çocuklar gelmesini bayramın hevesle bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini umutla bekliyor.,Çocuklar gelmesini bayramın umutla bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini hisle bekliyor.,Çocuklar gelmesini bayramın hisle bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Çocuklar bayramın gelmesini sevinçle bekliyor.,Çocuklar gelmesini bayramın sevinçle bekliyor.,bayramın gelmesini,gelmesini bayramın,-,scrambling
+Hep birlikte arabanın çıkarılmasına destektim ettik.,Hep birlikte çıkarılmasına arabanın destektim ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına tehlikeydim ettik.,Hep birlikte çıkarılmasına arabanın tehlikeydim ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına yataktım ettik.,Hep birlikte çıkarılmasına arabanın yataktım ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına tedaviydim ettik.,Hep birlikte çıkarılmasına arabanın tedaviydim ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına oydum ettik.,Hep birlikte çıkarılmasına arabanın oydum ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına tehdittim ettik.,Hep birlikte çıkarılmasına arabanın tehdittim ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına zarardım ettik.,Hep birlikte çıkarılmasına arabanın zarardım ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına ihtiyaçtım ettik.,Hep birlikte çıkarılmasına arabanın ihtiyaçtım ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Hep birlikte arabanın çıkarılmasına hasardım ettik.,Hep birlikte çıkarılmasına arabanın hasardım ettik.,arabanın çıkarılmasına,çıkarılmasına arabanın,-,scrambling
+Her gece aynı fırından ekmek aldığını söyledi.,Her gece aynı fırından aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı buzdolabından ekmek aldığını söyledi.,Her sabah aynı buzdolabından aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı ocağından ekmek aldığını söyledi.,Her sabah aynı ocağından aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı fabrikandan ekmek aldığını söyledi.,Her sabah aynı fabrikandan aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı evinden ekmek aldığını söyledi.,Her sabah aynı evinden aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı borundan ekmek aldığını söyledi.,Her sabah aynı borundan aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı servisinden ekmek aldığını söyledi.,Her sabah aynı servisinden aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı makinenden ekmek aldığını söyledi.,Her sabah aynı makinenden aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Her sabah aynı plastiğinden ekmek aldığını söyledi.,Her sabah aynı plastiğinden aldığını ekmek söyledi.,ekmek aldığını,aldığını ekmek,-,scrambling
+Okulun önünde bebeklerin karnelerini almasını bekliyoruz.,Okulun önünde bebeklerin almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde çocukların karnelerini almasını bekliyoruz.,Okulun önünde çocukların almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde ebeveynlerin karnelerini almasını bekliyoruz.,Okulun önünde ebeveynlerin almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde kadınların karnelerini almasını bekliyoruz.,Okulun önünde kadınların almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde erkeklerin karnelerini almasını bekliyoruz.,Okulun önünde erkeklerin almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde hayvanların karnelerini almasını bekliyoruz.,Okulun önünde hayvanların almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde ailelerin karnelerini almasını bekliyoruz.,Okulun önünde ailelerin almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde ergenlerin karnelerini almasını bekliyoruz.,Okulun önünde ergenlerin almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Okulun önünde insanların karnelerini almasını bekliyoruz.,Okulun önünde insanların almasını karnelerini bekliyoruz.,karnelerini almasını,almasını karnelerini,-,scrambling
+Patronu arayıp bacağını kırdığını gazete verdi.,Patronu arayıp kırdığını bacağını gazete verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını bilgi verdi.,Patronu arayıp kırdığını bacağını bilgi verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını yorum verdi.,Patronu arayıp kırdığını bacağını yorum verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını olay verdi.,Patronu arayıp kırdığını bacağını olay verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını telefon verdi.,Patronu arayıp kırdığını bacağını telefon verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını ses verdi.,Patronu arayıp kırdığını bacağını ses verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını bildiri verdi.,Patronu arayıp kırdığını bacağını bildiri verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını işaret verdi.,Patronu arayıp kırdığını bacağını işaret verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Patronu arayıp bacağını kırdığını ihbar verdi.,Patronu arayıp kırdığını bacağını ihbar verdi.,bacağını kırdığını,kırdığını bacağını,-,scrambling
+Müdürün projeyi onayladığını duydum.,Müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+O halde müdürün projeyi onayladığını duydum.,O halde müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Yani müdürün projeyi onayladığını duydum.,Yani müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Anlaşılıyor ki müdürün projeyi onayladığını duydum.,Anlaşılıyor ki müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Demek ki müdürün projeyi onayladığını duydum.,Demek ki müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Şu halde müdürün projeyi onayladığını duydum.,Şu halde müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Anlaşılan müdürün projeyi onayladığını duydum.,Anlaşılan müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Görünüşe göre müdürün projeyi onayladığını duydum.,Görünüşe göre müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Öyle görünüyor ki müdürün projeyi onayladığını duydum.,Öyle görünüyor ki müdürün onayladığını projeyi duydum.,projeyi onayladığını,onayladığını projeyi,-,scrambling  
+Köpeğin komşunun bahçesini kazdığını gördüm.,Köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Demek ki köpeğin komşunun bahçesini kazdığını gördüm.,Demek ki köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Anlaşılıyor ki köpeğin komşunun bahçesini kazdığını gördüm.,Anlaşılıyor ki köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Öyle görünüyor ki köpeğin komşunun bahçesini kazdığını gördüm.,Öyle görünüyor ki köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Görünüşe göre köpeğin komşunun bahçesini kazdığını gördüm.,Görünüşe göre köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Yani köpeğin komşunun bahçesini kazdığını gördüm.,Yani köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+O halde köpeğin komşunun bahçesini kazdığını gördüm.,O halde köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Belli ki köpeğin komşunun bahçesini kazdığını gördüm.,Belli ki köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Anlaşılan köpeğin komşunun bahçesini kazdığını gördüm.,Anlaşılan köpeğin kazdığını komşunun bahçesini gördüm.,komşunun bahçesini kazdığını,kazdığını komşunun bahçesini,-,scrambling  
+Polislerin hırsızı yakaladığını duyduk.,Polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Demek ki polislerin hırsızı yakaladığını duyduk.,Demek ki polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Anlaşılıyor ki polislerin hırsızı yakaladığını duyduk.,Anlaşılıyor ki polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+O halde polislerin hırsızı yakaladığını duyduk.,O halde polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Belli ki polislerin hırsızı yakaladığını duyduk.,Belli ki polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Görünüşe göre polislerin hırsızı yakaladığını duyduk.,Görünüşe göre polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Anlaşılan polislerin hırsızı yakaladığını duyduk.,Anlaşılan polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Yani polislerin hırsızı yakaladığını duyduk.,Yani polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Öyle görünüyor ki polislerin hırsızı yakaladığını duyduk.,Öyle görünüyor ki polislerin yakaladığını hırsızı duyduk.,hırsızı yakaladığını,yakaladığını hırsızı,-,scrambling  
+Doktorun ilacı yazdığını unutmuş.,Doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Yani doktorun ilacı yazdığını unutmuş.,Yani doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Şu halde doktorun ilacı yazdığını unutmuş.,Şu halde doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Görünüşe göre doktorun ilacı yazdığını unutmuş.,Görünüşe göre doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Anlaşılıyor ki doktorun ilacı yazdığını unutmuş.,Anlaşılıyor ki doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Demek ki doktorun ilacı yazdığını unutmuş.,Demek ki doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Anlaşılan doktorun ilacı yazdığını unutmuş.,Anlaşılan doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Öyle görünüyor ki doktorun ilacı yazdığını unutmuş.,Öyle görünüyor ki doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+O halde doktorun ilacı yazdığını unutmuş.,O halde doktorun yazdığını ilacı unutmuş.,ilacı yazdığını,yazdığını ilacı,-,scrambling  
+Annemin pastayı yaptığını sanıyordum.,Annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Görünüşe göre annemin pastayı yaptığını sanıyordum.,Görünüşe göre annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Öyle görünüyor ki annemin pastayı yaptığını sanıyordum.,Öyle görünüyor ki annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Anlaşılan annemin pastayı yaptığını sanıyordum.,Anlaşılan annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Şu halde annemin pastayı yaptığını sanıyordum.,Şu halde annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+O halde annemin pastayı yaptığını sanıyordum.,O halde annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Yani annemin pastayı yaptığını sanıyordum.,Yani annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Belli ki annemin pastayı yaptığını sanıyordum.,Belli ki annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Anlaşılıyor ki annemin pastayı yaptığını sanıyordum.,Anlaşılıyor ki annemin yaptığını pastayı sanıyordum.,pastayı yaptığını,yaptığını pastayı,-,scrambling  
+Müşterinin hesabı kapattığını öğrendik.,Müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Şu halde müşterinin hesabı kapattığını öğrendik.,Şu halde müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Anlaşılan müşterinin hesabı kapattığını öğrendik.,Anlaşılan müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Anlaşılıyor ki müşterinin hesabı kapattığını öğrendik.,Anlaşılıyor ki müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Demek ki müşterinin hesabı kapattığını öğrendik.,Demek ki müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Görünüşe göre müşterinin hesabı kapattığını öğrendik.,Görünüşe göre müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Yani müşterinin hesabı kapattığını öğrendik.,Yani müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Belli ki müşterinin hesabı kapattığını öğrendik.,Belli ki müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+O halde müşterinin hesabı kapattığını öğrendik.,O halde müşterinin kapattığını hesabı öğrendik.,hesabı kapattığını,kapattığını hesabı,-,scrambling  
+Kardeşimin bisikleti çaldığını itiraf etti.,Kardeşimin çaldığını bisikleti itiraf etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını ikrar etti.,Kardeşimin çaldığını bisikleti ikrar etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını kabul etti.,Kardeşimin çaldığını bisikleti kabul etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını iftira etti.,Kardeşimin çaldığını bisikleti iftira etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını ima etti.,Kardeşimin çaldığını bisikleti ima etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını ihbar etti.,Kardeşimin çaldığını bisikleti ihbar etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını iddia etti.,Kardeşimin çaldığını bisikleti iddia etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını delil etti.,Kardeşimin çaldığını bisikleti delil etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Kardeşimin bisikleti çaldığını beyan etti.,Kardeşimin çaldığını bisikleti beyan etti.,bisikleti çaldığını,çaldığını bisikleti,-,scrambling  
+Yolcuların valizlerini kaybettiğini duyurdu.,Yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Belli ki yolcuların valizlerini kaybettiğini duyurdu.,Belli ki yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Şu halde yolcuların valizlerini kaybettiğini duyurdu.,Şu halde yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+O halde yolcuların valizlerini kaybettiğini duyurdu.,O halde yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Anlaşılıyor ki yolcuların valizlerini kaybettiğini duyurdu.,Anlaşılıyor ki yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Öyle görünüyor ki yolcuların valizlerini kaybettiğini duyurdu.,Öyle görünüyor ki yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Yani yolcuların valizlerini kaybettiğini duyurdu.,Yani yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Anlaşılan yolcuların valizlerini kaybettiğini duyurdu.,Anlaşılan yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Demek ki yolcuların valizlerini kaybettiğini duyurdu.,Demek ki yolcuların kaybettiğini valizlerini duyurdu.,valizlerini kaybettiğini,kaybettiğini valizlerini,-,scrambling  
+Adamın cüzdanını düşürdüğünü gördüm.,Adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Anlaşılan adamın cüzdanını düşürdüğünü gördüm.,Anlaşılan adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Anlaşılıyor ki adamın cüzdanını düşürdüğünü gördüm.,Anlaşılıyor ki adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Belli ki adamın cüzdanını düşürdüğünü gördüm.,Belli ki adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Demek ki adamın cüzdanını düşürdüğünü gördüm.,Demek ki adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Şu halde adamın cüzdanını düşürdüğünü gördüm.,Şu halde adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Yani adamın cüzdanını düşürdüğünü gördüm.,Yani adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Öyle görünüyor ki adamın cüzdanını düşürdüğünü gördüm.,Öyle görünüyor ki adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+O halde adamın cüzdanını düşürdüğünü gördüm.,O halde adamın düşürdüğünü cüzdanını gördüm.,cüzdanını düşürdüğünü,düşürdüğünü cüzdanını,-,scrambling  
+Çocuğun camı kırdığını şey görmedi.,Çocuğun kırdığını camı şey görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını kişi görmedi.,Çocuğun kırdığını camı kişi görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını diğer görmedi.,Çocuğun kırdığını camı diğer görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını birşey görmedi.,Çocuğun kırdığını camı birşey görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını herşey görmedi.,Çocuğun kırdığını camı herşey görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını ada görmedi.,Çocuğun kırdığını camı ada görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını organ görmedi.,Çocuğun kırdığını camı organ görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Çocuğun camı kırdığını kimse görmedi.,Çocuğun kırdığını camı kimse görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Anlaşılıyor ki çocuğun camı kırdığını kimse görmedi.,Anlaşılıyor ki çocuğun kırdığını camı kimse görmedi.,camı kırdığını,kırdığını camı,-,scrambling  
+Demek ki yönetici maaşları ödediğini söyledi.,Demek ki yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+O halde yönetici maaşları ödediğini söyledi.,O halde yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Şu halde yönetici maaşları ödediğini söyledi.,Şu halde yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Öyle görünüyor ki yönetici maaşları ödediğini söyledi.,Öyle görünüyor ki yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Anlaşılıyor ki yönetici maaşları ödediğini söyledi.,Anlaşılıyor ki yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Görünüşe göre yönetici maaşları ödediğini söyledi.,Görünüşe göre yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Belli ki yönetici maaşları ödediğini söyledi.,Belli ki yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Anlaşılan yönetici maaşları ödediğini söyledi.,Anlaşılan yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Yani yönetici maaşları ödediğini söyledi.,Yani yönetici ödediğini maaşları söyledi.,maaşları ödediğini,ödediğini maaşları,-,scrambling  
+Bebeğe mamasını yedirdiğini gördük.,Bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Yani bebeğe mamasını yedirdiğini gördük.,Yani bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Anlaşılan bebeğe mamasını yedirdiğini gördük.,Anlaşılan bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Öyle görünüyor ki bebeğe mamasını yedirdiğini gördük.,Öyle görünüyor ki bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+O halde bebeğe mamasını yedirdiğini gördük.,O halde bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Şu halde bebeğe mamasını yedirdiğini gördük.,Şu halde bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Belli ki bebeğe mamasını yedirdiğini gördük.,Belli ki bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Görünüşe göre bebeğe mamasını yedirdiğini gördük.,Görünüşe göre bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Demek ki bebeğe mamasını yedirdiğini gördük.,Demek ki bebeğe yedirdiğini mamasını gördük.,mamasını yedirdiğini,yedirdiğini mamasını,-,scrambling  
+Garsonun siparişi yanlış getirdiğini eksik ettik.,Garsonun yanlış getirdiğini siparişi eksik ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini hata ettik.,Garsonun yanlış getirdiğini siparişi hata ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini noksan ettik.,Garsonun yanlış getirdiğini siparişi noksan ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini benzerlik ettik.,Garsonun yanlış getirdiğini siparişi benzerlik ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini engel ettik.,Garsonun yanlış getirdiğini siparişi engel ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini durum ettik.,Garsonun yanlış getirdiğini siparişi durum ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini bozuk ettik.,Garsonun yanlış getirdiğini siparişi bozuk ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini uygun ettik.,Garsonun yanlış getirdiğini siparişi uygun ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Garsonun siparişi yanlış getirdiğini fark ettik.,Garsonun yanlış getirdiğini siparişi fark ettik.,siparişi yanlış getirdiğini,yanlış getirdiğini siparişi,-,scrambling
+Çocuğun köpeğini sevmesine iptalin verdi.,Çocuğun sevmesine köpeğini iptalin verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine onayın verdi.,Çocuğun sevmesine köpeğini onayın verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine yetkinin verdi.,Çocuğun sevmesine köpeğini yetkinin verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine ruhsatın verdi.,Çocuğun sevmesine köpeğini ruhsatın verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine talebin verdi.,Çocuğun sevmesine köpeğini talebin verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine cezanın verdi.,Çocuğun sevmesine köpeğini cezanın verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine istisnanın verdi.,Çocuğun sevmesine köpeğini istisnanın verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine kabulün verdi.,Çocuğun sevmesine köpeğini kabulün verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Çocuğun köpeğini sevmesine itirazın verdi.,Çocuğun sevmesine köpeğini itirazın verdi.,köpeğini sevmesine,sevmesine köpeğini,-,scrambling  
+Kızın kedisini sevmesine iptalin verdi.,Kızın sevmesine kedisini iptalin verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine onayın verdi.,Kızın sevmesine kedisini onayın verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine yetkinin verdi.,Kızın sevmesine kedisini yetkinin verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine ruhsatın verdi.,Kızın sevmesine kedisini ruhsatın verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine talebin verdi.,Kızın sevmesine kedisini talebin verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine cezanın verdi.,Kızın sevmesine kedisini cezanın verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine istisnanın verdi.,Kızın sevmesine kedisini istisnanın verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine kabulün verdi.,Kızın sevmesine kedisini kabulün verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Kızın kedisini sevmesine itirazın verdi.,Kızın sevmesine kedisini itirazın verdi.,kedisini sevmesine,sevmesine kedisini,-,scrambling 
+Ufaklığın ödevlerini bitirmesine sevindim.,Ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Anlaşılan ufaklığın ödevlerini bitirmesine sevindim.,Anlaşılan ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Anlaşılıyor ki ufaklığın ödevlerini bitirmesine sevindim.,Anlaşılıyor ki ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Belli ki ufaklığın ödevlerini bitirmesine sevindim.,Belli ki ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Yani ufaklığın ödevlerini bitirmesine sevindim.,Yani ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+O halde ufaklığın ödevlerini bitirmesine sevindim.,O halde ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Şu halde ufaklığın ödevlerini bitirmesine sevindim.,Şu halde ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Demek ki ufaklığın ödevlerini bitirmesine sevindim.,Demek ki ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Görünüşe göre ufaklığın ödevlerini bitirmesine sevindim.,Görünüşe göre ufaklığın bitirmesine ödevlerini sevindim.,ödevlerini bitirmesine,bitirmesine ödevlerini,-,scrambling  
+Hizmetlinin odasını topladığını söyledi.,Hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Belli ki hizmetlinin odasını topladığını söyledi.,Belli ki hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Anlaşılıyor ki hizmetlinin odasını topladığını söyledi.,Anlaşılıyor ki hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Demek ki hizmetlinin odasını topladığını söyledi.,Demek ki hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Anlaşılan hizmetlinin odasını topladığını söyledi.,Anlaşılan hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Görünüşe göre hizmetlinin odasını topladığını söyledi.,Görünüşe göre hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Öyle görünüyor ki hizmetlinin odasını topladığını söyledi.,Öyle görünüyor ki hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+O halde hizmetlinin odasını topladığını söyledi.,O halde hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Yani hizmetlinin odasını topladığını söyledi.,Yani hizmetlinin topladığını odasını söyledi.,odasını topladığını,topladığını odasını,-,scrambling  
+Müdürün raporu imzaladığını duydum.,Müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Görünüşe göre müdürün raporu imzaladığını duydum.,Görünüşe göre müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Şu halde müdürün raporu imzaladığını duydum.,Şu halde müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Belli ki müdürün raporu imzaladığını duydum.,Belli ki müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Yani müdürün raporu imzaladığını duydum.,Yani müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Öyle görünüyor ki müdürün raporu imzaladığını duydum.,Öyle görünüyor ki müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Demek ki müdürün raporu imzaladığını duydum.,Demek ki müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+O halde müdürün raporu imzaladığını duydum.,O halde müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Anlaşılan müdürün raporu imzaladığını duydum.,Anlaşılan müdürün imzaladığını raporu duydum.,raporu imzaladığını,imzaladığını raporu,-,scrambling  
+Annemin yemeği yaktığını geç fark ettim.,Annemin yaktığını yemeği geç fark ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç eksik ettim.,Annemin yaktığını yemeği geç eksik ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç hata ettim.,Annemin yaktığını yemeği geç hata ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç noksan ettim.,Annemin yaktığını yemeği geç noksan ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç benzerlik ettim.,Annemin yaktığını yemeği geç benzerlik ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç engel ettim.,Annemin yaktığını yemeği geç engel ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç durum ettim.,Annemin yaktığını yemeği geç durum ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç bozuk ettim.,Annemin yaktığını yemeği geç bozuk ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Annemin yemeği yaktığını geç uygun ettim.,Annemin yaktığını yemeği geç uygun ettim.,yemeği yaktığını,yaktığını yemeği,-,scrambling  
+Arkadaşımın arabasını sattığını öğrendim.,Arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Şu halde arkadaşımın arabasını sattığını öğrendim.,Şu halde arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Anlaşılıyor ki arkadaşımın arabasını sattığını öğrendim.,Anlaşılıyor ki arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Demek ki arkadaşımın arabasını sattığını öğrendim.,Demek ki arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Öyle görünüyor ki arkadaşımın arabasını sattığını öğrendim.,Öyle görünüyor ki arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Belli ki arkadaşımın arabasını sattığını öğrendim.,Belli ki arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Görünüşe göre arkadaşımın arabasını sattığını öğrendim.,Görünüşe göre arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Anlaşılan arkadaşımın arabasını sattığını öğrendim.,Anlaşılan arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Yani arkadaşımın arabasını sattığını öğrendim.,Yani arkadaşımın sattığını arabasını öğrendim.,arabasını sattığını,sattığını arabasını,-,scrambling  
+Çocukların topu kaçırdığını gördük.,Çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Anlaşılıyor ki çocukların topu kaçırdığını gördük.,Anlaşılıyor ki çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Demek ki çocukların topu kaçırdığını gördük.,Demek ki çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Belli ki çocukların topu kaçırdığını gördük.,Belli ki çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Anlaşılan çocukların topu kaçırdığını gördük.,Anlaşılan çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+O halde çocukların topu kaçırdığını gördük.,O halde çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Görünüşe göre çocukların topu kaçırdığını gördük.,Görünüşe göre çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Şu halde çocukların topu kaçırdığını gördük.,Şu halde çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Öyle görünüyor ki çocukların topu kaçırdığını gördük.,Öyle görünüyor ki çocukların kaçırdığını topu gördük.,topu kaçırdığını,kaçırdığını topu,-,scrambling  
+Adamın cep telefonunu düşürdüğünü gördüm.,Adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Anlaşılan adamın cep telefonunu düşürdüğünü gördüm.,Anlaşılan adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Görünüşe göre adamın cep telefonunu düşürdüğünü gördüm.,Görünüşe göre adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Yani adamın cep telefonunu düşürdüğünü gördüm.,Yani adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Şu halde adamın cep telefonunu düşürdüğünü gördüm.,Şu halde adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Belli ki adamın cep telefonunu düşürdüğünü gördüm.,Belli ki adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Öyle görünüyor ki adamın cep telefonunu düşürdüğünü gördüm.,Öyle görünüyor ki adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Demek ki adamın cep telefonunu düşürdüğünü gördüm.,Demek ki adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+O halde adamın cep telefonunu düşürdüğünü gördüm.,O halde adamın düşürdüğünü cep telefonunu gördüm.,cep telefonunu düşürdüğünü,düşürdüğünü cep telefonunu,-,scrambling  
+Kardeşimin anahtarları kaybettiğini anladık.,Kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Demek ki kardeşimin anahtarları kaybettiğini anladık.,Demek ki kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Öyle görünüyor ki kardeşimin anahtarları kaybettiğini anladık.,Öyle görünüyor ki kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Anlaşılan kardeşimin anahtarları kaybettiğini anladık.,Anlaşılan kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Anlaşılıyor ki kardeşimin anahtarları kaybettiğini anladık.,Anlaşılıyor ki kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Şu halde kardeşimin anahtarları kaybettiğini anladık.,Şu halde kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Görünüşe göre kardeşimin anahtarları kaybettiğini anladık.,Görünüşe göre kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Belli ki kardeşimin anahtarları kaybettiğini anladık.,Belli ki kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+O halde kardeşimin anahtarları kaybettiğini anladık.,O halde kardeşimin kaybettiğini anahtarları anladık.,anahtarları kaybettiğini,kaybettiğini anahtarları,-,scrambling  
+Öğretmenin soruyu yanıtlamasını dinlediler.,Öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Anlaşılan öğretmenin soruyu yanıtlamasını dinlediler.,Anlaşılan öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Demek ki öğretmenin soruyu yanıtlamasını dinlediler.,Demek ki öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Belli ki öğretmenin soruyu yanıtlamasını dinlediler.,Belli ki öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+O halde öğretmenin soruyu yanıtlamasını dinlediler.,O halde öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Şu halde öğretmenin soruyu yanıtlamasını dinlediler.,Şu halde öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Görünüşe göre öğretmenin soruyu yanıtlamasını dinlediler.,Görünüşe göre öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Öyle görünüyor ki öğretmenin soruyu yanıtlamasını dinlediler.,Öyle görünüyor ki öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Anlaşılıyor ki öğretmenin soruyu yanıtlamasını dinlediler.,Anlaşılıyor ki öğretmenin yanıtlamasını soruyu dinlediler.,soruyu yanıtlamasını,yanıtlamasını soruyu,-,scrambling  
+Çocuğun bardağı kırdığını şey görmedi.,Çocuğun kırdığını bardağı şey görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını kişi görmedi.,Çocuğun kırdığını bardağı kişi görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını diğer görmedi.,Çocuğun kırdığını bardağı diğer görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını birşey görmedi.,Çocuğun kırdığını bardağı birşey görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını herşey görmedi.,Çocuğun kırdığını bardağı herşey görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını ada görmedi.,Çocuğun kırdığını bardağı ada görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını organ görmedi.,Çocuğun kırdığını bardağı organ görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Çocuğun bardağı kırdığını kimse görmedi.,Çocuğun kırdığını bardağı kimse görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Demek ki çocuğun bardağı kırdığını kimse görmedi.,Demek ki çocuğun kırdığını bardağı kimse görmedi.,bardağı kırdığını,kırdığını bardağı,-,scrambling  
+Müşterinin faturayı ödediğini söylediler.,Müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Belli ki müşterinin faturayı ödediğini söylediler.,Belli ki müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Şu halde müşterinin faturayı ödediğini söylediler.,Şu halde müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Demek ki müşterinin faturayı ödediğini söylediler.,Demek ki müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Anlaşılan müşterinin faturayı ödediğini söylediler.,Anlaşılan müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Anlaşılıyor ki müşterinin faturayı ödediğini söylediler.,Anlaşılıyor ki müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Öyle görünüyor ki müşterinin faturayı ödediğini söylediler.,Öyle görünüyor ki müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Yani müşterinin faturayı ödediğini söylediler.,Yani müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Görünüşe göre müşterinin faturayı ödediğini söylediler.,Görünüşe göre müşterinin ödediğini faturayı söylediler.,faturayı ödediğini,ödediğini faturayı,-,scrambling  
+Kızının resim yaptığını bile bilmiyormuş.,Kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+O halde kızının resim yaptığını bile bilmiyormuş.,O halde kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Görünüşe göre kızının resim yaptığını bile bilmiyormuş.,Görünüşe göre kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Anlaşılan kızının resim yaptığını bile bilmiyormuş.,Anlaşılan kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Yani kızının resim yaptığını bile bilmiyormuş.,Yani kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Öyle görünüyor ki kızının resim yaptığını bile bilmiyormuş.,Öyle görünüyor ki kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Anlaşılıyor ki kızının resim yaptığını bile bilmiyormuş.,Anlaşılıyor ki kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Belli ki kızının resim yaptığını bile bilmiyormuş.,Belli ki kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+Şu halde kızının resim yaptığını bile bilmiyormuş.,Şu halde kızının yaptığını resim bile bilmiyormuş,resim yaptığını,yaptığını resim,-,scrambling  
+İşçilerin duvarı örmesini izledik.,İşçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Belli ki i̇şçilerin duvarı örmesini izledik.,Belli ki i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Anlaşılıyor ki i̇şçilerin duvarı örmesini izledik.,Anlaşılıyor ki i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Anlaşılan i̇şçilerin duvarı örmesini izledik.,Anlaşılan i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Yani i̇şçilerin duvarı örmesini izledik.,Yani i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Demek ki i̇şçilerin duvarı örmesini izledik.,Demek ki i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Şu halde i̇şçilerin duvarı örmesini izledik.,Şu halde i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Görünüşe göre i̇şçilerin duvarı örmesini izledik.,Görünüşe göre i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+O halde i̇şçilerin duvarı örmesini izledik.,O halde i̇şçilerin örmesini duvarı izledik.,duvarı örmesini,örmesini duvarı,-,scrambling  
+Öğrencilerin barikatı aşmasını izledim.,Öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Şu halde öğrencilerin barikatı aşmasını izledim.,Şu halde öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Belli ki öğrencilerin barikatı aşmasını izledim.,Belli ki öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Demek ki öğrencilerin barikatı aşmasını izledim.,Demek ki öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Öyle görünüyor ki öğrencilerin barikatı aşmasını izledim.,Öyle görünüyor ki öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Görünüşe göre öğrencilerin barikatı aşmasını izledim.,Görünüşe göre öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Yani öğrencilerin barikatı aşmasını izledim.,Yani öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+O halde öğrencilerin barikatı aşmasını izledim.,O halde öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Anlaşılıyor ki öğrencilerin barikatı aşmasını izledim.,Anlaşılıyor ki öğrencilerin aşmasını barikatı izledim.,barikatı aşmasını,aşmasını barikatı,-,scrambling  
+Doktorun hastayı muayene ettiğini duydum.,Doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Görünüşe göre doktorun hastayı muayene ettiğini duydum.,Görünüşe göre doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Belli ki doktorun hastayı muayene ettiğini duydum.,Belli ki doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+O halde doktorun hastayı muayene ettiğini duydum.,O halde doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Şu halde doktorun hastayı muayene ettiğini duydum.,Şu halde doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Demek ki doktorun hastayı muayene ettiğini duydum.,Demek ki doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Anlaşılıyor ki doktorun hastayı muayene ettiğini duydum.,Anlaşılıyor ki doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Anlaşılan doktorun hastayı muayene ettiğini duydum.,Anlaşılan doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Öyle görünüyor ki doktorun hastayı muayene ettiğini duydum.,Öyle görünüyor ki doktorun muayene ettiğini hastayı duydum.,hastayı muayene ettiğini,muayane ettiğini hastayı,-,scrambling  
+Kızım oyuncağını bozmasına üzüldü.,Kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Görünüşe göre kızım oyuncağını bozmasına üzüldü.,Görünüşe göre kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+O halde kızım oyuncağını bozmasına üzüldü.,O halde kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Öyle görünüyor ki kızım oyuncağını bozmasına üzüldü.,Öyle görünüyor ki kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Yani kızım oyuncağını bozmasına üzüldü.,Yani kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Anlaşılan kızım oyuncağını bozmasına üzüldü.,Anlaşılan kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Anlaşılıyor ki kızım oyuncağını bozmasına üzüldü.,Anlaşılıyor ki kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Belli ki kızım oyuncağını bozmasına üzüldü.,Belli ki kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Şu halde kızım oyuncağını bozmasına üzüldü.,Şu halde kızım bozmasına oyuncağını üzüldü.,oyuncağını bozmasına,bozmasına oyuncağını,-,scrambling  
+Öğrencinin kitabı unuttuğunu eksik ettim.,Öğrencinin unuttuğunu kitabı eksik ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu hata ettim.,Öğrencinin unuttuğunu kitabı hata ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu noksan ettim.,Öğrencinin unuttuğunu kitabı noksan ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu benzerlik ettim.,Öğrencinin unuttuğunu kitabı benzerlik ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu engel ettim.,Öğrencinin unuttuğunu kitabı engel ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu durum ettim.,Öğrencinin unuttuğunu kitabı durum ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu bozuk ettim.,Öğrencinin unuttuğunu kitabı bozuk ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu uygun ettim.,Öğrencinin unuttuğunu kitabı uygun ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Öğrencinin kitabı unuttuğunu fark ettim.,Öğrencinin unuttuğunu kitabı fark ettim.,kitabı unuttuğunu,unuttuğunu kitabı,-,scrambling  
+Müdürün kararı açıkladığını duydum.,Müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Belli ki müdürün kararı açıkladığını duydum.,Belli ki müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Anlaşılıyor ki müdürün kararı açıkladığını duydum.,Anlaşılıyor ki müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Demek ki müdürün kararı açıkladığını duydum.,Demek ki müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Öyle görünüyor ki müdürün kararı açıkladığını duydum.,Öyle görünüyor ki müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Şu halde müdürün kararı açıkladığını duydum.,Şu halde müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Yani müdürün kararı açıkladığını duydum.,Yani müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+O halde müdürün kararı açıkladığını duydum.,O halde müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Anlaşılan müdürün kararı açıkladığını duydum.,Anlaşılan müdürün açıkladığını kararı duydum.,kararı açıkladığını,açıkladığını kararı,-,scrambling  
+Adamın yalan söylediğini anladık.,Adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Şu halde adamın yalan söylediğini anladık.,Şu halde adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Görünüşe göre adamın yalan söylediğini anladık.,Görünüşe göre adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+O halde adamın yalan söylediğini anladık.,O halde adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Yani adamın yalan söylediğini anladık.,Yani adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Belli ki adamın yalan söylediğini anladık.,Belli ki adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Anlaşılan adamın yalan söylediğini anladık.,Anlaşılan adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Öyle görünüyor ki adamın yalan söylediğini anladık.,Öyle görünüyor ki adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Anlaşılıyor ki adamın yalan söylediğini anladık.,Anlaşılıyor ki adamın söylediğini yalan anladık.,yalan söylediğini,söylediğini yalan,-,scrambling  
+Çocuğun şekerleri yediğini gördüm.,Çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Belli ki çocuğun şekerleri yediğini gördüm.,Belli ki çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Görünüşe göre çocuğun şekerleri yediğini gördüm.,Görünüşe göre çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Şu halde çocuğun şekerleri yediğini gördüm.,Şu halde çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Anlaşılan çocuğun şekerleri yediğini gördüm.,Anlaşılan çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Yani çocuğun şekerleri yediğini gördüm.,Yani çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Demek ki çocuğun şekerleri yediğini gördüm.,Demek ki çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Anlaşılıyor ki çocuğun şekerleri yediğini gördüm.,Anlaşılıyor ki çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Öyle görünüyor ki çocuğun şekerleri yediğini gördüm.,Öyle görünüyor ki çocuğun yediğini şekerleri gördüm.,şekerleri yediğini,yediğini şekerleri,-,scrambling
+Teyzenin balkondaki çiçekleri suladığını gördüm.,Teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Anlaşılan teyzenin balkondaki çiçekleri suladığını gördüm.,Anlaşılan teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+O halde teyzenin balkondaki çiçekleri suladığını gördüm.,O halde teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Öyle görünüyor ki teyzenin balkondaki çiçekleri suladığını gördüm.,Öyle görünüyor ki teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Şu halde teyzenin balkondaki çiçekleri suladığını gördüm.,Şu halde teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Görünüşe göre teyzenin balkondaki çiçekleri suladığını gördüm.,Görünüşe göre teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Anlaşılıyor ki teyzenin balkondaki çiçekleri suladığını gördüm.,Anlaşılıyor ki teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Belli ki teyzenin balkondaki çiçekleri suladığını gördüm.,Belli ki teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Yani teyzenin balkondaki çiçekleri suladığını gördüm.,Yani teyzenin suladığını balkondaki çiçekleri gördüm.,balkondaki çiçekleri suladığını,suladığını balkondaki çiçekleri,-,scrambling
+Müdür vekilinin evrakları imzaladığını duydum.,Müdür vekilinin imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür avukatının evrakları imzaladığını duydum.,Müdür avukatının imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür yetkilisinin evrakları imzaladığını duydum.,Müdür yetkilisinin imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür kızının evrakları imzaladığını duydum.,Müdür kızının imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür dostunun evrakları imzaladığını duydum.,Müdür dostunun imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür temsilcisinin evrakları imzaladığını duydum.,Müdür temsilcisinin imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür yakınının evrakları imzaladığını duydum.,Müdür yakınının imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Müdür sekreterinin evrakları imzaladığını duydum.,Müdür sekreterinin imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Anlaşılan müdür yardımcısının evrakları imzaladığını duydum.,Anlaşılan müdür yardımcısının imzaladığını evrakları duydum.,evrakları imzaladığını,imzaladığını evrakları,-,scrambling
+Okul müdürünün öğrencileri azarlamasına inanamadık.,Okul müdürünün azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul yardımcının öğrencileri azarlamasına inanamadık.,Okul yardımcının azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul vekilinin öğrencileri azarlamasına inanamadık.,Okul vekilinin azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul yetkilinin öğrencileri azarlamasına inanamadık.,Okul yetkilinin azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul amirinin öğrencileri azarlamasına inanamadık.,Okul amirinin azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul personelinin öğrencileri azarlamasına inanamadık.,Okul personelinin azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul kızının öğrencileri azarlamasına inanamadık.,Okul kızının azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Okul sekreterinin öğrencileri azarlamasına inanamadık.,Okul sekreterinin azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Şu halde okul müdürünün öğrencileri azarlamasına inanamadık.,Şu halde okul müdürünün azarlamasına öğrencileri inanamadık.,öğrencileri azarlamasına,azarlamasına öğrencileri,-,scrambling
+Kuzenimin yeni telefonunu kaybettiğini söyledi.,Kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Görünüşe göre kuzenimin yeni telefonunu kaybettiğini söyledi.,Görünüşe göre kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Belli ki kuzenimin yeni telefonunu kaybettiğini söyledi.,Belli ki kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Öyle görünüyor ki kuzenimin yeni telefonunu kaybettiğini söyledi.,Öyle görünüyor ki kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Demek ki kuzenimin yeni telefonunu kaybettiğini söyledi.,Demek ki kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+O halde kuzenimin yeni telefonunu kaybettiğini söyledi.,O halde kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Yani kuzenimin yeni telefonunu kaybettiğini söyledi.,Yani kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Anlaşılan kuzenimin yeni telefonunu kaybettiğini söyledi.,Anlaşılan kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+Şu halde kuzenimin yeni telefonunu kaybettiğini söyledi.,Şu halde kuzenimin kaybettiğini yeni telefonunu söyledi.,yeni telefonunu kaybettiğini,kaybettiğini yeni telefonunu,-,scrambling
+İşçilerin bahçedeki ağacı budamasını izlediler.,İşçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Görünüşe göre i̇şçilerin bahçedeki ağacı budamasını izlediler.,Görünüşe göre i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+O halde i̇şçilerin bahçedeki ağacı budamasını izlediler.,O halde i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Anlaşılan i̇şçilerin bahçedeki ağacı budamasını izlediler.,Anlaşılan i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Demek ki i̇şçilerin bahçedeki ağacı budamasını izlediler.,Demek ki i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Anlaşılıyor ki i̇şçilerin bahçedeki ağacı budamasını izlediler.,Anlaşılıyor ki i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Şu halde i̇şçilerin bahçedeki ağacı budamasını izlediler.,Şu halde i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Belli ki i̇şçilerin bahçedeki ağacı budamasını izlediler.,Belli ki i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Öyle görünüyor ki i̇şçilerin bahçedeki ağacı budamasını izlediler.,Öyle görünüyor ki i̇şçilerin budamasını bahçedeki ağacı izlediler.,bahçedeki ağacı budamasını,budamasını bahçedeki ağacı,-,scrambling
+Anlaşılıyor ki çalışanların şikayetleri dinlemesini söyledi.,Anlaşılıyor ki çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Görünüşe göre çalışanların şikayetleri dinlemesini söyledi.,Görünüşe göre çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Öyle görünüyor ki çalışanların şikayetleri dinlemesini söyledi.,Öyle görünüyor ki çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+O halde çalışanların şikayetleri dinlemesini söyledi.,O halde çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Demek ki çalışanların şikayetleri dinlemesini söyledi.,Demek ki çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Şu halde çalışanların şikayetleri dinlemesini söyledi.,Şu halde çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Yani çalışanların şikayetleri dinlemesini söyledi.,Yani çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Belli ki çalışanların şikayetleri dinlemesini söyledi.,Belli ki çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Anlaşılan çalışanların şikayetleri dinlemesini söyledi.,Anlaşılan çalışanların dinlemesini şikayetleri söyledi.,şikayetleri dinlemesini,dinlemesini şikayetleri,-,scrambling
+Komşumuzun çitleri boyadığını eksik ettim.,Komşumuzun boyadığını çitleri eksik ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını hata ettim.,Komşumuzun boyadığını çitleri hata ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını noksan ettim.,Komşumuzun boyadığını çitleri noksan ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını benzerlik ettim.,Komşumuzun boyadığını çitleri benzerlik ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını engel ettim.,Komşumuzun boyadığını çitleri engel ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını durum ettim.,Komşumuzun boyadığını çitleri durum ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını bozuk ettim.,Komşumuzun boyadığını çitleri bozuk ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını uygun ettim.,Komşumuzun boyadığını çitleri uygun ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Komşumuzun çitleri boyadığını fark ettim.,Komşumuzun boyadığını çitleri fark ettim.,çitleri boyadığını,boyadığını çitleri,-,scrambling
+Öğrencilerin deney tüplerini kırdığını duydum.,Öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Öyle görünüyor ki öğrencilerin deney tüplerini kırdığını duydum.,Öyle görünüyor ki öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Demek ki öğrencilerin deney tüplerini kırdığını duydum.,Demek ki öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Şu halde öğrencilerin deney tüplerini kırdığını duydum.,Şu halde öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Anlaşılan öğrencilerin deney tüplerini kırdığını duydum.,Anlaşılan öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Anlaşılıyor ki öğrencilerin deney tüplerini kırdığını duydum.,Anlaşılıyor ki öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Görünüşe göre öğrencilerin deney tüplerini kırdığını duydum.,Görünüşe göre öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+O halde öğrencilerin deney tüplerini kırdığını duydum.,O halde öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Belli ki öğrencilerin deney tüplerini kırdığını duydum.,Belli ki öğrencilerin kırdığını deney tüplerini duydum.,deney tüplerini kırdığını,kırdığını deney tüplerini,-,scrambling
+Dedemin tapu evraklarını bulduğunu öğrendik.,Dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Şu halde dedemin tapu evraklarını bulduğunu öğrendik.,Şu halde dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+O halde dedemin tapu evraklarını bulduğunu öğrendik.,O halde dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Görünüşe göre dedemin tapu evraklarını bulduğunu öğrendik.,Görünüşe göre dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Öyle görünüyor ki dedemin tapu evraklarını bulduğunu öğrendik.,Öyle görünüyor ki dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Demek ki dedemin tapu evraklarını bulduğunu öğrendik.,Demek ki dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Anlaşılıyor ki dedemin tapu evraklarını bulduğunu öğrendik.,Anlaşılıyor ki dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Belli ki dedemin tapu evraklarını bulduğunu öğrendik.,Belli ki dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Yani dedemin tapu evraklarını bulduğunu öğrendik.,Yani dedemin bulduğunu tapu evraklarını öğrendik.,tapu evraklarını bulduğunu,bulduğunu tapu evraklarını,-,scrambling
+Teknisyenin arızayı giderdiğini açıkladı.,Teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Şu halde teknisyenin arızayı giderdiğini açıkladı.,Şu halde teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Belli ki teknisyenin arızayı giderdiğini açıkladı.,Belli ki teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Anlaşılan teknisyenin arızayı giderdiğini açıkladı.,Anlaşılan teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Demek ki teknisyenin arızayı giderdiğini açıkladı.,Demek ki teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Öyle görünüyor ki teknisyenin arızayı giderdiğini açıkladı.,Öyle görünüyor ki teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Görünüşe göre teknisyenin arızayı giderdiğini açıkladı.,Görünüşe göre teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yani teknisyenin arızayı giderdiğini açıkladı.,Yani teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+O halde teknisyenin arızayı giderdiğini açıkladı.,O halde teknisyenin giderdiğini arızayı açıkladı.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yani yöneticinin kararı ertelettiğini duyurdu.,Yani yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Görünüşe göre yöneticinin kararı ertelettiğini duyurdu.,Görünüşe göre yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Belli ki yöneticinin kararı ertelettiğini duyurdu.,Belli ki yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Anlaşılıyor ki yöneticinin kararı ertelettiğini duyurdu.,Anlaşılıyor ki yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Öyle görünüyor ki yöneticinin kararı ertelettiğini duyurdu.,Öyle görünüyor ki yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Anlaşılan yöneticinin kararı ertelettiğini duyurdu.,Anlaşılan yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Şu halde yöneticinin kararı ertelettiğini duyurdu.,Şu halde yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+O halde yöneticinin kararı ertelettiğini duyurdu.,O halde yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Demek ki yöneticinin kararı ertelettiğini duyurdu.,Demek ki yöneticinin ertelettiğini kararı duyurdu.,kararı ertelettiğini,ertelettiğini kararı,-,scrambling
+Kardeşimin bisikleti tamir ettiğini biliyorum.,Kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Görünüşe göre kardeşimin bisikleti tamir ettiğini biliyorum.,Görünüşe göre kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Anlaşılan kardeşimin bisikleti tamir ettiğini biliyorum.,Anlaşılan kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Şu halde kardeşimin bisikleti tamir ettiğini biliyorum.,Şu halde kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Anlaşılıyor ki kardeşimin bisikleti tamir ettiğini biliyorum.,Anlaşılıyor ki kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+O halde kardeşimin bisikleti tamir ettiğini biliyorum.,O halde kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Öyle görünüyor ki kardeşimin bisikleti tamir ettiğini biliyorum.,Öyle görünüyor ki kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Belli ki kardeşimin bisikleti tamir ettiğini biliyorum.,Belli ki kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Demek ki kardeşimin bisikleti tamir ettiğini biliyorum.,Demek ki kardeşimin tamir ettiğini bisikleti biliyorum.,bisikleti tamir ettiğini,tamir ettiğini bisikleti,-,scrambling
+Çiftçilerin traktörleri sürdüğünü gördük.,Çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Görünüşe göre çiftçilerin traktörleri sürdüğünü gördük.,Görünüşe göre çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Anlaşılan çiftçilerin traktörleri sürdüğünü gördük.,Anlaşılan çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Belli ki çiftçilerin traktörleri sürdüğünü gördük.,Belli ki çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Şu halde çiftçilerin traktörleri sürdüğünü gördük.,Şu halde çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Demek ki çiftçilerin traktörleri sürdüğünü gördük.,Demek ki çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Yani çiftçilerin traktörleri sürdüğünü gördük.,Yani çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Öyle görünüyor ki çiftçilerin traktörleri sürdüğünü gördük.,Öyle görünüyor ki çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Anlaşılıyor ki çiftçilerin traktörleri sürdüğünü gördük.,Anlaşılıyor ki çiftçilerin sürdüğünü traktörleri gördük.,traktörleri sürdüğünü,sürdüğünü traktörleri,-,scrambling
+Garsonun siparişleri karıştırdığını eksik ettiler.,Garsonun karıştırdığını siparişleri eksik ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını hata ettiler.,Garsonun karıştırdığını siparişleri hata ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını noksan ettiler.,Garsonun karıştırdığını siparişleri noksan ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını benzerlik ettiler.,Garsonun karıştırdığını siparişleri benzerlik ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını engel ettiler.,Garsonun karıştırdığını siparişleri engel ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını durum ettiler.,Garsonun karıştırdığını siparişleri durum ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını bozuk ettiler.,Garsonun karıştırdığını siparişleri bozuk ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını uygun ettiler.,Garsonun karıştırdığını siparişleri uygun ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Garsonun siparişleri karıştırdığını fark ettiler.,Garsonun karıştırdığını siparişleri fark ettiler.,siparişleri karıştırdığını,karıştırdığını siparişleri,-,scrambling
+Belli ki küçük kızın şarkıyı yanlış söylemesine güldü.,Belli ki küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+O halde küçük kızın şarkıyı yanlış söylemesine güldü.,O halde küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Anlaşılan küçük kızın şarkıyı yanlış söylemesine güldü.,Anlaşılan küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Demek ki küçük kızın şarkıyı yanlış söylemesine güldü.,Demek ki küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Öyle görünüyor ki küçük kızın şarkıyı yanlış söylemesine güldü.,Öyle görünüyor ki küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Yani küçük kızın şarkıyı yanlış söylemesine güldü.,Yani küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Şu halde küçük kızın şarkıyı yanlış söylemesine güldü.,Şu halde küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Anlaşılıyor ki küçük kızın şarkıyı yanlış söylemesine güldü.,Anlaşılıyor ki küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Görünüşe göre küçük kızın şarkıyı yanlış söylemesine güldü.,Görünüşe göre küçük kızın yanlış söylemesine şarkıyı güldü.,şarkıyı yanlış söylemesine,yanlış söylemesine şarkıyı,-,scrambling
+Müdürün yeni kararları açıkladığını bildirdi.,Müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Yani müdürün yeni kararları açıkladığını bildirdi.,Yani müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Anlaşılıyor ki müdürün yeni kararları açıkladığını bildirdi.,Anlaşılıyor ki müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Şu halde müdürün yeni kararları açıkladığını bildirdi.,Şu halde müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Belli ki müdürün yeni kararları açıkladığını bildirdi.,Belli ki müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Görünüşe göre müdürün yeni kararları açıkladığını bildirdi.,Görünüşe göre müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Anlaşılan müdürün yeni kararları açıkladığını bildirdi.,Anlaşılan müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Öyle görünüyor ki müdürün yeni kararları açıkladığını bildirdi.,Öyle görünüyor ki müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+O halde müdürün yeni kararları açıkladığını bildirdi.,O halde müdürün açıkladığını yeni kararları bildirdi.,yeni kararları açıkladığını,açıkladığını yeni kararları,-,scrambling
+Evde defterini unuttuğunu gazete ettim.,Evde unuttuğunu defterini gazete ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu bilgi ettim.,Evde unuttuğunu defterini bilgi ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu yorum ettim.,Evde unuttuğunu defterini yorum ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu olay ettim.,Evde unuttuğunu defterini olay ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu telefon ettim.,Evde unuttuğunu defterini telefon ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu ses ettim.,Evde unuttuğunu defterini ses ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu bildiri ettim.,Evde unuttuğunu defterini bildiri ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu işaret ettim.,Evde unuttuğunu defterini işaret ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Evde defterini unuttuğunu ihbar ettim.,Evde unuttuğunu defterini ihbar ettim.,defterini unuttuğunu,unuttuğunu defterini,-,scrambling
+Öğretmenin soruları yanıtlamasını bekledik.,Öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Yani öğretmenin soruları yanıtlamasını bekledik.,Yani öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Anlaşılıyor ki öğretmenin soruları yanıtlamasını bekledik.,Anlaşılıyor ki öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Belli ki öğretmenin soruları yanıtlamasını bekledik.,Belli ki öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+O halde öğretmenin soruları yanıtlamasını bekledik.,O halde öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Öyle görünüyor ki öğretmenin soruları yanıtlamasını bekledik.,Öyle görünüyor ki öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Şu halde öğretmenin soruları yanıtlamasını bekledik.,Şu halde öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Anlaşılan öğretmenin soruları yanıtlamasını bekledik.,Anlaşılan öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Görünüşe göre öğretmenin soruları yanıtlamasını bekledik.,Görünüşe göre öğretmenin yanıtlamasını soruları bekledik.,soruları yanıtlamasını,yanıtlamasını soruları,-,scrambling
+Mimarın projeyi değiştirdiğini öğrendik.,Mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Görünüşe göre mimarın projeyi değiştirdiğini öğrendik.,Görünüşe göre mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Demek ki mimarın projeyi değiştirdiğini öğrendik.,Demek ki mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Belli ki mimarın projeyi değiştirdiğini öğrendik.,Belli ki mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Anlaşılıyor ki mimarın projeyi değiştirdiğini öğrendik.,Anlaşılıyor ki mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+O halde mimarın projeyi değiştirdiğini öğrendik.,O halde mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Şu halde mimarın projeyi değiştirdiğini öğrendik.,Şu halde mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Yani mimarın projeyi değiştirdiğini öğrendik.,Yani mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Anlaşılan mimarın projeyi değiştirdiğini öğrendik.,Anlaşılan mimarın değiştirdiğini projeyi öğrendik.,projeyi değiştirdiğini,değiştirdiğini projeyi,-,scrambling
+Kaptanın rotayı değiştirdiğini duyurdu.,Kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Yani kaptanın rotayı değiştirdiğini duyurdu.,Yani kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Şu halde kaptanın rotayı değiştirdiğini duyurdu.,Şu halde kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Öyle görünüyor ki kaptanın rotayı değiştirdiğini duyurdu.,Öyle görünüyor ki kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Belli ki kaptanın rotayı değiştirdiğini duyurdu.,Belli ki kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Anlaşılıyor ki kaptanın rotayı değiştirdiğini duyurdu.,Anlaşılıyor ki kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Demek ki kaptanın rotayı değiştirdiğini duyurdu.,Demek ki kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Görünüşe göre kaptanın rotayı değiştirdiğini duyurdu.,Görünüşe göre kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+O halde kaptanın rotayı değiştirdiğini duyurdu.,O halde kaptanın değiştirdiğini rotayı duyurdu.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Çocukların oyuncakları paylaşmasını izledim.,Çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Belli ki çocukların oyuncakları paylaşmasını izledim.,Belli ki çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Anlaşılan çocukların oyuncakları paylaşmasını izledim.,Anlaşılan çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Öyle görünüyor ki çocukların oyuncakları paylaşmasını izledim.,Öyle görünüyor ki çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Görünüşe göre çocukların oyuncakları paylaşmasını izledim.,Görünüşe göre çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Anlaşılıyor ki çocukların oyuncakları paylaşmasını izledim.,Anlaşılıyor ki çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Şu halde çocukların oyuncakları paylaşmasını izledim.,Şu halde çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Yani çocukların oyuncakları paylaşmasını izledim.,Yani çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+O halde çocukların oyuncakları paylaşmasını izledim.,O halde çocukların paylaşmasını oyuncakları izledim.,oyuncakları paylaşmasını,paylaşmasını oyuncakları,-,scrambling
+Müdürün toplantıyı iptal ettiğini duyurdular.,Müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Öyle görünüyor ki müdürün toplantıyı iptal ettiğini duyurdular.,Öyle görünüyor ki müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Şu halde müdürün toplantıyı iptal ettiğini duyurdular.,Şu halde müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Anlaşılan müdürün toplantıyı iptal ettiğini duyurdular.,Anlaşılan müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Yani müdürün toplantıyı iptal ettiğini duyurdular.,Yani müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Görünüşe göre müdürün toplantıyı iptal ettiğini duyurdular.,Görünüşe göre müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Belli ki müdürün toplantıyı iptal ettiğini duyurdular.,Belli ki müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Demek ki müdürün toplantıyı iptal ettiğini duyurdular.,Demek ki müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+O halde müdürün toplantıyı iptal ettiğini duyurdular.,O halde müdürün iptal ettiğini toplantıyı duyurdular.,toplantıyı iptal ettiğini,iptal ettiğini toplantıyı,-,scrambling
+Çocukların parktaki salıncağı kırdığını gördük.,Çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Yani çocukların parktaki salıncağı kırdığını gördük.,Yani çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Görünüşe göre çocukların parktaki salıncağı kırdığını gördük.,Görünüşe göre çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Şu halde çocukların parktaki salıncağı kırdığını gördük.,Şu halde çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Demek ki çocukların parktaki salıncağı kırdığını gördük.,Demek ki çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Belli ki çocukların parktaki salıncağı kırdığını gördük.,Belli ki çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Anlaşılan çocukların parktaki salıncağı kırdığını gördük.,Anlaşılan çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+O halde çocukların parktaki salıncağı kırdığını gördük.,O halde çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Öyle görünüyor ki çocukların parktaki salıncağı kırdığını gördük.,Öyle görünüyor ki çocukların kırdığını parktaki salıncağı gördük.,parktaki salıncağı kırdığını,kırdığını parktaki salıncağı,-,scrambling
+Yazarın yeni romanını bitirdiğini söyledi.,Yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Görünüşe göre yazarın yeni romanını bitirdiğini söyledi.,Görünüşe göre yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Anlaşılıyor ki yazarın yeni romanını bitirdiğini söyledi.,Anlaşılıyor ki yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Anlaşılan yazarın yeni romanını bitirdiğini söyledi.,Anlaşılan yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Öyle görünüyor ki yazarın yeni romanını bitirdiğini söyledi.,Öyle görünüyor ki yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Demek ki yazarın yeni romanını bitirdiğini söyledi.,Demek ki yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Belli ki yazarın yeni romanını bitirdiğini söyledi.,Belli ki yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Yani yazarın yeni romanını bitirdiğini söyledi.,Yani yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Şu halde yazarın yeni romanını bitirdiğini söyledi.,Şu halde yazarın bitirdiğini yeni romanını söyledi.,yeni romanını bitirdiğini,bitirdiğini yeni romanını,-,scrambling
+Teknisyenlerin sistemi yenilediğini açıkladılar.,Teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Anlaşılan teknisyenlerin sistemi yenilediğini açıkladılar.,Anlaşılan teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Yani teknisyenlerin sistemi yenilediğini açıkladılar.,Yani teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Anlaşılıyor ki teknisyenlerin sistemi yenilediğini açıkladılar.,Anlaşılıyor ki teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+O halde teknisyenlerin sistemi yenilediğini açıkladılar.,O halde teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Şu halde teknisyenlerin sistemi yenilediğini açıkladılar.,Şu halde teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Belli ki teknisyenlerin sistemi yenilediğini açıkladılar.,Belli ki teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Görünüşe göre teknisyenlerin sistemi yenilediğini açıkladılar.,Görünüşe göre teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Öyle görünüyor ki teknisyenlerin sistemi yenilediğini açıkladılar.,Öyle görünüyor ki teknisyenlerin yenilediğini sistemi açıkladılar.,sistemi yenilediğini,yenilediğini sistemi,-,scrambling
+Öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Şu halde öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Şu halde öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Anlaşılan öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Anlaşılan öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Öyle görünüyor ki öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Öyle görünüyor ki öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Belli ki öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Belli ki öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Görünüşe göre öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Görünüşe göre öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Demek ki öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Demek ki öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Yani öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,Yani öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+O halde öğrencilerin laboratuvar malzemelerini temizlediğini gördüm.,O halde öğrencilerin temizlediğini laboratuvar malzemelerini gördüm.,laboratuvar malzemelerini temizlediğini,temizlediğini laboratuvar malzemelerini,-,scrambling
+Çalışan antika vazoyu kırdığını ikrar etti.,Çalışan kırdığını antika vazoyu ikrar etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını kabul etti.,Çalışan kırdığını antika vazoyu kabul etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını iftira etti.,Çalışan kırdığını antika vazoyu iftira etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını ima etti.,Çalışan kırdığını antika vazoyu ima etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını ihbar etti.,Çalışan kırdığını antika vazoyu ihbar etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını iddia etti.,Çalışan kırdığını antika vazoyu iddia etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını delil etti.,Çalışan kırdığını antika vazoyu delil etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını beyan etti.,Çalışan kırdığını antika vazoyu beyan etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Çalışan antika vazoyu kırdığını ret etti.,Çalışan kırdığını antika vazoyu ret etti.,antika vazoyu kırdığını,kırdığını antika vazoyu,-,scrambling
+Görevlinin evrakları kaybettiğini öğrendik.,Görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Görünüşe göre görevlinin evrakları kaybettiğini öğrendik.,Görünüşe göre görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Öyle görünüyor ki görevlinin evrakları kaybettiğini öğrendik.,Öyle görünüyor ki görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Şu halde görevlinin evrakları kaybettiğini öğrendik.,Şu halde görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+O halde görevlinin evrakları kaybettiğini öğrendik.,O halde görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Belli ki görevlinin evrakları kaybettiğini öğrendik.,Belli ki görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Yani görevlinin evrakları kaybettiğini öğrendik.,Yani görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Anlaşılan görevlinin evrakları kaybettiğini öğrendik.,Anlaşılan görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Demek ki görevlinin evrakları kaybettiğini öğrendik.,Demek ki görevlinin kaybettiğini evrakları öğrendik.,evrakları kaybettiğini,kaybettiğini evrakları,-,scrambling
+Çiftçilerin tarlayı sulamasına destektim ettiler.,Çiftçilerin sulamasına tarlayı destektim ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına tehlikeydim ettiler.,Çiftçilerin sulamasına tarlayı tehlikeydim ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına yataktım ettiler.,Çiftçilerin sulamasına tarlayı yataktım ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına tedaviydim ettiler.,Çiftçilerin sulamasına tarlayı tedaviydim ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına oydum ettiler.,Çiftçilerin sulamasına tarlayı oydum ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına tehdittim ettiler.,Çiftçilerin sulamasına tarlayı tehdittim ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına zarardım ettiler.,Çiftçilerin sulamasına tarlayı zarardım ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına ihtiyaçtım ettiler.,Çiftçilerin sulamasına tarlayı ihtiyaçtım ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Çiftçilerin tarlayı sulamasına hasardım ettiler.,Çiftçilerin sulamasına tarlayı hasardım ettiler.,tarlayı sulamasına,sulamasına tarlayı,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu eksik ettik.,Garsonun unuttuğunu müşterinin siparişini eksik ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu hata ettik.,Garsonun unuttuğunu müşterinin siparişini hata ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu noksan ettik.,Garsonun unuttuğunu müşterinin siparişini noksan ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu benzerlik ettik.,Garsonun unuttuğunu müşterinin siparişini benzerlik ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu engel ettik.,Garsonun unuttuğunu müşterinin siparişini engel ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu durum ettik.,Garsonun unuttuğunu müşterinin siparişini durum ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu bozuk ettik.,Garsonun unuttuğunu müşterinin siparişini bozuk ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu uygun ettik.,Garsonun unuttuğunu müşterinin siparişini uygun ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Garsonun müşterinin siparişini unuttuğunu fark ettik.,Garsonun unuttuğunu müşterinin siparişini fark ettik.,müşterinin siparişini unuttuğunu,unuttuğunu müşterinin siparişini,-,scrambling
+Polislerin hırsızın izini sürdüğünü duyduk.,Polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Demek ki polislerin hırsızın izini sürdüğünü duyduk.,Demek ki polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Belli ki polislerin hırsızın izini sürdüğünü duyduk.,Belli ki polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Anlaşılan polislerin hırsızın izini sürdüğünü duyduk.,Anlaşılan polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Şu halde polislerin hırsızın izini sürdüğünü duyduk.,Şu halde polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Anlaşılıyor ki polislerin hırsızın izini sürdüğünü duyduk.,Anlaşılıyor ki polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Yani polislerin hırsızın izini sürdüğünü duyduk.,Yani polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Görünüşe göre polislerin hırsızın izini sürdüğünü duyduk.,Görünüşe göre polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+O halde polislerin hırsızın izini sürdüğünü duyduk.,O halde polislerin sürdüğünü hırsızın izini duyduk.,hırsızın izini sürdüğünü,sürdüğünü hırsızın izini,-,scrambling
+Mimarın proje detaylarını değiştirdiğini öğrendik.,Mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Demek ki mimarın proje detaylarını değiştirdiğini öğrendik.,Demek ki mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Anlaşılıyor ki mimarın proje detaylarını değiştirdiğini öğrendik.,Anlaşılıyor ki mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Belli ki mimarın proje detaylarını değiştirdiğini öğrendik.,Belli ki mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Şu halde mimarın proje detaylarını değiştirdiğini öğrendik.,Şu halde mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Anlaşılan mimarın proje detaylarını değiştirdiğini öğrendik.,Anlaşılan mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+O halde mimarın proje detaylarını değiştirdiğini öğrendik.,O halde mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Görünüşe göre mimarın proje detaylarını değiştirdiğini öğrendik.,Görünüşe göre mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Yani mimarın proje detaylarını değiştirdiğini öğrendik.,Yani mimarın değiştirdiğini proje detaylarını öğrendik.,proje detaylarını değiştirdiğini,değiştirdiğini proje detaylarını,-,scrambling
+Çocukların duvarı boyadığını gördüm.,Çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Öyle görünüyor ki çocukların duvarı boyadığını gördüm.,Öyle görünüyor ki çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Belli ki çocukların duvarı boyadığını gördüm.,Belli ki çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Demek ki çocukların duvarı boyadığını gördüm.,Demek ki çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Anlaşılıyor ki çocukların duvarı boyadığını gördüm.,Anlaşılıyor ki çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Anlaşılan çocukların duvarı boyadığını gördüm.,Anlaşılan çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Yani çocukların duvarı boyadığını gördüm.,Yani çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Şu halde çocukların duvarı boyadığını gördüm.,Şu halde çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Görünüşe göre çocukların duvarı boyadığını gördüm.,Görünüşe göre çocukların boyadığını duvarı gördüm.,duvarı boyadığını,boyadığını duvarı,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını haber verdi.,Öğretmenin açıkladığını sınav sonuçlarını haber verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını gazete verdi.,Öğretmenin açıkladığını sınav sonuçlarını gazete verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını bilgi verdi.,Öğretmenin açıkladığını sınav sonuçlarını bilgi verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını yorum verdi.,Öğretmenin açıkladığını sınav sonuçlarını yorum verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını olay verdi.,Öğretmenin açıkladığını sınav sonuçlarını olay verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını telefon verdi.,Öğretmenin açıkladığını sınav sonuçlarını telefon verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını ses verdi.,Öğretmenin açıkladığını sınav sonuçlarını ses verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını bildiri verdi.,Öğretmenin açıkladığını sınav sonuçlarını bildiri verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Öğretmenin sınav sonuçlarını açıkladığını işaret verdi.,Öğretmenin açıkladığını sınav sonuçlarını işaret verdi.,sınav sonuçlarını açıkladığını,açıkladığını sınav sonuçlarını,-,scrambling
+Teknisyenin arızayı giderdiğini müjdeledi.,Teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Öyle görünüyor ki teknisyenin arızayı giderdiğini müjdeledi.,Öyle görünüyor ki teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Anlaşılıyor ki teknisyenin arızayı giderdiğini müjdeledi.,Anlaşılıyor ki teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Anlaşılan teknisyenin arızayı giderdiğini müjdeledi.,Anlaşılan teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Belli ki teknisyenin arızayı giderdiğini müjdeledi.,Belli ki teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Şu halde teknisyenin arızayı giderdiğini müjdeledi.,Şu halde teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yani teknisyenin arızayı giderdiğini müjdeledi.,Yani teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Görünüşe göre teknisyenin arızayı giderdiğini müjdeledi.,Görünüşe göre teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+O halde teknisyenin arızayı giderdiğini müjdeledi.,O halde teknisyenin giderdiğini arızayı müjdeledi.,arızayı giderdiğini,giderdiğini arızayı,-,scrambling
+Yöneticinin kararı ertelediğini lokavt etti.,Yöneticinin ertelediğini kararı lokavt etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini duyuru etti.,Yöneticinin ertelediğini kararı duyuru etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini davet etti.,Yöneticinin ertelediğini kararı davet etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini ihbar etti.,Yöneticinin ertelediğini kararı ihbar etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini promosyon etti.,Yöneticinin ertelediğini kararı promosyon etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini gazete etti.,Yöneticinin ertelediğini kararı gazete etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini mesaj etti.,Yöneticinin ertelediğini kararı mesaj etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Yöneticinin kararı ertelediğini dergi etti.,Yöneticinin ertelediğini kararı dergi etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Anlaşılıyor ki yöneticinin kararı ertelediğini ilan etti.,Anlaşılıyor ki yöneticinin ertelediğini kararı ilan etti.,kararı ertelediğini,ertelediğini kararı,-,scrambling
+Kaptanın rotayı değiştirdiğini anons etti.,Kaptanın değiştirdiğini rotayı anons etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini siren etti.,Kaptanın değiştirdiğini rotayı siren etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini ses etti.,Kaptanın değiştirdiğini rotayı ses etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini ambulans etti.,Kaptanın değiştirdiğini rotayı ambulans etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini faul etti.,Kaptanın değiştirdiğini rotayı faul etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini hareket etti.,Kaptanın değiştirdiğini rotayı hareket etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini müzik etti.,Kaptanın değiştirdiğini rotayı müzik etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini panik etti.,Kaptanın değiştirdiğini rotayı panik etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Kaptanın rotayı değiştirdiğini ihbar etti.,Kaptanın değiştirdiğini rotayı ihbar etti.,rotayı değiştirdiğini,değiştirdiğini rotayı,-,scrambling
+Müdürün hukuksuzluk yaptığını duyurdu.,Müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Görünüşe göre müdürün hukuksuzluk yaptığını duyurdu.,Görünüşe göre müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Demek ki müdürün hukuksuzluk yaptığını duyurdu.,Demek ki müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+O halde müdürün hukuksuzluk yaptığını duyurdu.,O halde müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Öyle görünüyor ki müdürün hukuksuzluk yaptığını duyurdu.,Öyle görünüyor ki müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Şu halde müdürün hukuksuzluk yaptığını duyurdu.,Şu halde müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Belli ki müdürün hukuksuzluk yaptığını duyurdu.,Belli ki müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Anlaşılan müdürün hukuksuzluk yaptığını duyurdu.,Anlaşılan müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Anlaşılıyor ki müdürün hukuksuzluk yaptığını duyurdu.,Anlaşılıyor ki müdürün yaptığını hukuksuzluk duyurdu.,hukuksuzluk yaptığını,yaptığını hukuksuzluk,-,scrambling
+Eylemcilerin alanı temizlediğini gördük.,Eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Anlaşılan eylemcilerin alanı temizlediğini gördük.,Anlaşılan eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Öyle görünüyor ki eylemcilerin alanı temizlediğini gördük.,Öyle görünüyor ki eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Anlaşılıyor ki eylemcilerin alanı temizlediğini gördük.,Anlaşılıyor ki eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Şu halde eylemcilerin alanı temizlediğini gördük.,Şu halde eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Görünüşe göre eylemcilerin alanı temizlediğini gördük.,Görünüşe göre eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Belli ki eylemcilerin alanı temizlediğini gördük.,Belli ki eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Yani eylemcilerin alanı temizlediğini gördük.,Yani eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Demek ki eylemcilerin alanı temizlediğini gördük.,Demek ki eylemcilerin temizlediğini alanı gördük.,alanı temizlediğini,temizlediğini alanı,-,scrambling
+Adayların görüşmeleri başarıyla tamamladığını duydum.,Adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Şu halde adayların görüşmeleri başarıyla tamamladığını duydum.,Şu halde adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Öyle görünüyor ki adayların görüşmeleri başarıyla tamamladığını duydum.,Öyle görünüyor ki adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Görünüşe göre adayların görüşmeleri başarıyla tamamladığını duydum.,Görünüşe göre adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+O halde adayların görüşmeleri başarıyla tamamladığını duydum.,O halde adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Belli ki adayların görüşmeleri başarıyla tamamladığını duydum.,Belli ki adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Anlaşılan adayların görüşmeleri başarıyla tamamladığını duydum.,Anlaşılan adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Anlaşılıyor ki adayların görüşmeleri başarıyla tamamladığını duydum.,Anlaşılıyor ki adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Demek ki adayların görüşmeleri başarıyla tamamladığını duydum.,Demek ki adayların başarıyla tamamladığını görüşmeleri duydum.,görüşmeleri başarıyla tamamladığını,başarıyla tamamladığını görüşmeleri,-,scrambling
+Canlı direnç müşterilerin şikayetlerini kaydettiğini iletti.,Canlı direnç kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı fren müşterilerin şikayetlerini kaydettiğini iletti.,Canlı fren kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı teşvik müşterilerin şikayetlerini kaydettiğini iletti.,Canlı teşvik kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı tedavi müşterilerin şikayetlerini kaydettiğini iletti.,Canlı tedavi kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı katkı müşterilerin şikayetlerini kaydettiğini iletti.,Canlı katkı kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı kuvvet müşterilerin şikayetlerini kaydettiğini iletti.,Canlı kuvvet kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı ihtiyaç müşterilerin şikayetlerini kaydettiğini iletti.,Canlı ihtiyaç kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı yetersiz müşterilerin şikayetlerini kaydettiğini iletti.,Canlı yetersiz kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Canlı engel müşterilerin şikayetlerini kaydettiğini iletti.,Canlı engel kaydettiğini müşterilerin şikayetlerini iletti.,müşterilerin şikayetlerini kaydettiğini,kaydettiğini müşterilerin şikayetlerini,-,scrambling
+Mimarın proje için gerekli izinleri aldığını öğrendik.,Mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Öyle görünüyor ki mimarın proje için gerekli izinleri aldığını öğrendik.,Öyle görünüyor ki mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Yani mimarın proje için gerekli izinleri aldığını öğrendik.,Yani mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+O halde mimarın proje için gerekli izinleri aldığını öğrendik.,O halde mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Görünüşe göre mimarın proje için gerekli izinleri aldığını öğrendik.,Görünüşe göre mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Demek ki mimarın proje için gerekli izinleri aldığını öğrendik.,Demek ki mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Anlaşılan mimarın proje için gerekli izinleri aldığını öğrendik.,Anlaşılan mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Belli ki mimarın proje için gerekli izinleri aldığını öğrendik.,Belli ki mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Şu halde mimarın proje için gerekli izinleri aldığını öğrendik.,Şu halde mimarın aldığını proje için gerekli izinleri öğrendik.,proje için gerekli izinleri aldığını,aldığını proje için gerekli izinleri,-,scrambling
+Belediye başkanının şehir planını revize ettiğini açıkladı.,Belediye başkanının ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye yardımcının şehir planını revize ettiğini açıkladı.,Belediye yardımcının ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye vekilinin şehir planını revize ettiğini açıkladı.,Belediye vekilinin ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye kurulunun şehir planını revize ettiğini açıkladı.,Belediye kurulunun ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye avukatının şehir planını revize ettiğini açıkladı.,Belediye avukatının ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye ailenin şehir planını revize ettiğini açıkladı.,Belediye ailenin ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye temsilcinin şehir planını revize ettiğini açıkladı.,Belediye temsilcinin ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Belediye babanın şehir planını revize ettiğini açıkladı.,Belediye babanın ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Görünüşe göre belediye başkanının şehir planını revize ettiğini açıkladı.,Görünüşe göre belediye başkanının ettiğini şehir planını revize açıkladı.,şehir planını revize ettiğini,ettiğini şehir planını revize,-,scrambling
+Hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+O halde hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,O halde hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Belli ki hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Belli ki hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Şu halde hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Şu halde hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Öyle görünüyor ki hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Öyle görünüyor ki hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Demek ki hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Demek ki hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Görünüşe göre hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Görünüşe göre hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Anlaşılan hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Anlaşılan hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Yani hizmetlinin okul bahçesindeki ağaçları suladığını gördüm.,Yani hizmetlinin suladığını okul bahçesindeki ağaçları gördüm.,okul bahçesindeki ağaçları suladığını,suladığını okul bahçesindeki ağaçları,-,scrambling
+Müdürün yeni çalışma saatlerini onayladığını duyurdu.,Müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Görünüşe göre müdürün yeni çalışma saatlerini onayladığını duyurdu.,Görünüşe göre müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+O halde müdürün yeni çalışma saatlerini onayladığını duyurdu.,O halde müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Anlaşılıyor ki müdürün yeni çalışma saatlerini onayladığını duyurdu.,Anlaşılıyor ki müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Anlaşılan müdürün yeni çalışma saatlerini onayladığını duyurdu.,Anlaşılan müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Şu halde müdürün yeni çalışma saatlerini onayladığını duyurdu.,Şu halde müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Yani müdürün yeni çalışma saatlerini onayladığını duyurdu.,Yani müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Öyle görünüyor ki müdürün yeni çalışma saatlerini onayladığını duyurdu.,Öyle görünüyor ki müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Belli ki müdürün yeni çalışma saatlerini onayladığını duyurdu.,Belli ki müdürün onayladığını yeni çalışma saatlerini duyurdu.,yeni çalışma saatlerini onayladığını,onayladığını yeni çalışma saatlerini,-,scrambling
+Teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Anlaşılan teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Anlaşılan teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Yani teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Yani teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Anlaşılıyor ki teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Anlaşılıyor ki teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Belli ki teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Belli ki teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Öyle görünüyor ki teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Öyle görünüyor ki teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+O halde teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,O halde teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Görünüşe göre teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Görünüşe göre teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Şu halde teknisyenlerin fabrikadaki arızayı giderdiğini bildirdiler.,Şu halde teknisyenlerin giderdiğini fabrikadaki arızayı bildirdiler.,fabrikadaki arızayı giderdiğini,giderdiğini fabrikadaki arızayı,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini fark ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları fark ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini eksik ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları eksik ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini hata ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları hata ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini noksan ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları noksan ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini benzerlik ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları benzerlik ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini engel ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları engel ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini durum ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları durum ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini bozuk ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları bozuk ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Öğrencilerin kütüphanedeki kitapları incelediğini uygun ettik.,Öğrencilerin incelediğini kütüphanedeki kitapları uygun ettik.,kütüphanedeki kitapları incelediğini,incelediğini kütüphanedeki nadir kitapları,-,scrambling
+Şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Demek ki şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Demek ki şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Belli ki şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Belli ki şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Anlaşılan şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Anlaşılan şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Yani şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Yani şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Anlaşılıyor ki şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Anlaşılıyor ki şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Şu halde şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Şu halde şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+O halde şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,O halde şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Öyle görünüyor ki şefin mutfaktaki malzemeleri kontrol ettiğini gözlemledi.,Öyle görünüyor ki şefin kontrol ettiğini mutfaktaki malzemeleri gözlemledi.,mutfaktaki malzemeleri kontrol ettiğini,kontrol ettiğini mutfaktaki malzemeleri,-,scrambling
+Çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+O halde çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,O halde çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Demek ki çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Demek ki çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Görünüşe göre çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Görünüşe göre çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Anlaşılıyor ki çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Anlaşılıyor ki çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Öyle görünüyor ki çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Öyle görünüyor ki çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Şu halde çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Şu halde çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Anlaşılan çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Anlaşılan çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Yani çiftçilerin gerekli hazırlıkları tamamladığını söylediler.,Yani çiftçilerin tamamladığını gerekli hazırlıkları söylediler.,gerekli hazırlıkları tamamladığını,tamamladığını gerekli hazırlıkları,-,scrambling
+Müdür vekilinin önemli evrakları şifrelediğini öğrendik.,Müdür vekilinin şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür avukatının önemli evrakları şifrelediğini öğrendik.,Müdür avukatının şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür yetkilisinin önemli evrakları şifrelediğini öğrendik.,Müdür yetkilisinin şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür kızının önemli evrakları şifrelediğini öğrendik.,Müdür kızının şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür dostunun önemli evrakları şifrelediğini öğrendik.,Müdür dostunun şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür temsilcisinin önemli evrakları şifrelediğini öğrendik.,Müdür temsilcisinin şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür yakınının önemli evrakları şifrelediğini öğrendik.,Müdür yakınının şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Müdür sekreterinin önemli evrakları şifrelediğini öğrendik.,Müdür sekreterinin şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+O halde müdür yardımcısının önemli evrakları şifrelediğini öğrendik.,O halde müdür yardımcısının şifrelediğini önemli evrakları öğrendik.,önemli evrakları şifrelediğini,şifrelediğini önemli evrakları,-,scrambling
+Polislerin şüphelinin izini sürdüğünü hakemine açıkladı.,Polislerin sürdüğünü şüphelinin izini hakemine açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü kişisine açıkladı.,Polislerin sürdüğünü şüphelinin izini kişisine açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü yayına açıkladı.,Polislerin sürdüğünü şüphelinin izini yayına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü haberine açıkladı.,Polislerin sürdüğünü şüphelinin izini haberine açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü arkasına açıkladı.,Polislerin sürdüğünü şüphelinin izini arkasına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü ortasına açıkladı.,Polislerin sürdüğünü şüphelinin izini ortasına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü sayfasına açıkladı.,Polislerin sürdüğünü şüphelinin izini sayfasına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Polislerin şüphelinin izini sürdüğünü basına açıkladı.,Polislerin sürdüğünü şüphelinin izini basına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+Demek ki polislerin şüphelinin izini sürdüğünü basına açıkladı.,Demek ki polislerin sürdüğünü şüphelinin izini basına açıkladı.,şüphelinin izini sürdüğünü,sürdüğünü şüphelinin izini,-,scrambling
+İşçilerin greve çıkacağını haber verdi.,İşçilerin çıkacağını greve haber verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını gazete verdi.,İşçilerin çıkacağını greve gazete verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını bilgi verdi.,İşçilerin çıkacağını greve bilgi verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını yorum verdi.,İşçilerin çıkacağını greve yorum verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını olay verdi.,İşçilerin çıkacağını greve olay verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını telefon verdi.,İşçilerin çıkacağını greve telefon verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını ses verdi.,İşçilerin çıkacağını greve ses verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını bildiri verdi.,İşçilerin çıkacağını greve bildiri verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+İşçilerin greve çıkacağını işaret verdi.,İşçilerin çıkacağını greve işaret verdi.,greve çıkacağını,çıkacağını greve,-,scrambling
+Her zamanda işini çok sevdiğini söyler.,Her zamanda çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Her yerde işini çok sevdiğini söyler.,Her yerde çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Her vakitte işini çok sevdiğini söyler.,Her vakitte çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Her sahada işini çok sevdiğini söyler.,Her sahada çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Her hedefte işini çok sevdiğini söyler.,Her hedefte çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Her dede işini çok sevdiğini söyler.,Her dede çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Her imada işini çok sevdiğini söyler.,Her imada çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+O halde her fırsatta işini çok sevdiğini söyler.,O halde her fırsatta çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Yani her fırsatta işini çok sevdiğini söyler.,Yani her fırsatta çok sevdiğini işini söyler.,işini çok sevdiğini,çok sevdiğini işini,-,scrambling
+Seni dışarıya çıkmaya telkin etmiş sonunda.,Seni çıkmaya dışarıya telkin etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Seni dışarıya çıkmaya teşvik etmiş sonunda.,Seni çıkmaya dışarıya teşvik etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Seni dışarıya çıkmaya kabul etmiş sonunda.,Seni çıkmaya dışarıya kabul etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Seni dışarıya çıkmaya tahrik etmiş sonunda.,Seni çıkmaya dışarıya tahrik etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Seni dışarıya çıkmaya tehdit etmiş sonunda.,Seni çıkmaya dışarıya tehdit etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Seni dışarıya çıkmaya taciz etmiş sonunda.,Seni çıkmaya dışarıya taciz etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Seni dışarıya çıkmaya ima etmiş sonunda.,Seni çıkmaya dışarıya ima etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Demek ki seni dışarıya çıkmaya ikna etmiş sonunda.,Demek ki seni çıkmaya dışarıya ikna etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Öyle görünüyor ki seni dışarıya çıkmaya ikna etmiş sonunda.,Öyle görünüyor ki seni çıkmaya dışarıya ikna etmiş sonunda.,dışarıya çıkmaya,çıkmaya dışarıya,-,scrambling
+Anlaşılan babaaannem üniversiteyi kazanmana çok sevinmiş.,Anlaşılan babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Anlaşılıyor ki babaaannem üniversiteyi kazanmana çok sevinmiş.,Anlaşılıyor ki babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Öyle görünüyor ki babaaannem üniversiteyi kazanmana çok sevinmiş.,Öyle görünüyor ki babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+O halde babaaannem üniversiteyi kazanmana çok sevinmiş.,O halde babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Belli ki babaaannem üniversiteyi kazanmana çok sevinmiş.,Belli ki babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Şu halde babaaannem üniversiteyi kazanmana çok sevinmiş.,Şu halde babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Yani babaaannem üniversiteyi kazanmana çok sevinmiş.,Yani babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Demek ki babaaannem üniversiteyi kazanmana çok sevinmiş.,Demek ki babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling
+Görünüşe göre babaaannem üniversiteyi kazanmana çok sevinmiş.,Görünüşe göre babaaannem kazanmana üniversiteyi çok sevinmiş.,üniversiteyi kazanmana,kazanmana üniversiteyi,-,scrambling

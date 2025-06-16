@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon,subtype
+Bayıldı resmen hediyesine Eda.,Bayıldı resmen hediyesini Eda.,hediyesine,hediyesini,bayıldı,argument_structure,transitive
+Körü körüne inanma internette her okuduğun şeye sen.,Körü körüne inanma internette her okuduğun şeyi sen.,şeye,şeyi,inanma,argument_structure,transitive
+Çok güvenirim eşimin zevkine ben.,Çok güvenirim eşimin zevkini ben.,zevkine,zevkini,güvenirim,argument_structure,transitive
+Acıyorum sana ben artık sadece.,Acıyorum seni ben artık sadece.,sana,seni,acıyorum,argument_structure,transitive
+Özel olarak ilgileniyor yaşlı hastayla hemşire hanım.,Özel olarak ilgileniyor yaşlı hastayı hemşire hanım.,hastayla,hastayı,ilgileniyor,argument_structure,transitive
+Baya hoşlanıyormuş sıra arkadaşından bizim ufaklık.,Baya hoşlanıyormuş sıra arkadaşını bizim ufaklık.,arkadaşından,arkadaşını,hoşlanıyormuş,argument_structure,transitive
+Israr ediyor erken seçimde muhalefet partisi.,Israr ediyor erken seçimi muhalefet partisi.,seçimde,seçimi,ısrar ediyor,argument_structure,transitive
+Resmen alay etti yaşlı kadınla saygısız çalışan.,Resmen alay etti yaşlı kadına saygısız çalışan.,kadınla,kadına,alay etti,argument_structure,transitive
+Bıktım senin bu hallerinden ben.,Bıktım senin bu hallerine ben.,hallerinden,hallerine,bıktım,argument_structure,transitive
+Karar kılmışlar balayı için Urla'da onlar.,Karar kılmışlar balayı için Urla'ya onlar.,Urla'da,Urla'ya,karar kılmışlar,argument_structure,transitive
+Çok kafa yordum bu konuya ben.,Çok kafa yordum bu konuyu ben.,konuya,konuyu,yordum,argument_structure,transitive
+Düşündüm seni ben bütün gün.,Düşündüm senden ben bütün gün.,seni,senden,düşündüm,argument_structure,transitive
+Bayılıyorum bu şarkıya ben.,Bayılıyorum bu şarkıyı ben.,şarkıya,şarkıyı,bayılıyorum,argument_structure,transitive
+Unuttum arkadaşımın doğum gününü ben.,Unuttum arkadaşımın doğum gününe ben.,doğum gününü,doğum gününe,unuttum,argument_structure,transitive
+Gelirim size ben yarın.,Gelirim sizi ben yarın.,size,sizi,gelirim,argument_structure,transitive
+Çok sevindim bu habere ben.,Çok sevindim bu haberi ben.,habere,haberi,sevindim,argument_structure,transitive
+Düştü balkondan kedim.,Düştü balkonu kedim.,balkondan,balkonu,düştü,argument_structure,transitive
+Her zaman destek olur bana annem.,Her zaman destek olur beni annem.,bana,beni,destek olur,argument_structure,transitive
+Çok kızdı bize öğretmenimiz.,Çok kızdı bizi öğretmenimiz.,bize,bizi,kızdı,argument_structure,transitive
+Bayılıyoruz bu filme biz.,Bayılıyoruz bu filmi biz.,filme,filmi,bayılıyoruz,argument_structure,transitive
+Çok seviyorum bu şehri ben.,Çok seviyorum bu şehre ben.,şehri,şehre,seviyorum,argument_structure,transitive
+Çok beğendim bu gözlüğü ben.,Çok beğendim bu gözlüğe ben.,gözlüğü,gözlüğe,beğendim,argument_structure,transitive
+Başladık yeni bir hobiye biz.,Başladık yeni bir hobiyi biz.,hobiye,hobiyi,başladık,argument_structure,transitive
+Sıcak baktı bu öneriye Kerem.,Sıcak baktı bu öneriyi Kerem.,öneriye,öneriyi,baktı,argument_structure,transitive
+İyi geçiniyorum komşularımla ben.,İyi geçiniyorum komşularımı ben.,komşularımla,komşularımı,geçiniyorum,argument_structure,transitive
+Bayıldım bu kitap serisine ben.,Bayıldım bu kitap serisini ben.,serisine,serisini,bayıldım,argument_structure,transitive
+İnanıyorum onun doğruyu söylediğine ben.,İnanıyorum onun doğruyu söylediğini ben.,söylediğine,söylediğini,inanıyorum,argument_structure,transitive
+Çok ısındım tatile çıkma fikrine ben.,Çok ısındım tatile çıkma fikrini ben.,fikrine,fikrini,ısındım,argument_structure,transitive
+Çok üzüldüler bu duruma onlar.,Çok üzüldüler bu durumu onlar.,duruma,durumu,üzüldüler,argument_structure,transitive
+Karar verdiler yeni projeye başlamaya onlar.,Karar verdiler yeni projeye başlamayı onlar.,başlamaya,başlamayı,karar verdiler,argument_structure,transitive
+Çok şaşırdım onun tepkisine ben.,Çok şaşırdım onun tepkisini ben.,tepkisine,tepkisini,şaşırdım,argument_structure,transitive
+Hayran kaldım bu tabloya ben.,Hayran kaldım bu tabloyu ben.,tabloya,tabloyu,hayran kaldım,argument_structure,transitive
+Duyuyorum ona ben büyük saygı.,Duyuyorum onu ben büyük saygı.,ona,onu,duyuyorum,argument_structure,transitive
+Girdim yeni bir işe ben.,Girdim yeni bir işi ben.,işe,işi,girdim,argument_structure,transitive
+Koşulsuz destek oluyorum ona ben.,Koşulsuz destek oluyorum onu ben.,ona,onu,oluyorum,argument_structure,transitive
+Çok önem veriyoruz bu projeye biz.,Çok önem veriyoruz bu projeyi biz.,projeye,projeyi,veriyoruz,argument_structure,transitive
+Çok şaşırdı son duruma patron.,Çok şaşırdı son durumu patron.,duruma,durumu,şaşırdı,argument_structure,transitive
+Her zaman güveniyoruz sana biz.,Her zaman güveniyoruz seni biz.,sana,seni,güveniyoruz,argument_structure,transitive
+Günlercem çalıştım bu sınava ben.,Günlerce çalıştım bu sınavı ben.,sınava,sınavı,çalıştım,argument_structure,transitive
+Katılıyorum onun söylediklerine ben.,Katılıyorum onun söylediklerini ben.,söylediklerine,söylediklerini,katılıyorum,argument_structure,transitive
+Oldum olası alışamadım şu değişikliklere ben.,Oldum olası alışamadım şu değişiklikleri ben.,değişikliklere,değişiklikleri,alışamadım,argument_structure,transitive
+Kulak verdim annemin sözlerine ben.,Kulak verdim annemin sözlerini ben.,sözlerine,sözlerini,verdim,argument_structure,transitive
+Karar verdim konferansa katılmaya ben.,Karar verdim konferansı katılmayı ben.,katılmaya,katılmayı,karar verdim,argument_structure,transitive
+Fazla kapılmamalısın bu oyunlara sen.,Fazla kapılmamalısın bu oyunları sen.,oyunlara,oyunları,kapılmamalısın,argument_structure,transitive
+Dün yaptıklarından sonra çok kırıldım sana ben.,Dün yaptıklarından sonra çok kırıldım seni ben.,sana,seni,kırıldım,argument_structure,transitive
+Düşünüyorlar etkinliğe katılmayı onlar.,Düşünüyorlar etkinliğe katılmaya onlar.,katılmayı,katılmaya,düşünüyorlar,argument_structure,transitive
+Üzüldüm asıl gözden kaçan hataya ben.,Üzüldüm asıl gözden kaçan hatayı ben.,hataya,hatayı,üzüldüm,argument_structure,transitive
+Sevmem tartışmaya girmeyi ben.,Sevmem tartışmaya girmeye ben.,girmeyi,girmeye,sevmem,argument_structure,transitive
+Son zamanlarda iyice alıştım seni buralarda görmeye ben.,Son zamanlarda iyice alıştım seni buralarda görmeyi ben.,görmeye,görmeyi,alıştım,argument_structure,transitive
+Sevindik zorlu bir süreçten sonra elde ettiğin bu başarıya biz.,Sevindik zorlu bir süreçten sonra elde ettiğin bu başarıyı biz.,başarıya,başarıyı,sevindim,argument_structure,transitive
+Resmen hayran kaldı yeni elbisesine Eda.,Resmen hayran kaldı yeni elbisesini Eda.,elbisesine,elbisesini,hayran kaldı,argument_structure,transitive
+Körü körüne inanma internette her gördüğün habere sen.,Körü körüne inanma internette her gördüğün haberi sen.,habere,haberi,inanma,argument_structure,transitive
+Çok güvenirim eşimin kararlarına ben.,Çok güvenirim eşimin kararlarını ben.,kararlarına,kararlarını,güvenirim,argument_structure,transitive
+Gülüyorum ona ben artık sadece.,Gülüyorum onu ben artık sadece.,ona,onu,gülüyorum,argument_structure,transitive
+Özel olarak ilgileniyor çocuk hastayla doktor bey.,Özel olarak ilgileniyor çocuk hastayı doktor bey.,hastayla,hastayı,ilgileniyor,argument_structure,transitive
+Baya korkuyormuş komşunun kedisinden bizim kuşumuz.,Baya korkuyormuş komşunun kedisini bizim kuşumuz.,kedisinden,kedisini,korkuyormuş,argument_structure,transitive
+Hala ısrar ediyor yeni yasada hükümet.,Hala ısrar ediyor yeni yasayı hükümet.,yasada,yasayı,ısrar ediyor,argument_structure,transitive
+Dalga geçti genç garsonla kaba müşteri resmen.,Dalga geçti genç garsona kaba müşteri resmen.,garsonla,garsona,dalga geçti,argument_structure,transitive
+Bıktım senin bu tavırlarından ben.,Bıktım senin bu tavırlarına ben.,tavırlarından,tavırlarına,bıktım,argument_structure,transitive
+Karar kılmışlar tatil için Bodrum'da onlar.,Karar kılmışlar tatil için Bodrum'a onlar.,Bodrum'da,Bodrum'a,karar kılmışlar,argument_structure,transitive
+Çok kafa yordum bu soruna ben.,Çok kafa yordum bu sorunu ben.,soruna,sorunu,yordum,argument_structure,transitive
+Bütün gece düşündüm onu ben.,Bütün gece düşündüm ondan ben.,onu,ondan,düşündüm,argument_structure,transitive
+Bayılıyorum bu türküye ben.,Bayılıyorum bu türküyü ben.,türküye,türküyü,bayılıyorum,argument_structure,transitive
+Unuttum kardeşimin mezuniyetini ben.,Unuttum kardeşimin mezuniyetine ben.,mezuniyetini,mezuniyetine,unuttum,argument_structure,transitive
+Uğrarım onlara ben yarın.,Uğrarım onları ben yarın.,onlara,onları,uğrarım,argument_structure,transitive
+Çok sevindim bu müjdeye ben.,Çok sevindim bu müjdeyi ben.,müjdeye,müjdeyi,sevindim,argument_structure,transitive
+Düştü merdivenlerden oyuncağım.,Düştü merdivenleri oyuncağım.,merdivenlerden,merdivenleri,düştü,argument_structure,transitive
+Destek olur bana babam her zaman.,Destek olur beni babam her zaman.,bana,beni,destek olur,argument_structure,transitive
+Çok kızdı bize müdürümüz.,Çok kızdı bizi müdürümüz.,bize,bizi,kızdı,argument_structure,transitive
+Bayılıyoruz bu diziye biz.,Bayılıyoruz bu diziyi biz.,diziye,diziyi,bayılıyoruz,argument_structure,transitive
+Çok seviyorum bu kasabayı ben.,Çok seviyorum bu kasabaya ben.,kasabayı,kasabaya,seviyorum,argument_structure,transitive
+Çok beğendim bu saati ben.,Çok beğendim bu saate ben.,saati,saate,beğendim,argument_structure,transitive
+Başladık yeni bir spora biz.,Başladık yeni bir sporu biz.,spora,sporu,başladık,argument_structure,transitive
+Sıcak baktı bu fikre o.,Sıcak baktı bu fikri o.,fikre,fikri,baktı,argument_structure,transitive
+İyi geçiniyorum akrabalarımla ben.,İyi geçiniyorum akrabalarımı ben.,akrabalarımla,akrabalarımı,geçiniyorum,argument_structure,transitive
+Bayıldım bu film serisine ben.,Bayıldım bu film serisini ben.,serisine,serisini,bayıldım,argument_structure,transitive
+İnanıyorum onun doğruyu söylediğine ben.,İnanıyorum onun doğruyu söylediğini ben.,söylediğine,söylediğini,inanıyorum,argument_structure,transitive
+Çok ısındım tatile çıkma planına ben.,Çok ısındım tatile çıkma planını ben.,planına,planını,ısındım,argument_structure,transitive
+Çok üzüldüler bu olaya onlar.,Çok üzüldüler bu olayı onlar.,olaya,olayı,üzüldüler,argument_structure,transitive
+Karar verdiler yeni projeye başlamaya onlar.,Karar verdiler yeni projeye başlamayı onlar.,başlamaya,başlamayı,karar verdiler,argument_structure,transitive
+Çok şaşırdım onun cevabına ben.,Çok şaşırdım onun cevabını ben.,cevabına,cevabını,şaşırdım,argument_structure,transitive
+Hayran kaldım bu heykellere ben.,Hayran kaldım bu heykelleri ben.,heykellere,heykelleri,hayran kaldım,argument_structure,transitive
+Saygı duyuyorum ona ben.,Saygı duyuyorum onu ben.,ona,onu,duyuyorum,argument_structure,transitive
+Yazıldım yeni bir kursa ben.,Yazıldım yeni bir kursu ben.,kursa,kursu,yazıldım,argument_structure,transitive
+Koşulsuz destek oluyorum ona ben.,Koşulsuz destek oluyorum onu ben.,ona,onu,oluyorum,argument_structure,transitive
+Çok önem veriyoruz farklı fikirlere biz.,Çok önem veriyoruz farklı fikirleri biz.,fikirlere,fikirleri,veriyoruz,argument_structure,transitive
+Çok şaşırdım son gelişmelere ben.,Çok şaşırdım son gelişmeleri ben.,gelişmelere,gelişmeleri,şaşırdım,argument_structure,transitive
+Her zaman güveniyorum sana ben.,Her zaman güveniyorum seni ben.,sana,seni,güveniyorum,argument_structure,transitive
+Günlerce çalıştım bu yarışmaya ben.,Günlerce çalıştım bu yarışmayı ben.,yarışmaya,yarışmayı,çalıştım,argument_structure,transitive
+Katılıyorum onun söylediklerine ben.,Katılıyorum onun söylediklerini ben.,söylediklerine,söylediklerini,katılıyorum,argument_structure,transitive
+Oldum olası alışamadım şu yeniliklere ben.,Oldum olası alışamadım şu yenilikleri ben.,yeniliklere,yenilikleri,alışamadım,argument_structure,transitive
+Kulak verdim babamın öğütlerine ben.,Kulak verdim babamın öğütlerini ben.,öğütlerine,öğütlerini,verdim,argument_structure,transitive
+Karar verdim seminere katılmaya ben.,Karar verdim semineri katılmayı ben.,katılmaya,katılmayı,karar verdim,argument_structure,transitive
+Hiç başlamamalısın kumara sen.,Hiç başlamamalısın kumarı sen.,kumara,kumarı,başlamamalısın,argument_structure,transitive
+Dün söylediklerinden sonra çok kırıldım sana ben.,Dün söylediklerinden sonra çok kırıldım seni ben.,sana,seni,kırıldım,argument_structure,transitive
+Düşünüyorlar konsere katılmayı onlar.,Düşünüyorlar konsere katılmaya onlar.,katılmayı,katılmaya,düşünüyorlar,argument_structure,transitive
+Çok üzüldüm gözden kaçan detaya ben.,Çok üzüldüm gözden kaçan detayı ben.,detaya,detayı,üzüldüm,argument_structure,transitive
+Sevmem tartışmaya girmeyi ben.,Sevmem tartışmaya girmeye ben.,girmeyi,girmeye,sevmem,argument_structure,transitive
+Son zamanlarda iyice alıştım seni burada görmeye ben.,Son zamanlarda iyice alıştım seni burada görmeyi ben.,görmeye,görmeyi,alıştım,argument_structure,transitive
+Sevindim zorlu bir maratondan sonra elde ettiğin bu zafere ben.,Sevindim zorlu bir maratondan sonra elde ettiğin bu zaferi ben.,zafere,zaferi,sevindim,argument_structure,transitive

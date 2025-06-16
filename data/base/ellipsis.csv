@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Tatilde annem cüzdanını ve kardeşim telefonunu çaldırdı.,Tatilde annem cüzdanını ve telefonunu kardeşim çaldırdı.,kardeşim telefonunu,telefonunu kardeşim,-,ellipsis
+Yılbaşı partisi için mekanı Melisa ve yemekleri Kerem ayarladı.,Yılbaşı partisi için mekanı Melisa ve Kerem yemekleri ayarladı.,yemekleri Kerem,Kerem yemekleri,-,ellipsis
+"Akşam salatayı abim, tatlıyı da babam yaptı.","Akşam salatayı abim, babam da tatlıyı yaptı.",tatlıyı da babam,babam da tatlıyı,-,ellipsis
+"Jazz korosunda Berk piyanoyu, Ayşe de gitarı çalıyor.","Jazz korosunda Berk piyanoyu, gitarı da Ayşe çalıyor.",Ayşe de gitarı,gitarı da Ayşe,-,ellipsis
+Üniversitedeyken Meltem münazara kulübüne Ömer ise sinema kulübüne gidiyordu.,Üniversitedeyken Meltem münazara kulübüne sinema kulübüne ise Ömer gidiyordu.,Ömer ise sinema kulübüne,sinema kulübüne ise Ömer,-,ellipsis
+Köşedeki masada köfteyi küçük hanım balığı ise annesi istedi.,Köşedeki masada köfteyi küçük hanım annesi ise balığı istedi.,balığı ise annesi,annesi ise balığı,-,ellipsis
+Kız istemeye giderken halamlar çiçeği amcamlar da çikolatayı almış.,Kız istemeye giderken halamlar çiçeği çikolatayı da amcamlar almış.,amcamlar da çikolatayı,çikolatayı da amcamlar,-,ellipsis
+Babalar gününde saati Deniz kravatı da Umut hediye etti.,Babalar gününde saati Deniz Umut da kravatı hediye etti.,kravatı da Umut,Umut da kravatı,-,ellipsis
+Sabah bakıcı gelince annesi ofise babası da okula gidiyor.,Sabah bakıcı gelince annesi ofise okula da babası gidiyor.,babası da okula,okula da babası,-,ellipsis
+Yeni evde bahçeyi Suat mutfağı da Özgür tasarlamış.,Yeni evde bahçeyi Suat Özgür de mutfağı tasarlamış.,mutfağı da Özgür,Özgür de mutfağı,-,ellipsis
+Kampüste kütüphaneyi Elif kafeyi de Burak seviyor.,Kampüste kütüphaneyi Elif Burak da kafeyi seviyor.,kafeyi de Burak,Burak da kafeyi,-,ellipsis
+Konserde bateriyi Can kemanı da Zeynep çaldı.,Konserde bateriyi Can Zeynep de kemanı çaldı.,kemanı da Zeynep,Zeynep de kemanı,-,ellipsis
+Hafta sonu parkı çocuklar müzeyi de öğretmen ziyaret etti.,Hafta sonu parkı çocuklar öğretmen de müzeyi ziyaret etti.,müzeyi de öğretmen,öğretmen de müzeyi,-,ellipsis
+Piknikte sandviçi Ahmet meyveyi de Selin getirdi.,Piknikte sandviçi Ahmet Selin de meyveyi getirdi.,meyveyi de Selin,Selin de meyveyi,-,ellipsis
+Düğünde dansı Derya müziği de Emre seçti.,Düğünde dansı Derya Emre de müziği seçti.,müziği de Emre,Emre de müziği,-,ellipsis
+Kafede kahveyi Ayla ve tatlıyı Cem sipariş etti.,Kafede kahveyi Ayla ve Cem tatlıyı sipariş etti.,tatlıyı Cem,Cem tatlıyı,-,ellipsis
+Sınıfta tahtayı Eda ve bilgisayarı Hasan kullandı.,Sınıfta tahtayı Eda ve Hasan bilgisayarı kullandı.,bilgisayarı Hasan,Hasan bilgisayarı,-,ellipsis
+Market alışverişinde sebzeleri Zeynep ve meyveleri Can aldı.,Market alışverişinde sebzeleri Zeynep ve Can meyveleri aldı.,meyveleri Can,Can meyveleri,-,ellipsis
+Tatilde ablam kitabı ve kardeşim dergiyi kaybetti.,Tatilde ablam kitabı ve dergiyi kardeşim kaybetti.,kardeşim dergiyi,dergiyi kardeşim,-,ellipsis
+Sınıfta sunumu Büşra ve raporu Cem yaptı.,Sınıfta sunumu Büşra ve Cem raporu yaptı.,raporu Cem,Cem raporu,-,ellipsis
+Yemekte çorbayı Murat salatayı da Defne hazırladı.,Yemekte çorbayı Murat Defne de salatayı hazırladı.,salatayı da Defne,Defne de salatayı,-,ellipsis
+Konferansta açılışı Hakan kapanışı da Aslı yaptı.,Konferansta açılışı Hakan Aslı da kapanışı yaptı.,kapanışı da Aslı,Aslı da kapanışı,-,ellipsis
+Toplantıda sunumu Yeliz dökümanı da Levent hazırladı.,Toplantıda sunumu Yeliz Levent de dökümanı hazırladı.,dökümanı da Levent,Levent de dökümanı,-,ellipsis
+Törende ödülü Beren ve plaketi Serkan aldı.,Törende ödülü Beren ve Serkan plaketi aldı.,plaketi Serkan,Serkan plaketi,-,ellipsis
+Spor salonunda koşu bandını Ahmet ve ağırlıkları Berk kullandı.,Spor salonunda koşu bandını Ahmet ve Berk ağırlıkları kullandı.,ağırlıkları Berk,Berk ağırlıkları,-,ellipsis
+Bahçede çiçekleri Zeynep ve çimleri Kerem kesti.,Bahçede çiçekleri Zeynep ve Kerem çimleri kesti.,çimleri Kerem,Kerem çimleri,-,ellipsis
+Kütüphanede kitabı Ela ve dergiyi Burak ödünç aldı.,Kütüphanede kitabı Ela ve Burak dergiyi ödünç aldı.,dergiyi Burak,Burak dergiyi,-,ellipsis
+Mutfakta sebzeleri Gülce ve meyveleri Tuna doğradı.,Mutfakta sebzeleri Gülce ve Tuna meyveleri doğradı.,meyveleri Tuna,Tuna meyveleri,-,ellipsis
+Eczanede ilacı Selin ve vitaminleri Okan aldı.,Eczanede ilacı Selin ve Okan vitaminleri aldı.,vitaminleri Okan,Okan vitaminleri,-,ellipsis
+Mağazada ayakkabıyı Pelin ve çantayı Arda seçti.,Mağazada ayakkabıyı Pelin ve Arda çantayı seçti.,çantayı Arda,Arda çantayı,-,ellipsis
+Otelde rezervasyonu Cihan ve anahtarları Seda aldı.,Otelde rezervasyonu Cihan ve Seda anahtarları aldı.,anahtarları Seda,Seda anahtarları,-,ellipsis
+Şirkette raporu Emir ve sunumu Asuman hazırladı.,Şirkette raporu Emir ve Asuman sunumu hazırladı.,sunumu Asuman,Asuman sunumu,-,ellipsis
+Partide şarkıyı Cem ve dansı Buse seçti.,Partide şarkıyı Cem ve Buse dansı seçti.,dansı Buse,Buse dansı,-,ellipsis
+Oyun alanında topu Efe ve salıncağı Deniz kullandı.,Oyun alanında topu Efe ve Deniz salıncağı kullandı.,salıncağı Deniz,Deniz salıncağı,-,ellipsis
+Yolda müzikleri Alp ve rotayı Yasemin belirledi.,Yolda müzikleri Alp ve Yasemin rotayı belirledi.,rotayı Yasemin,Yasemin rotayı,-,ellipsis
+Ofiste raporu Hakan ve dosyayı Melis düzenledi.,Ofiste raporu Hakan ve Melis dosyayı düzenledi.,dosyayı Melis,Melis dosyayı,-,ellipsis
+Film setinde kamerayı Onur ve senaryoyu Eda kontrol etti.,Film setinde kamerayı Onur ve Eda senaryoyu kontrol etti.,senaryoyu Eda,Eda senaryoyu,-,ellipsis
+Yarışmada parkuru Deniz ve bitiş çizgisini Ali çekti.,Yarışmada parkuru Deniz ve Ali bitiş çizgisini çekti.,bitiş çizgisini Ali,Ali bitiş çizgisini,-,ellipsis
+Kafede kahveyi Emre ve tatlıyı Naz sipariş etti.,Kafede kahveyi Emre ve Naz tatlıyı sipariş etti.,tatlıyı Naz,Naz tatlıyı,-,ellipsis
+Spor müsabakasında formaları Kerem ve ayakkabıları Burak getirdi.,Spor müsabakasında formaları Kerem ve Burak ayakkabıları getirdi.,ayakkabıları Burak,Burak ayakkabıları,-,ellipsis
+Restoranda pizzayı Mert ve makarnayı İrem seçti.,Restoranda pizzayı Mert ve İrem makarnayı seçti.,makarnayı İrem,İrem makarnayı,-,ellipsis
+Konferansta açılışı Elif ve konuşmayı Murat yaptı.,Konferansta açılışı Elif ve Murat konuşmayı yaptı.,konuşmayı Murat,Murat konuşmayı,-,ellipsis
+Sınav için notları Zeynep ve kitapları Hasan aldı.,Sınav için notları Zeynep ve Hasan kitapları aldı.,kitapları Hasan,Hasan kitapları,-,ellipsis
+Kütüphanede ansiklopediyi Can ve romanı Ece inceledi.,Kütüphanede ansiklopediyi Can ve Ece romanı inceledi.,romanı Ece,Ece romanı,-,ellipsis
+Mağazada ceketi Pelin ve pantolonu Cem seçti.,Mağazada ceketi Pelin ve Cem pantolonu seçti.,pantolonu Cem,Cem pantolonu,-,ellipsis
+Oyun alanında topu Defne ve bisikleti Arda kullandı.,Oyun alanında topu Defne ve Arda bisikleti kullandı.,bisikleti Arda,Arda bisikleti,-,ellipsis
+Pazarda karpuzu Onur ve kavunu Ceyda aldı.,Pazarda karpuzu Onur ve Ceyda kavunu aldı.,kavunu Ceyda,Ceyda kavunu,-,ellipsis
+Fuar alanında bileti Sarp ve broşürü Melisa aldı.,Fuar alanında bileti Sarp ve Melisa broşürü aldı.,broşürü Melisa,Melisa broşürü,-,ellipsis
+Sinema salonunda biletleri Barış ve mısırı Deniz aldı.,Sinema salonunda biletleri Barış ve Deniz mısırı aldı.,mısırı Deniz,Deniz mısırı,-,ellipsis
+Piknikte örtüyü Selin ve sepeti Rıza getirdi.,Piknikte örtüyü Selin ve Rıza sepeti getirdi.,sepeti Rıza,Rıza sepeti,-,ellipsis
+Düğünde çiçeği Leyla ve hediyeyi Emir getirdi.,Düğünde çiçeği Leyla ve Emir hediyeyi getirdi.,hediyeyi Emir,Emir hediyeyi,-,ellipsis
+Sahilde şemsiyeyi Okan ve sandalyeyi Şule taşıdı.,Sahilde şemsiyeyi Okan ve Şule sandalyeyi taşıdı.,sandalyeyi Şule,Şule sandalyeyi,-,ellipsis
+Konserde davulu Berk ve kemanı Sinem çaldı.,Konserde davulu Berk ve Sinem kemanı çaldı.,kemanı Sinem,Sinem kemanı,-,ellipsis
+Futbol maçında formaları Ali ve şortları Burcu getirdi.,Futbol maçında formaları Ali ve Burcu şortları getirdi.,şortları Burcu,Burcu şortları,-,ellipsis
+Yemekte çorbayı Emel ve salatayı Rıfat hazırladı.,Yemekte çorbayı Emel ve Rıfat salatayı hazırladı.,salatayı Rıfat,Rıfat salatayı,-,ellipsis
+Çay bahçesinde tatlıyı Aslı ve yemeği Ahmet seçti.,Çay bahçesinde tatlıyı Aslı ve Ahmet yemeği seçti.,yemeği Ahmet,Ahmet yemeği,-,ellipsis
+Müzede heykeli Ayşe ve tabloyu Cem inceledi.,Müzede heykeli Ayşe ve Cem tabloyu inceledi.,tabloyu Cem,Cem tabloyu,-,ellipsis
+Tiyatroda bileti Kerem ve programı Pelin ayarladı.,Tiyatroda bileti Kerem ve Pelin programı ayarladı.,programı Pelin,Pelin programı,-,ellipsis
+Futbol sahasında topu Baran ve kramponları Umut getirdi.,Futbol sahasında topu Baran ve Umut kramponları getirdi.,kramponları Umut,Umut kramponları,-,ellipsis
+Sinemada koltuğu Pınar ve içeceği Onur seçti.,Sinemada koltuğu Pınar ve Onur içeceği seçti.,içeceği Onur,Onur içeceği,-,ellipsis
+Konferansta sunumu Yasin ve notları Ebru hazırladı.,Konferansta sunumu Yasin ve Ebru notları hazırladı.,notları Ebru,Ebru notları,-,ellipsis
+Bahçede çimleri Burak ve çiçekleri Meltem suladı.,Bahçede çimleri Burak ve Meltem çiçekleri suladı.,çiçekleri Meltem,Meltem çiçekleri,-,ellipsis
+Göl kenarında sandalı Ayhan ve oltayı Gökçe kontrol etti.,Göl kenarında sandalı Ayhan ve Gökçe oltayı kontrol etti.,oltayı Gökçe,Gökçe oltayı,-,ellipsis
+Teknede dümeni Harun ve haritayı Sedef kontrol etti.,Teknede dümeni Harun ve Sedef haritayı kontrol etti.,haritayı Sedef,Sedef haritayı,-,ellipsis
+Kitapçıda şiir kitabını Fırat ve romanı Asya aldı.,Kitapçıda şiir kitabını Fırat ve Asya romanı aldı.,romanı Asya,Asya romanı,-,ellipsis
+Tatil köyünde güneş kremini Arda ve havluyu Derin getirdi.,Tatil köyünde güneş kremini Arda ve Derin havluyu getirdi.,havluyu Derin,Derin havluyu,-,ellipsis
+Kafede kahveyi Defne ve kurabiyeyi Uğur sipariş etti.,Kafede kahveyi Defne ve Uğur kurabiyeyi sipariş etti.,kurabiyeyi Uğur,Uğur kurabiyeyi,-,ellipsis
+Spor salonunda ağırlıkları Hakan ve koşu bandını Deniz kullandı.,Spor salonunda ağırlıkları Hakan ve Deniz koşu bandını kullandı.,koşu bandını Deniz,Deniz koşu bandını,-,ellipsis
+Resim dersinde paleti İsmail ve fırçayı Nuran aldı.,Resim dersinde paleti İsmail ve Nuran fırçayı aldı.,fırçayı Nuran,Nuran fırçayı,-,ellipsis
+Sokakta balonu Ela ve uçurtmayı Can uçurdu.,Sokakta balonu Ela ve Can uçurtmayı uçurdu.,uçurtmayı Can,Can uçurtmayı,-,ellipsis
+Hastanede reçeteyi doktor ve ilacı hemşire verdi.,Hastanede reçeteyi doktor ve hemşire ilacı verdi.,ilacı hemşire,hemşire ilacı,-,ellipsis
+Sirk gösterisinde ipte cambaz ve halkada akrobat yürüdü.,Sirk gösterisinde ipte cambaz ve akrobat halkada yürüdü.,halkada akrobat,akrobat halkada,-,ellipsis
+Bahçede köpeği Gökhan ve kediyi Melike besledi.,Bahçede köpeği Gökhan ve Melike kediyi besledi.,kediyi Melike,Melike kediyi,-,ellipsis
+Konserde ışıkları Ali ve mikrofonları Deniz ayarladı.,Konserde ışıkları Ali ve Deniz mikrofonları ayarladı.,mikrofonları Deniz,Deniz mikrofonları,-,ellipsis
+Atölyede çömleği Hasan ve seramiği Dilek yaptı.,Atölyede çömleği Hasan ve Dilek seramiği yaptı.,seramiği Dilek,Dilek seramiği,-,ellipsis
+Markette sebzeleri Zeynep ve bakliyatı Murat aldı.,Markette sebzeleri Zeynep ve Murat bakliyatı aldı.,bakliyatı Murat,Murat bakliyatı,-,ellipsis
+Lunaparkta hız trenine Arda ve dönme dolaba Melis bindi.,Lunaparkta hız trenine Arda ve Melis dönme dolaba bindi.,dönme dolaba Melis,Melis dönme dolaba,-,ellipsis
+Yarışmada parkuru Fatih ve engelleri Selin tasarladı.,Yarışmada parkuru Fatih ve Selin engelleri tasarladı.,engelleri Selin,Selin engelleri,-,ellipsis
+Mutfakta makarnayı Alper ve salatayı Derin hazırladı.,Mutfakta makarnayı Alper ve Derin salatayı hazırladı.,salatayı Derin,Derin salatayı,-,ellipsis
+Bahçede barbeküyü Okan ve masayı Elif kurdu.,Bahçede barbeküyü Okan ve Elif masayı kurdu.,masayı Elif,Elif masayı,-,ellipsis
+Sahilde şemsiyeyi Ali ve havluyu Ceren açtı.,Sahilde şemsiyeyi Ali ve Ceren havluyu açtı.,havluyu Ceren,Ceren havluyu,-,ellipsis
+Düğünde orkestrayı Kerem ve çiçekleri Aslı ayarladı.,Düğünde orkestrayı Kerem ve Aslı çiçekleri ayarladı.,çiçekleri Aslı,Aslı çiçekleri,-,ellipsis
+Bahçede hamakta Ayşe ve salıncakta Bora oturdu.,Bahçede hamakta Ayşe ve Bora salıncakta oturdu.,salıncakta Bora,Bora salıncakta,-,ellipsis
+Doğa yürüyüşünde rotayı Hakan ve ekipmanları Büşra belirledi.,Doğa yürüyüşünde rotayı Hakan ve Büşra ekipmanları belirledi.,ekipmanları Büşra,Büşra ekipmanları,-,ellipsis
+Havuzda şnorkeli Kadir ve havluyu Duygu getirdi.,Havuzda şnorkeli Kadir ve Duygu havluyu getirdi.,havluyu Duygu,Duygu havluyu,-,ellipsis
+Doğum günü partisinde pastayı Mert ve süsleri Gamze ayarladı.,Doğum günü partisinde pastayı Mert ve Gamze süsleri ayarladı.,süsleri Gamze,Gamze süsleri,-,ellipsis
+Fabrikada makineleri Yasin ve raporları Selda kontrol etti.,Fabrikada makineleri Yasin ve Selda raporları kontrol etti.,raporları Selda,Selda raporları,-,ellipsis
+Müzik stüdyosunda gitarı solist ve davulu baterist çaldı.,Müzik stüdyosunda gitarı solist ve baterist davulu çaldı.,davulu baterist,baterist davulu,-,ellipsis
+Sondaj çalışmalarında vanayı tekniker ve boruyu mühendis inceledi.,Sondaj çalışmalarında vanayı tekniker ve mühendis boruyu inceledi.,boruyu mühendis,mühendis boruyu,-,ellipsis
+Veteriner kliniğinde köpeği doktor ve kediyi asistan muayene etti.,Veteriner kliniğinde köpeği doktor ve asistan kediyi muayene etti.,kediyi asistan,asistan kediyi,-,ellipsis
+Kütüphanede rafları asistan ve katalogları memur düzenledi.,Kütüphanede rafları asistan ve memur katalogları düzenledi.,katalogları memur,memur katalogları,-,ellipsis
+Gökdelende camları işçi ve elektrik sistemini teknisyen kontrol etti.,Gökdelende camları işçi ve teknisyen elektrik sistemini kontrol etti.,elektrik sistemini teknisyen,teknisyen elektrik sistemini,-,ellipsis
+Tiyatroda perdeyi sahne görevlisi ve ışıkları yönetmen ayarladı.,Tiyatroda perdeyi sahne görevlisi ve yönetmen ışıkları ayarladı.,ışıkları yönetmen,yönetmen ışıkları,-,ellipsis
+Fırında ekmekleri usta ve pastaları çırak hazırladı.,Fırında ekmekleri usta ve çırak pastaları hazırladı.,pastaları çırak,çırak pastaları,-,ellipsis
+Depoda kutuları işçiler ve faturaları muhasebeci kontrol etti.,Depoda kutuları işçiler ve muhasebeci faturaları kontrol etti.,faturaları muhasebeci,muhasebeci faturaları,-,ellipsis
+Teknede yelkeni kaptan ve halatları miço düzeltti.,Teknede yelkeni kaptan ve miço halatları düzeltti.,halatları miço,miço halatları,-,ellipsis
+Lunaparkta hız trenini operatör ve biletleri gişe görevlisi yönetti.,Lunaparkta hız trenini operatör ve gişe görevlisi biletleri yönetti.,biletleri gişe görevlisi,gişe görevlisi biletleri,-,ellipsis
+Film setinde kamerayı yönetmen ve mikrofonu ses teknisyeni ayarlar.,Film setinde kamerayı yönetmen ve ses teknisyeni mikrofonu ayarlar.,mikrofonu ses teknisyeni,ses teknisyeni mikrofonu,-,ellipsis
+Meteoroloji merkezinde uyduları mühendis ve verileri analist inceler.,Meteoroloji merkezinde uyduları mühendis ve analist verileri inceler.,verileri analist,analist verileri,-,ellipsis
+Yarış pistinde arabayı sürücü ve lastikleri teknisyen değiştirdi.,Yarış pistinde arabayı sürücü ve teknisyen lastikleri değiştirdi.,lastikleri teknisyen,teknisyen lastikleri,-,ellipsis

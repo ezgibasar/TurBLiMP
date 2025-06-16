@@ -1,0 +1,1001 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Akşam kızlarla partiye gittik ve çok eğlendik.,Akşam kızlarla partiye git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Öznur ablasının nişan töreni için giyindi ve süslendi.,Öznur ablasının nişan töreni için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Dün pazara uğradım ve bir sürü sebze aldım.,Dün pazara uğra ve bir sürü sebze aldım.,uğradım,uğra,aldım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Yeni aldığım elbiseyi denedim ve çok beğendim.,Yeni aldığım elbiseyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Hafta sonu pikniğe gittik ve mangal yaktık.,Hafta sonu pikniğe git ve mangal yaktık.,gittik,git,yaktık,suspended_affixation
+Kardeşimle kavga ettik ve sonra barıştık.,Kardeşimle kavga et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Yarışmada birinci oldu ve ödül aldı.,Yarışmada birinci ol ve ödül aldı.,oldu,ol,aldı,suspended_affixation
+Annemle pazara çıktık ve meyve aldık.,Annemle pazara çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Arkadaşlarımla buluştuk ve sinemaya gittik.,Arkadaşlarımla buluş ve sinemaya gittik.,buluştuk,buluş,gittik,suspended_affixation
+Ödevlerimi bitirdim ve oyun oynamaya başladım.,Ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Kedimi veterinere götürdüm ve aşı yaptırdım.,Kedimi veterinere götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Yemek yaptılar ve misafirleri ağırladılar.,Yemek yap ve misafirleri ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Konsere bilet aldım ve arkadaşımla gittim.,Konsere bilet al ve arkadaşımla gittim.,aldım,al,gittim,suspended_affixation
+Sabah erken kalktım ve koşuya çıktım.,Sabah erken kalk ve koşuya çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Projeyi tamamladın ve sunumu hazırladın.,Projeyi tamamla ve sunumu hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Telefonumu şarj ettim ve mesajları kontrol ettim.,Telefonumu şarj et ve mesajları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Maçı izledik ve sonucu tartıştık.,Maçı izle ve sonucu tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Kütüphaneye gitti ve kitap aldı.,Kütüphaneye git ve kitap aldı.,gitti,git,aldı,suspended_affixation
+Kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Kahvaltı hazırla ve ailesiyle zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Almanca çalıştım ve arkadaşlarımla pratik yaptım.,Almanca çalış ve arkadaşlarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Arabayı yıkadım ve içini temizledim.,Arabayı yıka ve içini temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Bitkileri suladım ve dallarını budadım.,Bitkileri sula ve dallarını budadım.,suladım,sula,budadım,suspended_affixation
+Raporu hazırladım ve müdüre sundum.,Raporu hazırla ve müdüre sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Spor yaptım ve duş aldım.,Spor yap ve duş aldım.,yaptım,yap,aldım,suspended_affixation
+Şarkı söyledim ve dans ettim.,Şarkı söyle ve dans ettim.,söyledim,söyle,ettim,suspended_affixation
+Yorgun olduğum için yattım ve erkenden uyudum.,Yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Kazağı ördü ve sevgilisine hediye etti.,Kazağı ör ve sevgilisine hediye etti.,ördü,ör,etti,suspended_affixation
+Bisiklete bindik ve parkta tur attık.,Bisiklete bin ve parkta tur attık.,bindik,bin,attık,suspended_affixation
+Yemeği ısıttım ve yedim.,Yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Kedimi sevdim ve mamasını verdim.,Kedimi sev ve mamasını verdim.,sevdim,sev,verdim,suspended_affixation
+Kapıyı açtım ve misafirleri karşıladım.,Kapıyı aç ve misafirleri karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Yarışa katıldı ve iyi bir derece aldı.,Yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Fotoğraf çekti ve albüme koydu.,Fotoğraf çek ve albüme koydu.,çekti,çek,koydu,suspended_affixation
+Kıyafetleri ütüledim ve dolaba astım.,Kıyafetleri ütüle ve dolaba astım.,ütüledim,ütüle,astım,suspended_affixation
+Kurabiye pişirdim ve komşulara dağıttım.,Kurabiye pişir ve komşulara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Aşure yaptık ve komşulara dağıttık.,Aşure yap ve komşulara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Çok çalıştım ve sınavı geçtim.,Çok çalış ve sınavı geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Köpeği gezdirdim ve sonra eve getirdim.,Köpeği gezdir ve sonra eve getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Bulaşıkları yıkadım ve makineye yerleştirdim.,Bulaşıkları yıka ve makineye yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Gelen mesajları kontrol etti ve cevapladı.,Gelen mesajları kontrol et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Konsere gittim ve çok eğlendim.,Konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Yüzme havuzuna girdim ve yüzdüm.,Yüzme havuzuna gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Kitapları düzenlediler ve raflara yerleştirdiler.,Kitapları düzenle ve raflara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Toplantıya katıldım ve fikirlerimi paylaştım.,Toplantıya katıl ve fikirlerimi paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Çantamı hazırladım ve yola çıktım.,Çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Kuşuma yem verdim ve suyunu tazeledim.,Kuşuma yem ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kıyafetleri katladım ve çekmeceye koydum.,Kıyafetleri katla ve çekmeceye koydum.,katladım,katla,koydum,suspended_affixation
+Raftaki kitaplara göz attım ve beğendiğimi aldım.,Raftaki kitaplara göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Müzik dinledim ve rahatladım.,Müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Menüye yeni bir tarif koyuldu ve çok beğenildi.,Menüye yeni bir tarif koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Bahçeyi temizledim ve çiçek ektim.,Bahçeyi temizle ve çiçek ektim.,temizledim,temizle,ektim,suspended_affixation
+Kahvemi içtim ve gazeteyi okudum.,Kahvemi iç ve gazeteyi okudum.,içtim,iç,okudum,suspended_affixation
+Yürüyüşe çıktı ve manzarayı izledi.,Yürüyüşe çık ve manzarayı izledi.,çıktı,çık,izledi,suspended_affixation
+Kaza yaptım ve hastaneye gittim.,Kaza yap ve hastaneye gittim.,yaptım,yap,gittim,suspended_affixation
+Yemek sipariş ettim ve kapıda ödedim.,Yemek sipariş et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yatak örtüsünü değiştirdiler ve yatağı topladılar.,Yatak örtüsünü değiştir ve yatağı topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Trafikte sıkıştım ve geç kaldım.,Trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Konser bileti aldım ve arkadaşıma haber verdim.,Konser bileti al ve arkadaşıma haber verdim.,aldım,al,verdim,suspended_affixation
+Çocuklara masal okudum ve uyuttum.,Çocuklara masal oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Kırmızı ışıkta durdu ve bekledi.,Kırmızı ışıkta dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Yeni bir iş buldu ve para kazanmaya başladı.,Yeni bir iş bul ve para kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Kedimi veterinere götürdüm ve muayene ettirdim.,Kedimi veterinere götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kıyafetleri yıkadım ve kuruttum.,Kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Kek pişirdim ve üstünü süsledim.,Kek pişir ve üstünü süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Spor salonuna kaydoldu ve düzenli gitmeye başladı.,Spor salonuna kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Çiçekleri suladım ve toprağını değiştirdim.,Çiçekleri sula ve toprağını değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Uçağa bindiler ve memlekete gittiler.,Uçağa bin ve memlekete gittiler.,bindiler,bin,gittiler,suspended_affixation
+Kütüphaneden kitap aldım ve okudum.,Kütüphaneden kitap al ve okudum.,aldım,al,okudum,suspended_affixation
+Konsere gittim ve şarkılara eşlik ettim.,Konsere git ve şarkılara eşlik ettim.,gittim,git,ettim,suspended_affixation
+Yemek yedim ve su içtim.,Yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Arabayı park ettim ve alışveriş merkezine girdim.,Arabayı park et ve alışveriş merkezine girdim.,ettim,et,girdim,suspended_affixation
+Bebeği sevdim ve kucağıma aldım.,Bebeği sev ve kucağıma aldım.,sevdim,sev,aldım,suspended_affixation
+Yürüyüş yaptık ve güzelce terledik.,Yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Telefonu şarja koydum ve biraz dolunca açtım.,Telefonu şarja koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Kıyafetleri ütüledi ve oğluna verdi.,Kıyafetleri ütüle ve oğluna verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Güzel bir kahve yaptım ve içtim.,Güzel bir kahve yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Köpeğimi taradım ve tüylerini topladım.,Köpeğimi tara ve tüylerini topladım.,taradım,tara,topladım,suspended_affixation
+Kaza yaptı ve polisi aradı.,Kaza yap ve polisi aradı.,yaptı,yap,aradı,suspended_affixation
+Yemek sipariş ettim ve gelmesini bekledim.,Yemek sipariş et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Kıyafetleri katladım ve dolaba koydum.,Kıyafetleri katla ve dolaba koydum.,katladım,katla,koydum,suspended_affixation
+Konsere gittim ve dans ettim.,Konsere git ve dans ettim.,gittim,git,ettim,suspended_affixation
+Yeni bir işe başladı ve hemen uyum sağladı.,Yeni bir işe başla ve hemen uyum sağladı.,başladı,başla,sağladı,suspended_affixation
+Kediyi veterinere götürdüler ve aşı yaptırdılar.,Kediyi veterinere götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Arabayı yıkadım ve cilaladım.,Arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Projeyi tamamladık ve sunuma hazırladık.,Projeyi tamamla ve sunuma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Raporu inceledim ve onayladım.,Raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Yeni şarkı besteledim ve kaydettim.,Yeni şarkı beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Konser biletlerini ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Ders notlarını temize çektim ve gruba attım.,Ders notlarını temize çek ve gruba attım.,çektim,çek,attım,suspended_affixation
+Mobilyaları monte ettik ve yerine yerleştirdik.,Mobilyaları monte et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Kıyafetleri katladım ve bavula yerleştirdim.,Kıyafetleri katla ve bavula yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Sınav kağıtlarını okudum ve notlandırdım.,Sınav kağıtlarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Yeni tarifi denedim ve çok beğendim.,Yeni tarifi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Kurabiyeleri pişirdim ve soğumaya bıraktım.,Kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Yeni takvimi astım ve önemli tarihleri işaretledim.,Yeni takvimi as ve önemli tarihleri işaretledim.,astım,as,işaretledim,suspended_affixation
+Akşam kızlarla sendikaya gittik ve çok eğlendik.,Akşam kızlarla sendikaya git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla kişiye gittik ve çok eğlendik.,Akşam kızlarla kişiye git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla cemaate gittik ve çok eğlendik.,Akşam kızlarla cemaate git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla davaya gittik ve çok eğlendik.,Akşam kızlarla davaya git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla aileye gittik ve çok eğlendik.,Akşam kızlarla aileye git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla partiye gittik ve çok eğlendik.,Akşam kızlarla partiye git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla taka gittik ve çok eğlendik.,Akşam kızlarla taka git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla firmaya gittik ve çok eğlendik.,Akşam kızlarla firmaya git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Akşam kızlarla tarikata gittik ve çok eğlendik.,Akşam kızlarla tarikata git ve çok eğlendik.,gittik,git,eğlendik,suspended_affixation
+Ruhsatsız olduğu tespit edilen yatır mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen yatır mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen bank mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen bank mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen şirket mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen şirket mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen ortaklık mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen ortaklık mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen fabrika mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen fabrika mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen otel mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen otel mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen firma mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen firma mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen ticaret mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen ticaret mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Ruhsatsız olduğu tespit edilen sanayi mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen sanayi mühürlen ve kapatıldı.,mühürlendi,mühürlen,kapatıldı,suspended_affixation
+Öznur ablasının nişan merasimini için giyindi ve süslendi.,Öznur ablasının nişan merasimini için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan cenazeni için giyindi ve süslendi.,Öznur ablasının nişan cenazeni için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan ayinini için giyindi ve süslendi.,Öznur ablasının nişan ayinini için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan toplantını için giyindi ve süslendi.,Öznur ablasının nişan toplantını için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan konserini için giyindi ve süslendi.,Öznur ablasının nişan konserini için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan ziyaretini için giyindi ve süslendi.,Öznur ablasının nişan ziyaretini için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan festivalini için giyindi ve süslendi.,Öznur ablasının nişan festivalini için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nişan partini için giyindi ve süslendi.,Öznur ablasının nişan partini için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Öznur ablasının nisa töreni için giyindi ve süslendi.,Öznur ablasının nisa töreni için giyin ve süslendi.,giyindi,giyin,süslendi,suspended_affixation
+Dün pazara uğradım ve bir sürü meyve aldım.,Dün pazara uğra ve bir sürü meyve aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü balık aldım.,Dün pazara uğra ve bir sürü balık aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü patates aldım.,Dün pazara uğra ve bir sürü patates aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü tavuk aldım.,Dün pazara uğra ve bir sürü tavuk aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü mantar aldım.,Dün pazara uğra ve bir sürü mantar aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü domates aldım.,Dün pazara uğra ve bir sürü domates aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü meyva aldım.,Dün pazara uğra ve bir sürü meyva aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün pazara uğradım ve bir sürü kavun aldım.,Dün pazara uğra ve bir sürü kavun aldım.,uğradım,uğra,aldım,suspended_affixation
+Dün piyasaya uğradım ve bir sürü sebze aldım.,Dün piyasaya uğra ve bir sürü sebze aldım.,uğradım,uğra,aldım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze peynir aldırdım.,Sabah ufaklığı bakkala gönder ve taze peynir aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze makarna aldırdım.,Sabah ufaklığı bakkala gönder ve taze makarna aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze patates aldırdım.,Sabah ufaklığı bakkala gönder ve taze patates aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze pi aldırdım.,Sabah ufaklığı bakkala gönder ve taze pi aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze pas aldırdım.,Sabah ufaklığı bakkala gönder ve taze pas aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze sut aldırdım.,Sabah ufaklığı bakkala gönder ve taze sut aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze yumurta aldırdım.,Sabah ufaklığı bakkala gönder ve taze yumurta aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze tuz aldırdım.,Sabah ufaklığı bakkala gönder ve taze tuz aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Sabah ufaklığı bakkala gönderdim ve taze simit aldırdım.,Sabah ufaklığı bakkala gönder ve taze simit aldırdım.,gönderdim,gönder,aldırdım,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun merak gösterildi.,Festivale yüksek katılım sağlan ve yoğun merak gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun istek gösterildi.,Festivale yüksek katılım sağlan ve yoğun istek gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun teşvik gösterildi.,Festivale yüksek katılım sağlan ve yoğun teşvik gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun destek gösterildi.,Festivale yüksek katılım sağlan ve yoğun destek gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun sevgi gösterildi.,Festivale yüksek katılım sağlan ve yoğun sevgi gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun yetenek gösterildi.,Festivale yüksek katılım sağlan ve yoğun yetenek gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun talep gösterildi.,Festivale yüksek katılım sağlan ve yoğun talep gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Festivale yüksek katılım sağlandı ve yoğun alaka gösterildi.,Festivale yüksek katılım sağlan ve yoğun alaka gösterildi.,sağlandı,sağlan,gösterildi,suspended_affixation
+Yeni aldığım elbiseyi denedim ve çok beğendim.,Yeni aldığım elbiseyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni aldığım ayakkabıyı denedim ve çok beğendim.,Yeni aldığım ayakkabıyı dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni aldığım kıyafeti denedim ve çok beğendim.,Yeni aldığım kıyafeti dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni aldığım giysiyi denedim ve çok beğendim.,Yeni aldığım giysiyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni aldığım aksesuarı denedim ve çok beğendim.,Yeni aldığım aksesuarı dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Demek ki yeni aldığım elbiseyi denedim ve çok beğendim.,Demek ki yeni aldığım elbiseyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Belli ki yeni aldığım elbiseyi denedim ve çok beğendim.,Belli ki yeni aldığım elbiseyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yani yeni aldığım elbiseyi denedim ve çok beğendim.,Yani yeni aldığım elbiseyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Görünüşe göre yeni aldığım elbiseyi denedim ve çok beğendim.,Görünüşe göre yeni aldığım elbiseyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Hafta sonu pikniğe gittik ve piknik yaktık.,Hafta sonu pikniğe git ve piknik yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve set yaktık.,Hafta sonu pikniğe git ve set yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve semaver yaktık.,Hafta sonu pikniğe git ve semaver yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve ocak yaktık.,Hafta sonu pikniğe git ve ocak yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve ateş yaktık.,Hafta sonu pikniğe git ve ateş yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve sis yaktık.,Hafta sonu pikniğe git ve sis yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve masa yaktık.,Hafta sonu pikniğe git ve masa yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve kul yaktık.,Hafta sonu pikniğe git ve kul yaktık.,gittik,git,yaktık,suspended_affixation
+Hafta sonu pikniğe gittik ve nargile yaktık.,Hafta sonu pikniğe git ve nargile yaktık.,gittik,git,yaktık,suspended_affixation
+Kardeşimle kavga ettik ve sonra barıştık.,Kardeşimle kavga et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle şiddet ettik ve sonra barıştık.,Kardeşimle şiddet et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle saldırı ettik ve sonra barıştık.,Kardeşimle saldırı et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle cinayet ettik ve sonra barıştık.,Kardeşimle cinayet et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle darp ettik ve sonra barıştık.,Kardeşimle darp et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle panik ettik ve sonra barıştık.,Kardeşimle panik et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle arbede ettik ve sonra barıştık.,Kardeşimle arbede et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle ateş ettik ve sonra barıştık.,Kardeşimle ateş et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Kardeşimle tehdit ettik ve sonra barıştık.,Kardeşimle tehdit et ve sonra barıştık.,ettik,et,barıştık,suspended_affixation
+Yarışmada birinci oldu ve ceza aldı.,Yarışmada birinci ol ve ceza aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve par aldı.,Yarışmada birinci ol ve par aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve hediye aldı.,Yarışmada birinci ol ve hediye aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve mansiyon aldı.,Yarışmada birinci ol ve mansiyon aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve madalya aldı.,Yarışmada birinci ol ve madalya aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve teşvik aldı.,Yarışmada birinci ol ve teşvik aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve ikramiye aldı.,Yarışmada birinci ol ve ikramiye aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve plaket aldı.,Yarışmada birinci ol ve plaket aldı.,oldu,ol,aldı,suspended_affixation
+Yarışmada birinci oldu ve tazminat aldı.,Yarışmada birinci ol ve tazminat aldı.,oldu,ol,aldı,suspended_affixation
+Annemle piyasaya çıktık ve meyve aldık.,Annemle piyasaya çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle pazara çıktık ve meyve aldık.,Annemle pazara çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle firmaya çıktık ve meyve aldık.,Annemle firmaya çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle hizmete çıktık ve meyve aldık.,Annemle hizmete çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle fuara çıktık ve meyve aldık.,Annemle fuara çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle ticarete çıktık ve meyve aldık.,Annemle ticarete çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle taka çıktık ve meyve aldık.,Annemle taka çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle sahaya çıktık ve meyve aldık.,Annemle sahaya çık ve meyve aldık.,çıktık,çık,aldık,suspended_affixation
+Annemle pazara çıktık ve sebze aldık.,Annemle pazara çık ve sebze aldık.,çıktık,çık,aldık,suspended_affixation
+Arkadaşlarımla buluştuk ve sinemaya gittik.,Arkadaşlarımla buluş ve sinemaya gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve tiyatroya gittik.,Arkadaşlarımla buluş ve tiyatroya gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve televizyona gittik.,Arkadaşlarımla buluş ve televizyona gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve filme gittik.,Arkadaşlarımla buluş ve filme gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve hastaneye gittik.,Arkadaşlarımla buluş ve hastaneye gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve oya gittik.,Arkadaşlarımla buluş ve oya gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve salona gittik.,Arkadaşlarımla buluş ve salona gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve seyirciye gittik.,Arkadaşlarımla buluş ve seyirciye gittik.,buluştuk,buluş,gittik,suspended_affixation
+Arkadaşlarımla buluştuk ve konsere gittik.,Arkadaşlarımla buluş ve konsere gittik.,buluştuk,buluş,gittik,suspended_affixation
+Ödevlerimi bitirdim ve oyun oynamaya başladım.,Ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Anlaşılıyor ki ödevlerimi bitirdim ve oyun oynamaya başladım.,Anlaşılıyor ki ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+O halde ödevlerimi bitirdim ve oyun oynamaya başladım.,O halde ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Öyle görünüyor ki ödevlerimi bitirdim ve oyun oynamaya başladım.,Öyle görünüyor ki ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Yani ödevlerimi bitirdim ve oyun oynamaya başladım.,Yani ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Belli ki ödevlerimi bitirdim ve oyun oynamaya başladım.,Belli ki ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Demek ki ödevlerimi bitirdim ve oyun oynamaya başladım.,Demek ki ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Görünüşe göre ödevlerimi bitirdim ve oyun oynamaya başladım.,Görünüşe göre ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Şu halde ödevlerimi bitirdim ve oyun oynamaya başladım.,Şu halde ödevlerimi bitir ve oyun oynamaya başladım.,bitirdim,bitir,başladım,suspended_affixation
+Kedimi veterinere götürdüm ve aşı yaptırdım.,Kedimi veterinere götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi veterinere götürdüm ve as yaptırdım.,Kedimi veterinere götür ve as yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi hastaneye götürdüm ve aşı yaptırdım.,Kedimi hastaneye götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi hayvana götürdüm ve aşı yaptırdım.,Kedimi hayvana götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi eve götürdüm ve aşı yaptırdım.,Kedimi eve götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi doktora götürdüm ve aşı yaptırdım.,Kedimi doktora götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi kediye götürdüm ve aşı yaptırdım.,Kedimi kediye götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi kopeğe götürdüm ve aşı yaptırdım.,Kedimi kopeğe götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Kedimi hekime götürdüm ve aşı yaptırdım.,Kedimi hekime götür ve aşı yaptırdım.,götürdüm,götür,yaptırdım,suspended_affixation
+Yemek yaptılar ve misafirleri ağırladılar.,Yemek yap ve misafirleri ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve yakınları ağırladılar.,Yemek yap ve yakınları ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve aileleri ağırladılar.,Yemek yap ve aileleri ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve dostları ağırladılar.,Yemek yap ve dostları ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve personelleri ağırladılar.,Yemek yap ve personelleri ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve hastaları ağırladılar.,Yemek yap ve hastaları ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve akrabaları ağırladılar.,Yemek yap ve akrabaları ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Yemek yaptılar ve torunları ağırladılar.,Yemek yap ve torunları ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Öyle görünüyor ki yemek yaptılar ve misafirleri ağırladılar.,Öyle görünüyor ki yemek yap ve misafirleri ağırladılar.,yaptılar,yap,ağırladılar,suspended_affixation
+Konsere bilet aldım ve ailemle gittim.,Konsere bilet al ve ailemle gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve telefonumla gittim.,Konsere bilet al ve telefonumla gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve evimle gittim.,Konsere bilet al ve evimle gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve sevgilimle gittim.,Konsere bilet al ve sevgilimle gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve kızımla gittim.,Konsere bilet al ve kızımla gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve mesajımla gittim.,Konsere bilet al ve mesajımla gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve otelimle gittim.,Konsere bilet al ve otelimle gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve okulumla gittim.,Konsere bilet al ve okulumla gittim.,aldım,al,gittim,suspended_affixation
+Konsere bilet aldım ve arabamla gittim.,Konsere bilet al ve arabamla gittim.,aldım,al,gittim,suspended_affixation
+Sabah erken kalktım ve koşuya çıktım.,Sabah erken kalk ve koşuya çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve bisiklete çıktım.,Sabah erken kalk ve bisiklete çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve konuya çıktım.,Sabah erken kalk ve konuya çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve maratona çıktım.,Sabah erken kalk ve maratona çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve antrenmana çıktım.,Sabah erken kalk ve antrenmana çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve harekete çıktım.,Sabah erken kalk ve harekete çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve atlete çıktım.,Sabah erken kalk ve atlete çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Sabah erken kalktım ve sprinte çıktım.,Sabah erken kalk ve sprinte çıktım.,kalktım,kalk,çıktım,suspended_affixation
+O halde sabah erken kalktım ve koşuya çıktım.,O halde sabah erken kalk ve koşuya çıktım.,kalktım,kalk,çıktım,suspended_affixation
+Projeyi tamamladın ve konferansımı hazırladın.,Projeyi tamamla ve konferansımı hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve filmimi hazırladın.,Projeyi tamamla ve filmimi hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve sergimi hazırladın.,Projeyi tamamla ve sergimi hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve seminerimi hazırladın.,Projeyi tamamla ve seminerimi hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve projemi hazırladın.,Projeyi tamamla ve projemi hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve sunumumu hazırladın.,Projeyi tamamla ve sunumumu hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve videomu hazırladın.,Projeyi tamamla ve videomu hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Projeyi tamamladın ve sunumu hazırladın.,Projeyi tamamla ve sunumu hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Görünüşe göre projeyi tamamladın ve sunumu hazırladın.,Görünüşe göre projeyi tamamla ve sunumu hazırladın.,tamamladın,tamamla,hazırladın,suspended_affixation
+Telefonumu şarj ettim ve mesajları kontrol ettim.,Telefonumu şarj et ve mesajları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve sözleri kontrol ettim.,Telefonumu şarj et ve sözleri kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve cevapları kontrol ettim.,Telefonumu şarj et ve cevapları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve videoları kontrol ettim.,Telefonumu şarj et ve videoları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve kayıtları kontrol ettim.,Telefonumu şarj et ve kayıtları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve resimleri kontrol ettim.,Telefonumu şarj et ve resimleri kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve istekleri kontrol ettim.,Telefonumu şarj et ve istekleri kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve araları kontrol ettim.,Telefonumu şarj et ve araları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Telefonumu şarj ettim ve mektupları kontrol ettim.,Telefonumu şarj et ve mektupları kontrol ettim.,ettim,et,ettim,suspended_affixation
+Maçı izledik ve etkiyi tartıştık.,Maçı izle ve etkiyi tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Maçı izledik ve nedeni tartıştık.,Maçı izle ve nedeni tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Maçı izledik ve zararı tartıştık.,Maçı izle ve zararı tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Maçı izledik ve ihmali tartıştık.,Maçı izle ve ihmali tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Maçı izledik ve tersi tartıştık.,Maçı izle ve tersi tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Maçı izledik ve katkıyı tartıştık.,Maçı izle ve katkıyı tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Maçı izledik ve sonucu tartıştık.,Maçı izle ve sonucu tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Anlaşılan maçı izledik ve sonucu tartıştık.,Anlaşılan maçı izle ve sonucu tartıştık.,izledik,izle,tartıştık,suspended_affixation
+O halde maçı izledik ve sonucu tartıştık.,O halde maçı izle ve sonucu tartıştık.,izledik,izle,tartıştık,suspended_affixation
+Kütüphaneye gitti ve kitap aldı.,Kütüphaneye git ve kitap aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve dergi aldı.,Kütüphaneye git ve dergi aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve film aldı.,Kütüphaneye git ve film aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve gazete aldı.,Kütüphaneye git ve gazete aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve defter aldı.,Kütüphaneye git ve defter aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve kaset aldı.,Kütüphaneye git ve kaset aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve makale aldı.,Kütüphaneye git ve makale aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve müzik aldı.,Kütüphaneye git ve müzik aldı.,gitti,git,aldı,suspended_affixation
+Kütüphaneye gitti ve dvd aldı.,Kütüphaneye git ve dvd aldı.,gitti,git,aldı,suspended_affixation
+Kahvaltı hazırladı ve babasıyla zaman geçirdi.,Kahvaltı hazırla ve babasıyla zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve sevgilisiyle zaman geçirdi.,Kahvaltı hazırla ve sevgilisiyle zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve eviyle zaman geçirdi.,Kahvaltı hazırla ve eviyle zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve annesiyle zaman geçirdi.,Kahvaltı hazırla ve annesiyle zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve kuzeniyle zaman geçirdi.,Kahvaltı hazırla ve kuzeniyle zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve akrabasıyla zaman geçirdi.,Kahvaltı hazırla ve akrabasıyla zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve isiyle zaman geçirdi.,Kahvaltı hazırla ve isiyle zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve yasıyla zaman geçirdi.,Kahvaltı hazırla ve yasıyla zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Kahvaltı hazırladı ve organıyla zaman geçirdi.,Kahvaltı hazırla ve organıyla zaman geçirdi.,hazırladı,hazırla,geçirdi,suspended_affixation
+Almanca çalıştım ve ailelerimle pratik yaptım.,Almanca çalış ve ailelerimle pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve dostlarımla pratik yaptım.,Almanca çalış ve dostlarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve telefonlarımla pratik yaptım.,Almanca çalış ve telefonlarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve arkadaşlarımla pratik yaptım.,Almanca çalış ve arkadaşlarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve okullarımla pratik yaptım.,Almanca çalış ve okullarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve evlerimle pratik yaptım.,Almanca çalış ve evlerimle pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve gruplarımla pratik yaptım.,Almanca çalış ve gruplarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve islerimle pratik yaptım.,Almanca çalış ve islerimle pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Almanca çalıştım ve insanlarımla pratik yaptım.,Almanca çalış ve insanlarımla pratik yaptım.,çalıştım,çalış,yaptım,suspended_affixation
+Arabayı yıkadım ve içini temizledim.,Arabayı yıka ve içini temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Arabayı yıkadım ve ruhunu temizledim.,Arabayı yıka ve ruhunu temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Arabayı yıkadım ve tamamını temizledim.,Arabayı yıka ve tamamını temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Arabayı yıkadım ve nedenini temizledim.,Arabayı yıka ve nedenini temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Arabayı yıkadım ve dışını temizledim.,Arabayı yıka ve dışını temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Arabayı yıkadım ve arkanı temizledim.,Arabayı yıka ve arkanı temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Arabayı yıkadım ve seni temizledim.,Arabayı yıka ve seni temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Öyle görünüyor ki arabayı yıkadım ve içini temizledim.,Öyle görünüyor ki arabayı yıka ve içini temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Anlaşılan arabayı yıkadım ve içini temizledim.,Anlaşılan arabayı yıka ve içini temizledim.,yıkadım,yıka,temizledim,suspended_affixation
+Bitkileri suladım ve dallarını budadım.,Bitkileri sula ve dallarını budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve ailelerini budadım.,Bitkileri sula ve ailelerini budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve gruplarını budadım.,Bitkileri sula ve gruplarını budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve soyadılarını budadım.,Bitkileri sula ve soyadılarını budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve bacaklarını budadım.,Bitkileri sula ve bacaklarını budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve organlarını budadım.,Bitkileri sula ve organlarını budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve hayvanlarını budadım.,Bitkileri sula ve hayvanlarını budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve faaliyetlerini budadım.,Bitkileri sula ve faaliyetlerini budadım.,suladım,sula,budadım,suspended_affixation
+Bitkileri suladım ve kitaplarını budadım.,Bitkileri sula ve kitaplarını budadım.,suladım,sula,budadım,suspended_affixation
+Raporu hazırladım ve müdüre sundum.,Raporu hazırla ve müdüre sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve okula sundum.,Raporu hazırla ve okula sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve birime sundum.,Raporu hazırla ve birime sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve merkeze sundum.,Raporu hazırla ve merkeze sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve personele sundum.,Raporu hazırla ve personele sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve sendikaya sundum.,Raporu hazırla ve sendikaya sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve seye sundum.,Raporu hazırla ve seye sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve dekana sundum.,Raporu hazırla ve dekana sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Raporu hazırladım ve bankaya sundum.,Raporu hazırla ve bankaya sundum.,hazırladım,hazırla,sundum,suspended_affixation
+Spor yaptım ve duş aldım.,Spor yap ve duş aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve sel aldım.,Spor yap ve sel aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve darbe aldım.,Spor yap ve darbe aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve ocak aldım.,Spor yap ve ocak aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve deprem aldım.,Spor yap ve deprem aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve şut aldım.,Spor yap ve şut aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve ameliyat aldım.,Spor yap ve ameliyat aldım.,yaptım,yap,aldım,suspended_affixation
+Spor yaptım ve havale aldım.,Spor yap ve havale aldım.,yaptım,yap,aldım,suspended_affixation
+Anlaşılıyor ki spor yaptım ve duş aldım.,Anlaşılıyor ki spor yap ve duş aldım.,yaptım,yap,aldım,suspended_affixation
+Şarkı söyledim ve dans ettim.,Şarkı söyle ve dans ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve müzik ettim.,Şarkı söyle ve müzik ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve bale ettim.,Şarkı söyle ve bale ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve jimnastik ettim.,Şarkı söyle ve jimnastik ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve tiyatro ettim.,Şarkı söyle ve tiyatro ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve komedi ettim.,Şarkı söyle ve komedi ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve futbol ettim.,Şarkı söyle ve futbol ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve fark ettim.,Şarkı söyle ve fark ettim.,söyledim,söyle,ettim,suspended_affixation
+Şarkı söyledim ve şiddet ettim.,Şarkı söyle ve şiddet ettim.,söyledim,söyle,ettim,suspended_affixation
+Anlaşılan yorgun olduğum için yattım ve erkenden uyudum.,Anlaşılan yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Görünüşe göre yorgun olduğum için yattım ve erkenden uyudum.,Görünüşe göre yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Öyle görünüyor ki yorgun olduğum için yattım ve erkenden uyudum.,Öyle görünüyor ki yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+O halde yorgun olduğum için yattım ve erkenden uyudum.,O halde yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Anlaşılıyor ki yorgun olduğum için yattım ve erkenden uyudum.,Anlaşılıyor ki yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Şu halde yorgun olduğum için yattım ve erkenden uyudum.,Şu halde yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Belli ki yorgun olduğum için yattım ve erkenden uyudum.,Belli ki yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Yani yorgun olduğum için yattım ve erkenden uyudum.,Yani yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Demek ki yorgun olduğum için yattım ve erkenden uyudum.,Demek ki yorgun olduğum için yat ve erkenden uyudum.,yattım,yat,uyudum,suspended_affixation
+Kazağı ördü ve sevgilisine hediye etti.,Kazağı ör ve sevgilisine hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve babasına hediye etti.,Kazağı ör ve babasına hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve annesine hediye etti.,Kazağı ör ve annesine hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve ailesine hediye etti.,Kazağı ör ve ailesine hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve dostuna hediye etti.,Kazağı ör ve dostuna hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve kızına hediye etti.,Kazağı ör ve kızına hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve karısına hediye etti.,Kazağı ör ve karısına hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve evine hediye etti.,Kazağı ör ve evine hediye etti.,ördü,ör,etti,suspended_affixation
+Kazağı ördü ve kocasına hediye etti.,Kazağı ör ve kocasına hediye etti.,ördü,ör,etti,suspended_affixation
+Bisiklete bindik ve sokakta tur attık.,Bisiklete bin ve sokakta tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve evde tur attık.,Bisiklete bin ve evde tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve ormanda tur attık.,Bisiklete bin ve ormanda tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve yerde tur attık.,Bisiklete bin ve yerde tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve sahilde tur attık.,Bisiklete bin ve sahilde tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve yolda tur attık.,Bisiklete bin ve yolda tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve dede tur attık.,Bisiklete bin ve dede tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve arazide tur attık.,Bisiklete bin ve arazide tur attık.,bindik,bin,attık,suspended_affixation
+Bisiklete bindik ve havuzda tur attık.,Bisiklete bin ve havuzda tur attık.,bindik,bin,attık,suspended_affixation
+Yemeği ısıttım ve yedim.,Yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Yani yemeği ısıttım ve yedim.,Yani yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Anlaşılıyor ki yemeği ısıttım ve yedim.,Anlaşılıyor ki yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Belli ki yemeği ısıttım ve yedim.,Belli ki yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+O halde yemeği ısıttım ve yedim.,O halde yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Şu halde yemeği ısıttım ve yedim.,Şu halde yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Demek ki yemeği ısıttım ve yedim.,Demek ki yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Öyle görünüyor ki yemeği ısıttım ve yedim.,Öyle görünüyor ki yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Anlaşılan yemeği ısıttım ve yedim.,Anlaşılan yemeği ısıt ve yedim.,ısıttım,ısıt,yedim,suspended_affixation
+Kedimi sevdim ve mamasını verdim.,Kedimi sev ve mamasını verdim.,sevdim,sev,verdim,suspended_affixation
+Kedimi sevdim ve suyunu verdim.,Kedimi sev ve suyunu verdim.,sevdim,sev,verdim,suspended_affixation
+Kedimi sevdim ve oyuncağını verdim.,Kedimi sev ve oyuncağını verdim.,sevdim,sev,verdim,suspended_affixation
+Kedimi sevdim ve emziğini verdim.,Kedimi sev ve emziğini verdim.,sevdim,sev,verdim,suspended_affixation
+Kedimi sevdim ve sudunu verdim.,Kedimi sev ve sudunu verdim.,sevdim,sev,verdim,suspended_affixation
+Kedimi sevdim ve oyunu verdim.,Kedimi sev ve oyunu verdim.,sevdim,sev,verdim,suspended_affixation
+O halde kedimi sevdim ve mamasını verdim.,O halde kedimi sev ve mamasını verdim.,sevdim,sev,verdim,suspended_affixation
+Anlaşılıyor ki kedimi sevdim ve mamasını verdim.,Anlaşılıyor ki kedimi sev ve mamasını verdim.,sevdim,sev,verdim,suspended_affixation
+Belli ki kedimi sevdim ve mamasını verdim.,Belli ki kedimi sev ve mamasını verdim.,sevdim,sev,verdim,suspended_affixation
+Kapıyı açtım ve misafirleri karşıladım.,Kapıyı aç ve misafirleri karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve yakınları karşıladım.,Kapıyı aç ve yakınları karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve aileleri karşıladım.,Kapıyı aç ve aileleri karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve dostları karşıladım.,Kapıyı aç ve dostları karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve personelleri karşıladım.,Kapıyı aç ve personelleri karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve hastaları karşıladım.,Kapıyı aç ve hastaları karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve akrabaları karşıladım.,Kapıyı aç ve akrabaları karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Kapıyı açtım ve torunları karşıladım.,Kapıyı aç ve torunları karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Anlaşılıyor ki kapıyı açtım ve misafirleri karşıladım.,Anlaşılıyor ki kapıyı aç ve misafirleri karşıladım.,açtım,aç,karşıladım,suspended_affixation
+Anlaşılıyor ki yarışa katıldı ve iyi bir derece aldı.,Anlaşılıyor ki yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Anlaşılan yarışa katıldı ve iyi bir derece aldı.,Anlaşılan yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Şu halde yarışa katıldı ve iyi bir derece aldı.,Şu halde yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Belli ki yarışa katıldı ve iyi bir derece aldı.,Belli ki yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Öyle görünüyor ki yarışa katıldı ve iyi bir derece aldı.,Öyle görünüyor ki yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+O halde yarışa katıldı ve iyi bir derece aldı.,O halde yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Demek ki yarışa katıldı ve iyi bir derece aldı.,Demek ki yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Görünüşe göre yarışa katıldı ve iyi bir derece aldı.,Görünüşe göre yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Yani yarışa katıldı ve iyi bir derece aldı.,Yani yarışa katıl ve iyi bir derece aldı.,katıldı,katıl,aldı,suspended_affixation
+Fotoğraf çekti ve filme koydu.,Fotoğraf çek ve filme koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve albüme koydu.,Fotoğraf çek ve albüme koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve videoya koydu.,Fotoğraf çek ve videoya koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve piyasaya koydu.,Fotoğraf çek ve piyasaya koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve projeye koydu.,Fotoğraf çek ve projeye koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve konsere koydu.,Fotoğraf çek ve konsere koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve klibe koydu.,Fotoğraf çek ve klibe koydu.,çekti,çek,koydu,suspended_affixation
+Fotoğraf çekti ve kişiye koydu.,Fotoğraf çek ve kişiye koydu.,çekti,çek,koydu,suspended_affixation
+Anlaşılan fotoğraf çekti ve albüme koydu.,Anlaşılan fotoğraf çek ve albüme koydu.,çekti,çek,koydu,suspended_affixation
+Kıyafetleri ütüledim ve dolaba astım.,Kıyafetleri ütüle ve dolaba astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve duvara astım.,Kıyafetleri ütüle ve duvara astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve rafa astım.,Kıyafetleri ütüle ve rafa astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve kapıya astım.,Kıyafetleri ütüle ve kapıya astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve depoya astım.,Kıyafetleri ütüle ve depoya astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve buzdolabına astım.,Kıyafetleri ütüle ve buzdolabına astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve tavaya astım.,Kıyafetleri ütüle ve tavaya astım.,ütüledim,ütüle,astım,suspended_affixation
+Kıyafetleri ütüledim ve kasaya astım.,Kıyafetleri ütüle ve kasaya astım.,ütüledim,ütüle,astım,suspended_affixation
+Demek ki kıyafetleri ütüledim ve dolaba astım.,Demek ki kıyafetleri ütüle ve dolaba astım.,ütüledim,ütüle,astım,suspended_affixation
+Kurabiye pişirdim ve komşulara dağıttım.,Kurabiye pişir ve komşulara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve hayvanlara dağıttım.,Kurabiye pişir ve hayvanlara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve insanlara dağıttım.,Kurabiye pişir ve insanlara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve ailelere dağıttım.,Kurabiye pişir ve ailelere dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve gruplara dağıttım.,Kurabiye pişir ve gruplara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve evlere dağıttım.,Kurabiye pişir ve evlere dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve mallara dağıttım.,Kurabiye pişir ve mallara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve akrabalara dağıttım.,Kurabiye pişir ve akrabalara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Kurabiye pişirdim ve binalara dağıttım.,Kurabiye pişir ve binalara dağıttım.,pişirdim,pişir,dağıttım,suspended_affixation
+Aşure yaptık ve hayvanlara dağıttık.,Aşure yap ve hayvanlara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve insanlara dağıttık.,Aşure yap ve insanlara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve ailelere dağıttık.,Aşure yap ve ailelere dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve gruplara dağıttık.,Aşure yap ve gruplara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve evlere dağıttık.,Aşure yap ve evlere dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve mallara dağıttık.,Aşure yap ve mallara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve akrabalara dağıttık.,Aşure yap ve akrabalara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve binalara dağıttık.,Aşure yap ve binalara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Aşure yaptık ve kurumlara dağıttık.,Aşure yap ve kurumlara dağıttık.,yaptık,yap,dağıttık,suspended_affixation
+Çok çalıştım ve duyuruyu geçtim.,Çok çalış ve duyuruyu geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve soruyu geçtim.,Çok çalış ve soruyu geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve atayı geçtim.,Çok çalış ve atayı geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve eğitimi geçtim.,Çok çalış ve eğitimi geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve cezayı geçtim.,Çok çalış ve cezayı geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve sertifikayı geçtim.,Çok çalış ve sertifikayı geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve kurulu geçtim.,Çok çalış ve kurulu geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Çok çalıştım ve mazereti geçtim.,Çok çalış ve mazereti geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Yani çok çalıştım ve sınavı geçtim.,Yani çok çalış ve sınavı geçtim.,çalıştım,çalış,geçtim,suspended_affixation
+Köpeği gezdirdim ve sonra eve getirdim.,Köpeği gezdir ve sonra eve getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra arabaya getirdim.,Köpeği gezdir ve sonra arabaya getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra okula getirdim.,Köpeği gezdir ve sonra okula getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra hastaneye getirdim.,Köpeği gezdir ve sonra hastaneye getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra binaya getirdim.,Köpeği gezdir ve sonra binaya getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra ofise getirdim.,Köpeği gezdir ve sonra ofise getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra aileye getirdim.,Köpeği gezdir ve sonra aileye getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra kapıya getirdim.,Köpeği gezdir ve sonra kapıya getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Köpeği gezdirdim ve sonra fabrikaya getirdim.,Köpeği gezdir ve sonra fabrikaya getirdim.,gezdirdim,gezdir,getirdim,suspended_affixation
+Bulaşıkları yıkadım ve bilgisayara yerleştirdim.,Bulaşıkları yıka ve bilgisayara yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve nesneye yerleştirdim.,Bulaşıkları yıka ve nesneye yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve sisteme yerleştirdim.,Bulaşıkları yıka ve sisteme yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve cihaza yerleştirdim.,Bulaşıkları yıka ve cihaza yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve fabrikaya yerleştirdim.,Bulaşıkları yıka ve fabrikaya yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve robota yerleştirdim.,Bulaşıkları yıka ve robota yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve arabaya yerleştirdim.,Bulaşıkları yıka ve arabaya yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve makineye yerleştirdim.,Bulaşıkları yıka ve makineye yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Bulaşıkları yıkadım ve motora yerleştirdim.,Bulaşıkları yıka ve motora yerleştirdim.,yıkadım,yıka,yerleştirdim,suspended_affixation
+Gelen mesajları hata etti ve cevapladı.,Gelen mesajları hata et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları muayene etti ve cevapladı.,Gelen mesajları muayene et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları alarm etti ve cevapladı.,Gelen mesajları alarm et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları fren etti ve cevapladı.,Gelen mesajları fren et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları kabul etti ve cevapladı.,Gelen mesajları kabul et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları test etti ve cevapladı.,Gelen mesajları test et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları risk etti ve cevapladı.,Gelen mesajları risk et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları uygun etti ve cevapladı.,Gelen mesajları uygun et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Gelen mesajları kontrol etti ve cevapladı.,Gelen mesajları kontrol et ve cevapladı.,etti,et,cevapladı,suspended_affixation
+Konsere gittim ve çok eğlendim.,Konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Belli ki konsere gittim ve çok eğlendim.,Belli ki konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Öyle görünüyor ki konsere gittim ve çok eğlendim.,Öyle görünüyor ki konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Demek ki konsere gittim ve çok eğlendim.,Demek ki konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Yani konsere gittim ve çok eğlendim.,Yani konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Şu halde konsere gittim ve çok eğlendim.,Şu halde konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Görünüşe göre konsere gittim ve çok eğlendim.,Görünüşe göre konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+O halde konsere gittim ve çok eğlendim.,O halde konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Anlaşılan konsere gittim ve çok eğlendim.,Anlaşılan konsere git ve çok eğlendim.,gittim,git,eğlendim,suspended_affixation
+Yüzme havuzuna girdim ve yüzdüm.,Yüzme havuzuna gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme kanalına girdim ve yüzdüm.,Yüzme kanalına gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme odana girdim ve yüzdüm.,Yüzme odana gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme dene girdim ve yüzdüm.,Yüzme dene gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme suyuna girdim ve yüzdüm.,Yüzme suyuna gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme okuluna girdim ve yüzdüm.,Yüzme okuluna gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme barajına girdim ve yüzdüm.,Yüzme barajına gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme alanına girdim ve yüzdüm.,Yüzme alanına gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Yüzme yanına girdim ve yüzdüm.,Yüzme yanına gir ve yüzdüm.,girdim,gir,yüzdüm,suspended_affixation
+Kitapları düzenlediler ve raflara yerleştirdiler.,Kitapları düzenle ve raflara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Kitapları düzenlediler ve duvarlara yerleştirdiler.,Kitapları düzenle ve duvarlara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Kitapları düzenlediler ve yerlere yerleştirdiler.,Kitapları düzenle ve yerlere yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Kitapları düzenlediler ve kutulara yerleştirdiler.,Kitapları düzenle ve kutulara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Kitapları düzenlediler ve kapılara yerleştirdiler.,Kitapları düzenle ve kapılara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Kitapları düzenlediler ve tavalara yerleştirdiler.,Kitapları düzenle ve tavalara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Kitapları düzenlediler ve kitaplara yerleştirdiler.,Kitapları düzenle ve kitaplara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Görünüşe göre kitapları düzenlediler ve raflara yerleştirdiler.,Görünüşe göre kitapları düzenle ve raflara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Yani kitapları düzenlediler ve raflara yerleştirdiler.,Yani kitapları düzenle ve raflara yerleştirdiler.,düzenlediler,düzenle,yerleştirdiler,suspended_affixation
+Toplantıya katıldım ve duygularımı paylaştım.,Toplantıya katıl ve duygularımı paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Toplantıya katıldım ve fikirlerimi paylaştım.,Toplantıya katıl ve fikirlerimi paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Toplantıya katıldım ve tarzlarımı paylaştım.,Toplantıya katıl ve tarzlarımı paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Toplantıya katıldım ve hislerimi paylaştım.,Toplantıya katıl ve hislerimi paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Toplantıya katıldım ve kitaplarımı paylaştım.,Toplantıya katıl ve kitaplarımı paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Toplantıya katıldım ve yazlarımı paylaştım.,Toplantıya katıl ve yazlarımı paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Toplantıya katıldım ve cesaretlerimi paylaştım.,Toplantıya katıl ve cesaretlerimi paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Görünüşe göre toplantıya katıldım ve fikirlerimi paylaştım.,Görünüşe göre toplantıya katıl ve fikirlerimi paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+O halde toplantıya katıldım ve fikirlerimi paylaştım.,O halde toplantıya katıl ve fikirlerimi paylaştım.,katıldım,katıl,paylaştım,suspended_affixation
+Çantamı hazırladım ve yola çıktım.,Çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Anlaşılıyor ki çantamı hazırladım ve yola çıktım.,Anlaşılıyor ki çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Belli ki çantamı hazırladım ve yola çıktım.,Belli ki çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Şu halde çantamı hazırladım ve yola çıktım.,Şu halde çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Yani çantamı hazırladım ve yola çıktım.,Yani çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Görünüşe göre çantamı hazırladım ve yola çıktım.,Görünüşe göre çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Demek ki çantamı hazırladım ve yola çıktım.,Demek ki çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Anlaşılan çantamı hazırladım ve yola çıktım.,Anlaşılan çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Öyle görünüyor ki çantamı hazırladım ve yola çıktım.,Öyle görünüyor ki çantamı hazırla ve yola çıktım.,hazırladım,hazırla,çıktım,suspended_affixation
+Kuşuma saman verdim ve suyunu tazeledim.,Kuşuma saman ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma silaj verdim ve suyunu tazeledim.,Kuşuma silaj ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma sıvı verdim ve suyunu tazeledim.,Kuşuma sıvı ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma yatak verdim ve suyunu tazeledim.,Kuşuma yatak ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma yakıt verdim ve suyunu tazeledim.,Kuşuma yakıt ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma tahıl verdim ve suyunu tazeledim.,Kuşuma tahıl ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma kul verdim ve suyunu tazeledim.,Kuşuma kul ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma yem verdim ve suyunu tazeledim.,Kuşuma yem ver ve suyunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kuşuma yem verdim ve kokunu tazeledim.,Kuşuma yem ver ve kokunu tazeledim.,verdim,ver,tazeledim,suspended_affixation
+Kıyafetleri katladım ve çekmeceye koydum.,Kıyafetleri katla ve çekmeceye koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve duvara koydum.,Kıyafetleri katla ve duvara koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve dolaba koydum.,Kıyafetleri katla ve dolaba koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve kutuya koydum.,Kıyafetleri katla ve kutuya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve kapıya koydum.,Kıyafetleri katla ve kapıya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve kasaya koydum.,Kıyafetleri katla ve kasaya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve kapağa koydum.,Kıyafetleri katla ve kapağa koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve depoya koydum.,Kıyafetleri katla ve depoya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve bagaja koydum.,Kıyafetleri katla ve bagaja koydum.,katladım,katla,koydum,suspended_affixation
+Raftaki filmlere göz attım ve beğendiğimi aldım.,Raftaki filmlere göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki dergilere göz attım ve beğendiğimi aldım.,Raftaki dergilere göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki yazarlara göz attım ve beğendiğimi aldım.,Raftaki yazarlara göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki okullara göz attım ve beğendiğimi aldım.,Raftaki okullara göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki romanlara göz attım ve beğendiğimi aldım.,Raftaki romanlara göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki dizilere göz attım ve beğendiğimi aldım.,Raftaki dizilere göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki eserlere göz attım ve beğendiğimi aldım.,Raftaki eserlere göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki bilgisayarlara göz attım ve beğendiğimi aldım.,Raftaki bilgisayarlara göz at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Raftaki kitaplara kulak attım ve beğendiğimi aldım.,Raftaki kitaplara kulak at ve beğendiğimi aldım.,attım,at,aldım,suspended_affixation
+Müzik dinledim ve rahatladım.,Müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Anlaşılıyor ki müzik dinledim ve rahatladım.,Anlaşılıyor ki müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Belli ki müzik dinledim ve rahatladım.,Belli ki müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Yani müzik dinledim ve rahatladım.,Yani müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Demek ki müzik dinledim ve rahatladım.,Demek ki müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Anlaşılan müzik dinledim ve rahatladım.,Anlaşılan müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Öyle görünüyor ki müzik dinledim ve rahatladım.,Öyle görünüyor ki müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Şu halde müzik dinledim ve rahatladım.,Şu halde müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+O halde müzik dinledim ve rahatladım.,O halde müzik dinle ve rahatladım.,dinledim,dinle,rahatladım,suspended_affixation
+Menüye yeni bir servis koyuldu ve çok beğenildi.,Menüye yeni bir servis koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir malzeme koyuldu ve çok beğenildi.,Menüye yeni bir malzeme koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir numara koyuldu ve çok beğenildi.,Menüye yeni bir numara koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir montaj koyuldu ve çok beğenildi.,Menüye yeni bir montaj koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir hizmet koyuldu ve çok beğenildi.,Menüye yeni bir hizmet koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir bilgi koyuldu ve çok beğenildi.,Menüye yeni bir bilgi koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir resim koyuldu ve çok beğenildi.,Menüye yeni bir resim koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir yorum koyuldu ve çok beğenildi.,Menüye yeni bir yorum koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Menüye yeni bir tavsiye koyuldu ve çok beğenildi.,Menüye yeni bir tavsiye koyul ve çok beğenildi.,koyuldu,koyul,beğenildi,suspended_affixation
+Bahçeyi temizledim ve çiçek ektim.,Bahçeyi temizle ve çiçek ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve bitki ektim.,Bahçeyi temizle ve bitki ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve yaprak ektim.,Bahçeyi temizle ve yaprak ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve papatya ektim.,Bahçeyi temizle ve papatya ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve balo ektim.,Bahçeyi temizle ve balo ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve mantar ektim.,Bahçeyi temizle ve mantar ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve gol ektim.,Bahçeyi temizle ve gol ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve meyve ektim.,Bahçeyi temizle ve meyve ektim.,temizledim,temizle,ektim,suspended_affixation
+Bahçeyi temizledim ve mum ektim.,Bahçeyi temizle ve mum ektim.,temizledim,temizle,ektim,suspended_affixation
+Kahvemi içtim ve gazeteyi okudum.,Kahvemi iç ve gazeteyi okudum.,içtim,iç,okudum,suspended_affixation
+Kahvemi içtim ve televizyonu okudum.,Kahvemi iç ve televizyonu okudum.,içtim,iç,okudum,suspended_affixation
+Kahvemi içtim ve dergiyi okudum.,Kahvemi iç ve dergiyi okudum.,içtim,iç,okudum,suspended_affixation
+Kahvemi içtim ve radyoyu okudum.,Kahvemi iç ve radyoyu okudum.,içtim,iç,okudum,suspended_affixation
+Kahvemi içtim ve haberi okudum.,Kahvemi iç ve haberi okudum.,içtim,iç,okudum,suspended_affixation
+Kahvemi içtim ve filmi okudum.,Kahvemi iç ve filmi okudum.,içtim,iç,okudum,suspended_affixation
+Kahvemi içtim ve sayfayı okudum.,Kahvemi iç ve sayfayı okudum.,içtim,iç,okudum,suspended_affixation
+Öyle görünüyor ki kahvemi içtim ve gazeteyi okudum.,Öyle görünüyor ki kahvemi iç ve gazeteyi okudum.,içtim,iç,okudum,suspended_affixation
+Görünüşe göre kahvemi içtim ve gazeteyi okudum.,Görünüşe göre kahvemi iç ve gazeteyi okudum.,içtim,iç,okudum,suspended_affixation
+Yürüyüşe çıktı ve deyi izledi.,Yürüyüşe çık ve deyi izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve seyi izledi.,Yürüyüşe çık ve seyi izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve yeri izledi.,Yürüyüşe çık ve yeri izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve videoyu izledi.,Yürüyüşe çık ve videoyu izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve fotoğrafı izledi.,Yürüyüşe çık ve fotoğrafı izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve araziyi izledi.,Yürüyüşe çık ve araziyi izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve binayı izledi.,Yürüyüşe çık ve binayı izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve alayı izledi.,Yürüyüşe çık ve alayı izledi.,çıktı,çık,izledi,suspended_affixation
+Yürüyüşe çıktı ve havayı izledi.,Yürüyüşe çık ve havayı izledi.,çıktı,çık,izledi,suspended_affixation
+Kaza yaptım ve acile gittim.,Kaza yap ve acile gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve doktora gittim.,Kaza yap ve doktora gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve eve gittim.,Kaza yap ve eve gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve hastaneye gittim.,Kaza yap ve hastaneye gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve servise gittim.,Kaza yap ve servise gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve morga gittim.,Kaza yap ve morga gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve yola gittim.,Kaza yap ve yola gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve ameliyata gittim.,Kaza yap ve ameliyata gittim.,yaptım,yap,gittim,suspended_affixation
+Kaza yaptım ve ameliyathaneye gittim.,Kaza yap ve ameliyathaneye gittim.,yaptım,yap,gittim,suspended_affixation
+Yemek sipariş ettim ve kapıda ödedim.,Yemek sipariş et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek teklif ettim ve kapıda ödedim.,Yemek teklif et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek kabul ettim ve kapıda ödedim.,Yemek kabul et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek talep ettim ve kapıda ödedim.,Yemek talep et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek sevkiyat ettim ve kapıda ödedim.,Yemek sevkiyat et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek havale ettim ve kapıda ödedim.,Yemek havale et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek teslimat ettim ve kapıda ödedim.,Yemek teslimat et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek ur ettim ve kapıda ödedim.,Yemek ur et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yemek hizmet ettim ve kapıda ödedim.,Yemek hizmet et ve kapıda ödedim.,ettim,et,ödettim,suspended_affixation
+Yatak örtüsünü değiştirdiler ve karyolayı topladılar.,Yatak örtüsünü değiştir ve karyolayı topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve odayı topladılar.,Yatak örtüsünü değiştir ve odayı topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve banyoyu topladılar.,Yatak örtüsünü değiştir ve banyoyu topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve sandalyeyi topladılar.,Yatak örtüsünü değiştir ve sandalyeyi topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve arabayı topladılar.,Yatak örtüsünü değiştir ve arabayı topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve tuvaleti topladılar.,Yatak örtüsünü değiştir ve tuvaleti topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve masayı topladılar.,Yatak örtüsünü değiştir ve masayı topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve pencereyi topladılar.,Yatak örtüsünü değiştir ve pencereyi topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Yatak örtüsünü değiştirdiler ve yorgayı topladılar.,Yatak örtüsünü değiştir ve yorgayı topladılar.,değiştirdiler,değiştir,topladılar,suspended_affixation
+Trafikte sıkıştım ve geç kaldım.,Trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Anlaşılıyor ki trafikte sıkıştım ve geç kaldım.,Anlaşılıyor ki trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Şu halde trafikte sıkıştım ve geç kaldım.,Şu halde trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Belli ki trafikte sıkıştım ve geç kaldım.,Belli ki trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Görünüşe göre trafikte sıkıştım ve geç kaldım.,Görünüşe göre trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Öyle görünüyor ki trafikte sıkıştım ve geç kaldım.,Öyle görünüyor ki trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Anlaşılan trafikte sıkıştım ve geç kaldım.,Anlaşılan trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Yani trafikte sıkıştım ve geç kaldım.,Yani trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+O halde trafikte sıkıştım ve geç kaldım.,O halde trafikte sıkış ve geç kaldım.,sıkıştım,sıkış,kaldım,suspended_affixation
+Konser bileti aldım ve kızıma haber verdim.,Konser bileti al ve kızıma haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve arkadaşıma haber verdim.,Konser bileti al ve arkadaşıma haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve kişime haber verdim.,Konser bileti al ve kişime haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve hayvanıma haber verdim.,Konser bileti al ve hayvanıma haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve dostuma haber verdim.,Konser bileti al ve dostuma haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve aileme haber verdim.,Konser bileti al ve aileme haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve arabama haber verdim.,Konser bileti al ve arabama haber verdim.,aldım,al,verdim,suspended_affixation
+Konser bileti aldım ve sevgilime haber verdim.,Konser bileti al ve sevgilime haber verdim.,aldım,al,verdim,suspended_affixation
+Konser rezervasyonu aldım ve arkadaşıma haber verdim.,Konser rezervasyonu al ve arkadaşıma haber verdim.,aldım,al,verdim,suspended_affixation
+Çocuklara masal okudum ve uyuttum.,Çocuklara masal oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara efsane okudum ve uyuttum.,Çocuklara efsane oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara film okudum ve uyuttum.,Çocuklara film oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara destan okudum ve uyuttum.,Çocuklara destan oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara tiyatro okudum ve uyuttum.,Çocuklara tiyatro oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara kurgu okudum ve uyuttum.,Çocuklara kurgu oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara hayal okudum ve uyuttum.,Çocuklara hayal oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara senaryo okudum ve uyuttum.,Çocuklara senaryo oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Çocuklara per okudum ve uyuttum.,Çocuklara per oku ve uyuttum.,okudum,oku,uyuttum,suspended_affixation
+Kırmızı karanlıkta durdu ve bekledi.,Kırmızı karanlıkta dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı yerde durdu ve bekledi.,Kırmızı yerde dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı suda durdu ve bekledi.,Kırmızı suda dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı havada durdu ve bekledi.,Kırmızı havada dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı yolda durdu ve bekledi.,Kırmızı yolda dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı zeminde durdu ve bekledi.,Kırmızı zeminde dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı sokakta durdu ve bekledi.,Kırmızı sokakta dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı ortada durdu ve bekledi.,Kırmızı ortada dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Kırmızı altta durdu ve bekledi.,Kırmızı altta dur ve bekledi.,durdu,dur,bekledi,suspended_affixation
+Yeni bir iş buldu ve mala kazanmaya başladı.,Yeni bir iş bul ve mala kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve faize kazanmaya başladı.,Yeni bir iş bul ve faize kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve krediye kazanmaya başladı.,Yeni bir iş bul ve krediye kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve pula kazanmaya başladı.,Yeni bir iş bul ve pula kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve nakde kazanmaya başladı.,Yeni bir iş bul ve nakde kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve borca kazanmaya başladı.,Yeni bir iş bul ve borca kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve saate kazanmaya başladı.,Yeni bir iş bul ve saate kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Yeni bir iş buldu ve euroya kazanmaya başladı.,Yeni bir iş bul ve euroya kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Anlaşılıyor ki yeni bir iş buldu ve para kazanmaya başladı.,Anlaşılıyor ki yeni bir iş bul ve para kazanmaya başladı.,buldu,bul,başladı,suspended_affixation
+Kedimi veterinere götürdüm ve muayene ettirdim.,Kedimi veterinere götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi hastaneye götürdüm ve muayene ettirdim.,Kedimi hastaneye götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi hayvana götürdüm ve muayene ettirdim.,Kedimi hayvana götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi eve götürdüm ve muayene ettirdim.,Kedimi eve götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi doktora götürdüm ve muayene ettirdim.,Kedimi doktora götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi kediye götürdüm ve muayene ettirdim.,Kedimi kediye götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi kopeğe götürdüm ve muayene ettirdim.,Kedimi kopeğe götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi hekime götürdüm ve muayene ettirdim.,Kedimi hekime götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kedimi binaya götürdüm ve muayene ettirdim.,Kedimi binaya götür ve muayene ettirdim.,götürdüm,götür,ettirdim,suspended_affixation
+Kıyafetleri yıkadım ve kuruttum.,Kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Anlaşılıyor ki kıyafetleri yıkadım ve kuruttum.,Anlaşılıyor ki kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Belli ki kıyafetleri yıkadım ve kuruttum.,Belli ki kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Şu halde kıyafetleri yıkadım ve kuruttum.,Şu halde kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Anlaşılan kıyafetleri yıkadım ve kuruttum.,Anlaşılan kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+O halde kıyafetleri yıkadım ve kuruttum.,O halde kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Demek ki kıyafetleri yıkadım ve kuruttum.,Demek ki kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Yani kıyafetleri yıkadım ve kuruttum.,Yani kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Öyle görünüyor ki kıyafetleri yıkadım ve kuruttum.,Öyle görünüyor ki kıyafetleri yıka ve kuruttum.,yıkadım,yıka,kuruttum,suspended_affixation
+Kek pişirdim ve üstünü süsledim.,Kek pişir ve üstünü süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Kek pişirdim ve altını süsledim.,Kek pişir ve altını süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Kek pişirdim ve tersini süsledim.,Kek pişir ve tersini süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Kek pişirdim ve benzerini süsledim.,Kek pişir ve benzerini süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Kek pişirdim ve aynını süsledim.,Kek pişir ve aynını süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Kek pişirdim ve arkanı süsledim.,Kek pişir ve arkanı süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Kek pişirdim ve ununu süsledim.,Kek pişir ve ununu süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Belli ki kek pişirdim ve üstünü süsledim.,Belli ki kek pişir ve üstünü süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Demek ki kek pişirdim ve üstünü süsledim.,Demek ki kek pişir ve üstünü süsledim.,pişirdim,pişir,süsledim,suspended_affixation
+Spor odana kaydoldu ve düzenli gitmeye başladı.,Spor odana kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor ofisine kaydoldu ve düzenli gitmeye başladı.,Spor ofisine kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor evine kaydoldu ve düzenli gitmeye başladı.,Spor evine kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor okuluna kaydoldu ve düzenli gitmeye başladı.,Spor okuluna kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor salonuna kaydoldu ve düzenli gitmeye başladı.,Spor salonuna kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor hastanene kaydoldu ve düzenli gitmeye başladı.,Spor hastanene kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor merkezine kaydoldu ve düzenli gitmeye başladı.,Spor merkezine kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor restoranına kaydoldu ve düzenli gitmeye başladı.,Spor restoranına kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Spor isine kaydoldu ve düzenli gitmeye başladı.,Spor isine kaydol ve düzenli gitmeye başladı.,kaydoldu,kaydol,başladı,suspended_affixation
+Çiçekleri suladım ve toprağını değiştirdim.,Çiçekleri sula ve toprağını değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve suyunu değiştirdim.,Çiçekleri sula ve suyunu değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve altını değiştirdim.,Çiçekleri sula ve altını değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve evini değiştirdim.,Çiçekleri sula ve evini değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve arazini değiştirdim.,Çiçekleri sula ve arazini değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve paranı değiştirdim.,Çiçekleri sula ve paranı değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve arabanı değiştirdim.,Çiçekleri sula ve arabanı değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve tarlanı değiştirdim.,Çiçekleri sula ve tarlanı değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Çiçekleri suladım ve malını değiştirdim.,Çiçekleri sula ve malını değiştirdim.,suladım,sula,değiştirdim,suspended_affixation
+Uçağa bindiler ve millete gittiler.,Uçağa bin ve millete gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve devlete gittiler.,Uçağa bin ve devlete gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve eve gittiler.,Uçağa bin ve eve gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve gurbete gittiler.,Uçağa bin ve gurbete gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve aileye gittiler.,Uçağa bin ve aileye gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve vatana gittiler.,Uçağa bin ve vatana gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve hizmete gittiler.,Uçağa bin ve hizmete gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve kasabaya gittiler.,Uçağa bin ve kasabaya gittiler.,bindiler,bin,gittiler,suspended_affixation
+Uçağa bindiler ve askere gittiler.,Uçağa bin ve askere gittiler.,bindiler,bin,gittiler,suspended_affixation
+Kütüphaneden kitap aldım ve okudum.,Kütüphaneden kitap al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden dergi aldım ve okudum.,Kütüphaneden dergi al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden film aldım ve okudum.,Kütüphaneden film al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden gazete aldım ve okudum.,Kütüphaneden gazete al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden defter aldım ve okudum.,Kütüphaneden defter al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden kaset aldım ve okudum.,Kütüphaneden kaset al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden makale aldım ve okudum.,Kütüphaneden makale al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden müzik aldım ve okudum.,Kütüphaneden müzik al ve okudum.,aldım,al,okudum,suspended_affixation
+Kütüphaneden dvd aldım ve okudum.,Kütüphaneden dvd al ve okudum.,aldım,al,okudum,suspended_affixation
+Konsere gittim ve filmlere eşlik ettim.,Konsere git ve filmlere eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve gruplara eşlik ettim.,Konsere git ve gruplara eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve videolara eşlik ettim.,Konsere git ve videolara eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve sahnelere eşlik ettim.,Konsere git ve sahnelere eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve dizilere eşlik ettim.,Konsere git ve dizilere eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve resimlere eşlik ettim.,Konsere git ve resimlere eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve oyunlara eşlik ettim.,Konsere git ve oyunlara eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve karakterlere eşlik ettim.,Konsere git ve karakterlere eşlik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve farklara eşlik ettim.,Konsere git ve farklara eşlik ettim.,gittim,git,ettim,suspended_affixation
+Yemek yedim ve su içtim.,Yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Yani yemek yedim ve su içtim.,Yani yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Anlaşılıyor ki yemek yedim ve su içtim.,Anlaşılıyor ki yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Görünüşe göre yemek yedim ve su içtim.,Görünüşe göre yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+O halde yemek yedim ve su içtim.,O halde yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Demek ki yemek yedim ve su içtim.,Demek ki yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Şu halde yemek yedim ve su içtim.,Şu halde yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Anlaşılan yemek yedim ve su içtim.,Anlaşılan yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Öyle görünüyor ki yemek yedim ve su içtim.,Öyle görünüyor ki yemek ye ve su içtim.,yedim,ye,içtim,suspended_affixation
+Arabayı park ettim ve alışveriş merkezine girdim.,Arabayı park et ve alışveriş merkezine girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş içine girdim.,Arabayı park et ve alışveriş içine girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş yanına girdim.,Arabayı park et ve alışveriş yanına girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş dışına girdim.,Arabayı park et ve alışveriş dışına girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş orana girdim.,Arabayı park et ve alışveriş orana girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş sistemine girdim.,Arabayı park et ve alışveriş sistemine girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş yakınına girdim.,Arabayı park et ve alışveriş yakınına girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve alışveriş arkana girdim.,Arabayı park et ve alışveriş arkana girdim.,ettim,et,girdim,suspended_affixation
+Arabayı park ettim ve yatır merkezine girdim.,Arabayı park et ve yatır merkezine girdim.,ettim,et,girdim,suspended_affixation
+Bebeği sevdim ve yanıma aldım.,Bebeği sev ve yanıma aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve sırtıma aldım.,Bebeği sev ve sırtıma aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve kızıma aldım.,Bebeği sev ve kızıma aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve koluma aldım.,Bebeği sev ve koluma aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve altıma aldım.,Bebeği sev ve altıma aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve aileme aldım.,Bebeği sev ve aileme aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve elime aldım.,Bebeği sev ve elime aldım.,sevdim,sev,aldım,suspended_affixation
+Bebeği sevdim ve kucağıma aldım.,Bebeği sev ve kucağıma aldım.,sevdim,sev,aldım,suspended_affixation
+Şu halde bebeği sevdim ve kucağıma aldım.,Şu halde bebeği sev ve kucağıma aldım.,sevdim,sev,aldım,suspended_affixation
+Öyle görünüyor ki yürüyüş yaptık ve güzelce terledik.,Öyle görünüyor ki yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Belli ki yürüyüş yaptık ve güzelce terledik.,Belli ki yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Yani yürüyüş yaptık ve güzelce terledik.,Yani yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Görünüşe göre yürüyüş yaptık ve güzelce terledik.,Görünüşe göre yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Anlaşılıyor ki yürüyüş yaptık ve güzelce terledik.,Anlaşılıyor ki yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Anlaşılan yürüyüş yaptık ve güzelce terledik.,Anlaşılan yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Şu halde yürüyüş yaptık ve güzelce terledik.,Şu halde yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+O halde yürüyüş yaptık ve güzelce terledik.,O halde yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Demek ki yürüyüş yaptık ve güzelce terledik.,Demek ki yürüyüş yap ve güzelce terledik.,yaptık,yap,terledik,suspended_affixation
+Telefonu telefona koydum ve biraz dolunca açtım.,Telefonu telefona koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Telefonu pile koydum ve biraz dolunca açtım.,Telefonu pile koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Telefonu suya koydum ve biraz dolunca açtım.,Telefonu suya koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Telefonu cihaza koydum ve biraz dolunca açtım.,Telefonu cihaza koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Telefonu bataryaya koydum ve biraz dolunca açtım.,Telefonu bataryaya koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Telefonu bilgisayara koydum ve biraz dolunca açtım.,Telefonu bilgisayara koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Telefonu şarja koydum ve biraz dolunca açtım.,Telefonu şarja koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+O halde telefonu şarja koydum ve biraz dolunca açtım.,O halde telefonu şarja koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Anlaşılıyor ki telefonu şarja koydum ve biraz dolunca açtım.,Anlaşılıyor ki telefonu şarja koy ve biraz dolunca açtım.,koydum,koy,açtım,suspended_affixation
+Kıyafetleri ütüledi ve oğluna verdi.,Kıyafetleri ütüle ve oğluna verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve kızına verdi.,Kıyafetleri ütüle ve kızına verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve babana verdi.,Kıyafetleri ütüle ve babana verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve annene verdi.,Kıyafetleri ütüle ve annene verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve karına verdi.,Kıyafetleri ütüle ve karına verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve torununa verdi.,Kıyafetleri ütüle ve torununa verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve ailene verdi.,Kıyafetleri ütüle ve ailene verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve sevgiline verdi.,Kıyafetleri ütüle ve sevgiline verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Kıyafetleri ütüledi ve kadına verdi.,Kıyafetleri ütüle ve kadına verdi.,ütüledi,ütüle,verdi,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal televizyonda paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal televizyonda paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal gazetede paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal gazetede paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal yayda paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal yayda paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal radyoda paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal radyoda paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal dergide paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal dergide paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal ekranda paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal ekranda paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda şarkıyı kaydettiler ve sosyal sokakta paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal sokakta paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda farkı kaydettiler ve sosyal medyada paylaştılar.,Stüdyoda farkı kaydet ve sosyal medyada paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Stüdyoda filmi kaydettiler ve sosyal medyada paylaştılar.,Stüdyoda filmi kaydet ve sosyal medyada paylaştılar.,kaydettiler,kaydet,paylaştılar,suspended_affixation
+Güzel bir espresso yaptım ve içtim.,Güzel bir espresso yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Güzel bir sigar yaptım ve içtim.,Güzel bir sigar yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Güzel bir bira yaptım ve içtim.,Güzel bir bira yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Güzel bir pas yaptım ve içtim.,Güzel bir pas yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Güzel bir kek yaptım ve içtim.,Güzel bir kek yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Güzel bir sut yaptım ve içtim.,Güzel bir sut yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Güzel bir kol yaptım ve içtim.,Güzel bir kol yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Görünüşe göre güzel bir kahve yaptım ve içtim.,Görünüşe göre güzel bir kahve yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Öyle görünüyor ki güzel bir kahve yaptım ve içtim.,Öyle görünüyor ki güzel bir kahve yap ve içtim.,yaptım,yap,içtim,suspended_affixation
+Köpeğimi taradım ve tüylerini topladım.,Köpeğimi tara ve tüylerini topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve yumurtalarını topladım.,Köpeğimi tara ve yumurtalarını topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve kıllarını topladım.,Köpeğimi tara ve kıllarını topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve tırnaklarını topladım.,Köpeğimi tara ve tırnaklarını topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve derilerini topladım.,Köpeğimi tara ve derilerini topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve bacaklarını topladım.,Köpeğimi tara ve bacaklarını topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve kulaklarını topladım.,Köpeğimi tara ve kulaklarını topladım.,taradım,tara,topladım,suspended_affixation
+Köpeğimi taradım ve ayaklarını topladım.,Köpeğimi tara ve ayaklarını topladım.,taradım,tara,topladım,suspended_affixation
+Demek ki köpeğimi taradım ve tüylerini topladım.,Demek ki köpeğimi tara ve tüylerini topladım.,taradım,tara,topladım,suspended_affixation
+Kaza yaptı ve ambulansı aradı.,Kaza yap ve ambulansı aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve savcısı aradı.,Kaza yap ve savcısı aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve muhabiri aradı.,Kaza yap ve muhabiri aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve helikopteri aradı.,Kaza yap ve helikopteri aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve memuru aradı.,Kaza yap ve memuru aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve doktoru aradı.,Kaza yap ve doktoru aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve ajanı aradı.,Kaza yap ve ajanı aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve arabası aradı.,Kaza yap ve arabası aradı.,yaptı,yap,aradı,suspended_affixation
+Kaza yaptı ve yardımcısı aradı.,Kaza yap ve yardımcısı aradı.,yaptı,yap,aradı,suspended_affixation
+Yemek sipariş ettim ve gelmesini bekledim.,Yemek sipariş et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek teklif ettim ve gelmesini bekledim.,Yemek teklif et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek kabul ettim ve gelmesini bekledim.,Yemek kabul et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek talep ettim ve gelmesini bekledim.,Yemek talep et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek sevkiyat ettim ve gelmesini bekledim.,Yemek sevkiyat et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek havale ettim ve gelmesini bekledim.,Yemek havale et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek teslimat ettim ve gelmesini bekledim.,Yemek teslimat et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek ur ettim ve gelmesini bekledim.,Yemek ur et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Yemek hizmet ettim ve gelmesini bekledim.,Yemek hizmet et ve gelmesini bekledim.,ettim,et,bekledim,suspended_affixation
+Kıyafetleri katladım ve dolaba koydum.,Kıyafetleri katla ve dolaba koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve duvara koydum.,Kıyafetleri katla ve duvara koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve rafa koydum.,Kıyafetleri katla ve rafa koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve kapıya koydum.,Kıyafetleri katla ve kapıya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve depoya koydum.,Kıyafetleri katla ve depoya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve buzdolabına koydum.,Kıyafetleri katla ve buzdolabına koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve tavaya koydum.,Kıyafetleri katla ve tavaya koydum.,katladım,katla,koydum,suspended_affixation
+Kıyafetleri katladım ve kasaya koydum.,Kıyafetleri katla ve kasaya koydum.,katladım,katla,koydum,suspended_affixation
+Öyle görünüyor ki kıyafetleri katladım ve dolaba koydum.,Öyle görünüyor ki kıyafetleri katla ve dolaba koydum.,katladım,katla,koydum,suspended_affixation
+Konsere gittim ve müzik ettim.,Konsere git ve müzik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve bale ettim.,Konsere git ve bale ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve jimnastik ettim.,Konsere git ve jimnastik ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve tiyatro ettim.,Konsere git ve tiyatro ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve komedi ettim.,Konsere git ve komedi ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve futbol ettim.,Konsere git ve futbol ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve fark ettim.,Konsere git ve fark ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve şiddet ettim.,Konsere git ve şiddet ettim.,gittim,git,ettim,suspended_affixation
+Konsere gittim ve eğlence ettim.,Konsere git ve eğlence ettim.,gittim,git,ettim,suspended_affixation
+Yeni bir işe başladı ve hemen adaptasyon sağladı.,Yeni bir işe başla ve hemen adaptasyon sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen eksik sağladı.,Yeni bir işe başla ve hemen eksik sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen esnek sağladı.,Yeni bir işe başla ve hemen esnek sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen bozuk sağladı.,Yeni bir işe başla ve hemen bozuk sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen yetersiz sağladı.,Yeni bir işe başla ve hemen yetersiz sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen destek sağladı.,Yeni bir işe başla ve hemen destek sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen istikrar sağladı.,Yeni bir işe başla ve hemen istikrar sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen entegrasyon sağladı.,Yeni bir işe başla ve hemen entegrasyon sağladı.,başladı,başla,sağladı,suspended_affixation
+Yeni bir işe başladı ve hemen hareket sağladı.,Yeni bir işe başla ve hemen hareket sağladı.,başladı,başla,sağladı,suspended_affixation
+Kediyi veterinere götürdüler ve as yaptırdılar.,Kediyi veterinere götür ve as yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi veterinere götürdüler ve aşı yaptırdılar.,Kediyi veterinere götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi hastaneye götürdüler ve aşı yaptırdılar.,Kediyi hastaneye götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi hayvana götürdüler ve aşı yaptırdılar.,Kediyi hayvana götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi eve götürdüler ve aşı yaptırdılar.,Kediyi eve götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi doktora götürdüler ve aşı yaptırdılar.,Kediyi doktora götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi kediye götürdüler ve aşı yaptırdılar.,Kediyi kediye götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi kopeğe götürdüler ve aşı yaptırdılar.,Kediyi kopeğe götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Kediyi hekime götürdüler ve aşı yaptırdılar.,Kediyi hekime götür ve aşı yaptırdılar.,götürdüler,götür,yaptırdılar,suspended_affixation
+Arabayı yıkadım ve cilaladım.,Arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Demek ki arabayı yıkadım ve cilaladım.,Demek ki arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+O halde arabayı yıkadım ve cilaladım.,O halde arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Anlaşılan arabayı yıkadım ve cilaladım.,Anlaşılan arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Yani arabayı yıkadım ve cilaladım.,Yani arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Görünüşe göre arabayı yıkadım ve cilaladım.,Görünüşe göre arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Belli ki arabayı yıkadım ve cilaladım.,Belli ki arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Öyle görünüyor ki arabayı yıkadım ve cilaladım.,Öyle görünüyor ki arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Şu halde arabayı yıkadım ve cilaladım.,Şu halde arabayı yıka ve cilaladım.,yıkadım,yıka,cilaladım,suspended_affixation
+Projeyi tamamladık ve sunuma hazırladık.,Projeyi tamamla ve sunuma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Projeyi tamamladık ve sunumuma hazırladık.,Projeyi tamamla ve sunumuma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Projeyi tamamladık ve servisime hazırladık.,Projeyi tamamla ve servisime hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Projeyi tamamladık ve hizmetime hazırladık.,Projeyi tamamla ve hizmetime hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Projeyi tamamladık ve sergime hazırladık.,Projeyi tamamla ve sergime hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Projeyi tamamladık ve toplantıma hazırladık.,Projeyi tamamla ve toplantıma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Belli ki projeyi tamamladık ve sunuma hazırladık.,Belli ki projeyi tamamla ve sunuma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Anlaşılan projeyi tamamladık ve sunuma hazırladık.,Anlaşılan projeyi tamamla ve sunuma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Şu halde projeyi tamamladık ve sunuma hazırladık.,Şu halde projeyi tamamla ve sunuma hazırladık.,tamamladık,tamamla,hazırladık,suspended_affixation
+Raporu inceledim ve onayladım.,Raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Şu halde raporu inceledim ve onayladım.,Şu halde raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Anlaşılan raporu inceledim ve onayladım.,Anlaşılan raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Anlaşılıyor ki raporu inceledim ve onayladım.,Anlaşılıyor ki raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Belli ki raporu inceledim ve onayladım.,Belli ki raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+O halde raporu inceledim ve onayladım.,O halde raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Demek ki raporu inceledim ve onayladım.,Demek ki raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Öyle görünüyor ki raporu inceledim ve onayladım.,Öyle görünüyor ki raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Yani raporu inceledim ve onayladım.,Yani raporu incele ve onayladım.,inceledim,incele,onayladım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve kalibrasyon ayarı yaptırdım.,Arabanın lastiklerini değiştir ve kalibrasyon ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve hata ayarı yaptırdım.,Arabanın lastiklerini değiştir ve hata ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve arıza ayarı yaptırdım.,Arabanın lastiklerini değiştir ve arıza ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve rotasyon ayarı yaptırdım.,Arabanın lastiklerini değiştir ve rotasyon ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve denge ayarı yaptırdım.,Arabanın lastiklerini değiştir ve denge ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve bozuk ayarı yaptırdım.,Arabanın lastiklerini değiştir ve bozuk ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve ayar ayarı yaptırdım.,Arabanın lastiklerini değiştir ve ayar ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Arabanın lastiklerini değiştirdim ve fren ayarı yaptırdım.,Arabanın lastiklerini değiştir ve fren ayarı yaptırdım.,değiştirdim,değiştir,yaptırdım,suspended_affixation
+Yeni albümü besteledim ve kaydettim.,Yeni albümü beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni filmi besteledim ve kaydettim.,Yeni filmi beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni klibi besteledim ve kaydettim.,Yeni klibi beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni farkı besteledim ve kaydettim.,Yeni farkı beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni kaseti besteledim ve kaydettim.,Yeni kaseti beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni dansı besteledim ve kaydettim.,Yeni dansı beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni müziği besteledim ve kaydettim.,Yeni müziği beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni yorumu besteledim ve kaydettim.,Yeni yorumu beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Yeni melodiyi besteledim ve kaydettim.,Yeni melodiyi beste ve kaydettim.,besteledim,beste,kaydettim,suspended_affixation
+Konser kartlarını ayırttım ve arkadaşlarıma haber verdim.,Konser kartlarını ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser rezervasyonlarını ayırttım ve arkadaşlarıma haber verdim.,Konser rezervasyonlarını ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser kimliklerini ayırttım ve arkadaşlarıma haber verdim.,Konser kimliklerini ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Konser biletlerini ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser hizmetlerini ayırttım ve arkadaşlarıma haber verdim.,Konser hizmetlerini ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser kitaplarını ayırttım ve arkadaşlarıma haber verdim.,Konser kitaplarını ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser oyunlarını ayırttım ve arkadaşlarıma haber verdim.,Konser oyunlarını ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser faturalarını ayırttım ve arkadaşlarıma haber verdim.,Konser faturalarını ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Konser planlarını ayırttım ve arkadaşlarıma haber verdim.,Konser planlarını ayırt ve arkadaşlarıma haber verdim.,ayırttım,ayırt,verdim,suspended_affixation
+Ders notlarını temize çektim ve gruba attım.,Ders notlarını temize çek ve gruba attım.,çektim,çek,attım,suspended_affixation
+Ders notlarını temize çektim ve kişiye attım.,Ders notlarını temize çek ve kişiye attım.,çektim,çek,attım,suspended_affixation
+Ders notlarını temize çektim ve sınıfa attım.,Ders notlarını temize çek ve sınıfa attım.,çektim,çek,attım,suspended_affixation
+Ders notlarını temize çektim ve taka attım.,Ders notlarını temize çek ve taka attım.,çektim,çek,attım,suspended_affixation
+Ders notlarını temize çektim ve aileye attım.,Ders notlarını temize çek ve aileye attım.,çektim,çek,attım,suspended_affixation
+Ders notlarını temize çektim ve firmaya attım.,Ders notlarını temize çek ve firmaya attım.,çektim,çek,attım,suspended_affixation
+Ders kitaplarını temize çektim ve gruba attım.,Ders kitaplarını temize çek ve gruba attım.,çektim,çek,attım,suspended_affixation
+Ders kayıtlarını temize çektim ve gruba attım.,Ders kayıtlarını temize çek ve gruba attım.,çektim,çek,attım,suspended_affixation
+Ders telefonlarını temize çektim ve gruba attım.,Ders telefonlarını temize çek ve gruba attım.,çektim,çek,attım,suspended_affixation
+Mobilyaları monte ettik ve yerine yerleştirdik.,Mobilyaları monte et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları montaj ettik ve yerine yerleştirdik.,Mobilyaları montaj et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları tamir ettik ve yerine yerleştirdik.,Mobilyaları tamir et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları imal ettik ve yerine yerleştirdik.,Mobilyaları imal et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları kurul ettik ve yerine yerleştirdik.,Mobilyaları kurul et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları tadil ettik ve yerine yerleştirdik.,Mobilyaları tadil et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları iptal ettik ve yerine yerleştirdik.,Mobilyaları iptal et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları destek ettik ve yerine yerleştirdik.,Mobilyaları destek et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Mobilyaları iade ettik ve yerine yerleştirdik.,Mobilyaları iade et ve yerine yerleştirdik.,ettik,et,yerleştirdik,suspended_affixation
+Kıyafetleri katladım ve bagaja yerleştirdim.,Kıyafetleri katla ve bagaja yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Kıyafetleri katladım ve telefona yerleştirdim.,Kıyafetleri katla ve telefona yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Kıyafetleri katladım ve çantaya yerleştirdim.,Kıyafetleri katla ve çantaya yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Kıyafetleri katladım ve valize yerleştirdim.,Kıyafetleri katla ve valize yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Kıyafetleri katladım ve arabaya yerleştirdim.,Kıyafetleri katla ve arabaya yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Kıyafetleri katladım ve bavula yerleştirdim.,Kıyafetleri katla ve bavula yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Anlaşılıyor ki kıyafetleri katladım ve bavula yerleştirdim.,Anlaşılıyor ki kıyafetleri katla ve bavula yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Öyle görünüyor ki kıyafetleri katladım ve bavula yerleştirdim.,Öyle görünüyor ki kıyafetleri katla ve bavula yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Belli ki kıyafetleri katladım ve bavula yerleştirdim.,Belli ki kıyafetleri katla ve bavula yerleştirdim.,katladım,katla,yerleştirdim,suspended_affixation
+Sınav kitaplarını okudum ve notlandırdım.,Sınav kitaplarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav kalemlerini okudum ve notlandırdım.,Sınav kalemlerini oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav paralarını okudum ve notlandırdım.,Sınav paralarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav kartlarını okudum ve notlandırdım.,Sınav kartlarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav resimlerini okudum ve notlandırdım.,Sınav resimlerini oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav mektuplarını okudum ve notlandırdım.,Sınav mektuplarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav sayfalarını okudum ve notlandırdım.,Sınav sayfalarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav oyuncaklarını okudum ve notlandırdım.,Sınav oyuncaklarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Sınav mallarını okudum ve notlandırdım.,Sınav mallarını oku ve notlandırdım.,okudum,oku,notlandırdım,suspended_affixation
+Yeni malzemeyi denedim ve çok beğendim.,Yeni malzemeyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni tarifi denedim ve çok beğendim.,Yeni tarifi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni bilgiyi denedim ve çok beğendim.,Yeni bilgiyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni serviyi denedim ve çok beğendim.,Yeni serviyi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni numarayı denedim ve çok beğendim.,Yeni numarayı dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni markayı denedim ve çok beğendim.,Yeni markayı dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Yeni konuyu denedim ve çok beğendim.,Yeni konuyu dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Anlaşılıyor ki yeni tarifi denedim ve çok beğendim.,Anlaşılıyor ki yeni tarifi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+O halde yeni tarifi denedim ve çok beğendim.,O halde yeni tarifi dene ve çok beğendim.,denedim,dene,beğendim,suspended_affixation
+Kurabiyeleri pişirdim ve soğumaya bıraktım.,Kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+O halde kurabiyeleri pişirdim ve soğumaya bıraktım.,O halde kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Demek ki kurabiyeleri pişirdim ve soğumaya bıraktım.,Demek ki kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Anlaşılıyor ki kurabiyeleri pişirdim ve soğumaya bıraktım.,Anlaşılıyor ki kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Görünüşe göre kurabiyeleri pişirdim ve soğumaya bıraktım.,Görünüşe göre kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Anlaşılan kurabiyeleri pişirdim ve soğumaya bıraktım.,Anlaşılan kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Şu halde kurabiyeleri pişirdim ve soğumaya bıraktım.,Şu halde kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Belli ki kurabiyeleri pişirdim ve soğumaya bıraktım.,Belli ki kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Yani kurabiyeleri pişirdim ve soğumaya bıraktım.,Yani kurabiyeleri pişir ve soğumaya bıraktım.,pişirdim,pişir,bıraktım,suspended_affixation
+Yeni takvimi astım ve önemli saatleri işaretledim.,Yeni takvimi as ve önemli saatleri işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni takvimi astım ve önemli yılları işaretledim.,Yeni takvimi as ve önemli yılları işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni takvimi astım ve önemli ayları işaretledim.,Yeni takvimi as ve önemli ayları işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni takvimi astım ve önemli numaraları işaretledim.,Yeni takvimi as ve önemli numaraları işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni takvimi astım ve önemli sayıları işaretledim.,Yeni takvimi as ve önemli sayıları işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni takvimi astım ve önemli grupları işaretledim.,Yeni takvimi as ve önemli grupları işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni takvimi astım ve önemli fiyatları işaretledim.,Yeni takvimi as ve önemli fiyatları işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni saati astım ve önemli tarihleri işaretledim.,Yeni saati as ve önemli tarihleri işaretledim.,astım,as,işaretledim,suspended_affixation
+Yeni dergiyi astım ve önemli tarihleri işaretledim.,Yeni dergiyi as ve önemli tarihleri işaretledim.,astım,as,işaretledim,suspended_affixation

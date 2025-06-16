@@ -1,0 +1,1001 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Ormanda aslanı iştahla yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın iştahla yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen sırtlanı daha önce görmüştü.,Ormanda aslanın iştahla yiyen sırtlanı daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanın iştahla yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı iştahla yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın iştahla yediği sırtlanı daha önce görmüştü.,Ormanda aslanı iştahla yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda sırtlanı iştahla yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın iştahla yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı iştahla yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın iştahla yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanın iştahla yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı iştahla yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın iştahla yediği aslanı daha önce görmüştü.,Ormanda sırtlanı iştahla yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Konserde sevgilisini gururla izleyen adam onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen adam onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de fark ettim.,Konserde sevgilisinin gururla izleyen adamı ben de fark ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini gururla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de fark ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de fark ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Sınavda gözetmeni sessizce uyaran öğrenci yerine geçti.,Sınavda gözetmenin sessizce uyaran öğrenci yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran öğrenciyi herkes gördü.,Sınavda gözetmenin sessizce uyaran öğrenciyi herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak ustasından azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak ustasından azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırağı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan çırağı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak ustasından azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak ustasından azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı ustası azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı ustası azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri şikayet etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri şikayet etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi şikayet ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi şikayet ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri şikayet etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri şikayet etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi şikayet ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi şikayet ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Arka bahçede kediyi sürekli kovalayan köpek aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan köpek aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan köpeği seviyorum.,Arka bahçede kedinin sürekli kovalayan köpeği seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka bahçede kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka bahçede kedinin sürekli kovaladığı köpeği seviyorum.,Arka bahçede kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kedi aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan kedi aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kediyi seviyorum.,Arka bahçede köpeğin sürekli kovalayan kediyi seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka bahçede köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka bahçede köpeğin sürekli kovaladığı kediyi seviyorum.,Arka bahçede köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Sabah annesini hastanede gören küçük kız saatlerdir ağlıyor.,Sabah annesinin hastanede gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini hastanede gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin hastanede gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesinin hastanede gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini hastanede gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin hastanede gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini hastanede gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de selam söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de selam söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim eve bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra benim eve bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni eve bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim eve bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni eve bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir hediye aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir hediye aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir hediye aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir hediye aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Sokağın başında berberi uzaktan gören terzi el salladı.,Sokağın başında berberin uzaktan gören terzi el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi lafa tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi lafa tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terzi el salladı.,Sokağın başında berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi müşterisi lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi müşterisi lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Muayenede hastayla sakince konuşan doktor herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan doktor herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan doktoru asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan doktoru asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,Muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru asistanlar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru asistanlar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakem çok tepki aldı.,Tartışma esnasında boksörün sertçe iten hakem çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi seyirci yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi seyirci yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi seyirci yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi seyirci yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  kardeşi odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi çarşaf çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi çarşaf çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi çarşaf çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi çarşaf çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk çevredekileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk çevredekileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu muavin tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu muavin tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk çevredekileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk çevredekileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu muavin tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu muavin tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa zamanda çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa zamanda çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl sonu gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl sonu gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa zamanda çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa zamanda çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl sonu gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl sonu gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu ödülü ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu ödülü ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes tebrik ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes tebrik ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu ödülü ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu ödülü ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes tebrik ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes tebrik ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Sahada mühendisi bir şey sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir şey sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir şey sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir şey sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisin bir şey sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir şey sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir şey sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir şey sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabir kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabir kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire tebrik mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire tebrik mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir kanala davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire tebrik mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire tebrik mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Yemekte onu yakından tanıyan kişiler söz aldı.,Yemekte onun yakından tanıyan kişiler söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan kişileri konuşturduk.,Yemekte onun yakından tanıyan kişileri konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onun yakından tanıdığı kişiler söz aldı.,Yemekte onu yakından tanıdığı kişiler söz aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişileri konuşturduk.,Yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Her fırsatta öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her fırsatta öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her fırsatta öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her fırsatta öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her fırsatta öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her fırsatta öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her fırsatta öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her fırsatta öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin sorularla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sunucuyu herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan sunucuyu herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazetecinin sorularla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi sorularla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin sorularla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi sorularla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Ormanda aslanı istekle yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın istekle yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı yemekle yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın yemekle yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı ishalle yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın ishalle yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı hareketle yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın hareketle yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı stresle yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın stresle yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı korkuyla yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın korkuyla yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı tokla yiyen sırtlan dün sabah tepede koşuyordu.,Ormanda aslanın tokla yiyen sırtlan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen fil dün sabah tepede koşuyordu.,Ormanda aslanın iştahla yiyen fil dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen kaplan dün sabah tepede koşuyordu.,Ormanda aslanın iştahla yiyen kaplan dün sabah tepede koşuyordu.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen kediyi daha önce görmüştü.,Ormanda aslanın iştahla yiyen kediyi daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen yavruyu daha önce görmüştü.,Ormanda aslanın iştahla yiyen yavruyu daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen aslanı daha önce görmüştü.,Ormanda aslanın iştahla yiyen aslanı daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen kaplanı daha önce görmüştü.,Ormanda aslanın iştahla yiyen kaplanı daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen yılanı daha önce görmüştü.,Ormanda aslanın iştahla yiyen yılanı daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen kartalı daha önce görmüştü.,Ormanda aslanın iştahla yiyen kartalı daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen doyu daha önce görmüştü.,Ormanda aslanın iştahla yiyen doyu daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen fareyi daha önce görmüştü.,Ormanda aslanın iştahla yiyen fareyi daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanı iştahla yiyen hayvanı daha önce görmüştü.,Ormanda aslanın iştahla yiyen hayvanı daha önce görmüştü.,aslanı,aslanın,yiyen,relative_clauses
+Ormanda aslanın istekle yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı istekle yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın yemekle yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı yemekle yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın ishalle yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı ishalle yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın hareketle yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı hareketle yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın stresle yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı stresle yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın korkuyla yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı korkuyla yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın tokla yediği sırtlan dün sabah tepede koşuyordu.,Ormanda aslanı tokla yediği sırtlan dün sabah tepede koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın iştahla yediği sırtlan dün sabah yerde koşuyordu.,Ormanda aslanı iştahla yediği sırtlan dün sabah yerde koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın iştahla yediği sırtlan dün sabah karada koşuyordu.,Ormanda aslanı iştahla yediği sırtlan dün sabah karada koşuyordu.,aslanın,aslanı,yediği sırtlan,relative_clauses
+Ormanda aslanın istekle yediği sırtlanı daha önce görmüştü.,Ormanda aslanı istekle yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın yemekle yediği sırtlanı daha önce görmüştü.,Ormanda aslanı yemekle yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın ishalle yediği sırtlanı daha önce görmüştü.,Ormanda aslanı ishalle yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın hareketle yediği sırtlanı daha önce görmüştü.,Ormanda aslanı hareketle yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın stresle yediği sırtlanı daha önce görmüştü.,Ormanda aslanı stresle yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın korkuyla yediği sırtlanı daha önce görmüştü.,Ormanda aslanı korkuyla yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın tokla yediği sırtlanı daha önce görmüştü.,Ormanda aslanı tokla yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda aslanın iştahla yediği sırtlanı daha önce görmüştü.,Ormanda aslanı iştahla yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Demek ki ormanda aslanın iştahla yediği sırtlanı daha önce görmüştü.,Demek ki ormanda aslanı iştahla yediği sırtlanı daha önce görmüştü.,aslanın,aslanı,yediği sırtlanı,relative_clauses
+Ormanda sırtlanı istekle yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın istekle yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı yemekle yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın yemekle yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı ishalle yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın ishalle yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı hareketle yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın hareketle yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı stresle yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın stresle yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı korkuyla yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın korkuyla yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı tokla yiyen aslan dün sabah tepede koşuyordu.,Ormanda sırtlanın tokla yiyen aslan dün sabah tepede koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı iştahla yiyen aslan dün sabah yerde koşuyordu.,Ormanda sırtlanın iştahla yiyen aslan dün sabah yerde koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı iştahla yiyen aslan dün sabah karada koşuyordu.,Ormanda sırtlanın iştahla yiyen aslan dün sabah karada koşuyordu.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı istekle yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın istekle yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı yemekle yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın yemekle yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı ishalle yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın ishalle yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı hareketle yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın hareketle yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı stresle yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın stresle yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı korkuyla yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın korkuyla yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı tokla yiyen aslanı daha önce görmüştü.,Ormanda sırtlanın tokla yiyen aslanı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı iştahla yiyen kartalı daha önce görmüştü.,Ormanda sırtlanın iştahla yiyen kartalı daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanı iştahla yiyen yavruyu daha önce görmüştü.,Ormanda sırtlanın iştahla yiyen yavruyu daha önce görmüştü.,sırtlanı,sırtlanın,yiyen,relative_clauses
+Ormanda sırtlanın istekle yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı istekle yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın yemekle yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı yemekle yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın ishalle yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı ishalle yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın hareketle yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı hareketle yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın stresle yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı stresle yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın korkuyla yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı korkuyla yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın tokla yediği aslan dün sabah tepede koşuyordu.,Ormanda sırtlanı tokla yediği aslan dün sabah tepede koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın iştahla yediği aslan dün sabah yerde koşuyordu.,Ormanda sırtlanı iştahla yediği aslan dün sabah yerde koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın iştahla yediği aslan dün sabah karada koşuyordu.,Ormanda sırtlanı iştahla yediği aslan dün sabah karada koşuyordu.,sırtlanın,sırtlanı,yediği aslan,relative_clauses
+Ormanda sırtlanın istekle yediği aslanı daha önce görmüştü.,Ormanda sırtlanı istekle yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın yemekle yediği aslanı daha önce görmüştü.,Ormanda sırtlanı yemekle yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın ishalle yediği aslanı daha önce görmüştü.,Ormanda sırtlanı ishalle yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın hareketle yediği aslanı daha önce görmüştü.,Ormanda sırtlanı hareketle yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın stresle yediği aslanı daha önce görmüştü.,Ormanda sırtlanı stresle yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın korkuyla yediği aslanı daha önce görmüştü.,Ormanda sırtlanı korkuyla yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın tokla yediği aslanı daha önce görmüştü.,Ormanda sırtlanı tokla yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Ormanda sırtlanın iştahla yediği aslanı daha önce görmüştü.,Ormanda sırtlanı iştahla yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Anlaşılan ormanda sırtlanın iştahla yediği aslanı daha önce görmüştü.,Anlaşılan ormanda sırtlanı iştahla yediği aslanı daha önce görmüştü.,sırtlanın,sırtlanı,yediği aslanı,relative_clauses
+Konserde sevgilisini gururla izleyen kopeğim onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen kopeğim onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen zencim onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen zencim onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen pilim onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen pilim onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen tavuğum onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen tavuğum onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen takım onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen takım onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen şeyim onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen şeyim onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen herifim onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen herifim onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen cesedim onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen cesedim onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen aracım onu çok etkilemiş.,Konserde sevgilisinin gururla izleyen aracım onu çok etkilemiş.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de fark ettim.,Konserde sevgilisinin gururla izleyen adamı ben de fark ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de eksik ettim.,Konserde sevgilisinin gururla izleyen adamı ben de eksik ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de hata ettim.,Konserde sevgilisinin gururla izleyen adamı ben de hata ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de noksan ettim.,Konserde sevgilisinin gururla izleyen adamı ben de noksan ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de benzerlik ettim.,Konserde sevgilisinin gururla izleyen adamı ben de benzerlik ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de engel ettim.,Konserde sevgilisinin gururla izleyen adamı ben de engel ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de durum ettim.,Konserde sevgilisinin gururla izleyen adamı ben de durum ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de bozuk ettim.,Konserde sevgilisinin gururla izleyen adamı ben de bozuk ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisini gururla izleyen adamı ben de uygun ettim.,Konserde sevgilisinin gururla izleyen adamı ben de uygun ettim.,sevgilisini,sevgilisinin,izleyen,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini gururla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin onurla izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini onurla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin iftiharla izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini iftiharla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin şerefle izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini şerefle izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin unvanla izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini unvanla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin sekille izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini sekille izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin altla izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini altla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin yerle izlediği piyanist onu çok etkilemiş.,Konserde sevgilisini yerle izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Demek ki konserde sevgilisinin gururla izlediği piyanist onu çok etkilemiş.,Demek ki konserde sevgilisini gururla izlediği piyanist onu çok etkilemiş.,sevgilisinin,sevgilisini,izlediği piyanist,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de fark ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de fark ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de eksik ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de eksik ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de hata ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de hata ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de noksan ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de noksan ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de benzerlik ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de benzerlik ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de engel ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de engel ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de durum ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de durum ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de bozuk ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de bozuk ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Konserde sevgilisinin gururla izlediği piyanisti ben de uygun ettim.,Konserde sevgilisini gururla izlediği piyanisti ben de uygun ettim.,sevgilisinin,sevgilisini,izlediği piyanisti,relative_clauses
+Sınavda gözetmeni sessizce uyaran öğrenci yerine geçti.,Sınavda gözetmenin sessizce uyaran öğrenci yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran gren yerine geçti.,Sınavda gözetmenin sessizce uyaran gren yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran veli yerine geçti.,Sınavda gözetmenin sessizce uyaran veli yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran asistan yerine geçti.,Sınavda gözetmenin sessizce uyaran asistan yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran personel yerine geçti.,Sınavda gözetmenin sessizce uyaran personel yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran aday yerine geçti.,Sınavda gözetmenin sessizce uyaran aday yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran robot yerine geçti.,Sınavda gözetmenin sessizce uyaran robot yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran arkadaş yerine geçti.,Sınavda gözetmenin sessizce uyaran arkadaş yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran misafir yerine geçti.,Sınavda gözetmenin sessizce uyaran misafir yerine geçti.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran öğrenciyi herkes gördü.,Sınavda gözetmenin sessizce uyaran öğrenciyi herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran greni herkes gördü.,Sınavda gözetmenin sessizce uyaran greni herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran okulu herkes gördü.,Sınavda gözetmenin sessizce uyaran okulu herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran veliyi herkes gördü.,Sınavda gözetmenin sessizce uyaran veliyi herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran sınıfı herkes gördü.,Sınavda gözetmenin sessizce uyaran sınıfı herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran kızı herkes gördü.,Sınavda gözetmenin sessizce uyaran kızı herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran elemanı herkes gördü.,Sınavda gözetmenin sessizce uyaran elemanı herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmeni sessizce uyaran adayı herkes gördü.,Sınavda gözetmenin sessizce uyaran adayı herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Öyle görünüyor ki sınavda gözetmeni sessizce uyaran öğrenciyi herkes gördü.,Öyle görünüyor ki sınavda gözetmenin sessizce uyaran öğrenciyi herkes gördü.,gözetmeni,gözetmenin,uyaran,relative_clauses
+Sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+O halde sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,O halde sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Anlaşılan sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Anlaşılan sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Şu halde sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Şu halde sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Görünüşe göre sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Görünüşe göre sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Belli ki sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Belli ki sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Öyle görünüyor ki sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Öyle görünüyor ki sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Demek ki sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Demek ki sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Anlaşılıyor ki sınavda gözetmenin sessizce uyardığı öğrenci yerine geçti.,Anlaşılıyor ki sınavda gözetmeni sessizce uyardığı öğrenci yerine geçti.,gözetmenin,gözetmeni,uyardığı öğrenci,relative_clauses
+Sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Görünüşe göre sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Görünüşe göre sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Anlaşılıyor ki sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Anlaşılıyor ki sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Demek ki sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Demek ki sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Öyle görünüyor ki sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Öyle görünüyor ki sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Şu halde sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Şu halde sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Anlaşılan sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Anlaşılan sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+O halde sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,O halde sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Yani sınavda gözetmenin sessizce uyardığı öğrenciyi herkes gördü.,Yani sınavda gözetmeni sessizce uyardığı öğrenciyi herkes gördü.,gözetmenin,gözetmeni,uyardığı öğrenciyi,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak babasından azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak babasından azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak ustasından azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak ustasından azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak servisinden azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak servisinden azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak evinden azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak evinden azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak ailesinden azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak ailesinden azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak kocasından azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak kocasından azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak annesinden azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak annesinden azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak kızından azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak kızından azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırak odasından azar yedi.,Bakkala giderken komşunun görmemiş gibi yapan çırak odasından azar yedi.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan ustayı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan ustayı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan elemanı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan elemanı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan yardımcıyı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan yardımcıyı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan veliyi ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan veliyi ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan babayı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan babayı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan asistanı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan asistanı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan toru ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan toru ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan esnafı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan esnafı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşuyu görmemiş gibi yapan çırağı ustası azarladı.,Bakkala giderken komşunun görmemiş gibi yapan çırağı ustası azarladı.,komşuyu,komşunun,yapan,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak babasından azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak babasından azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak ustasından azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak ustasından azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak servisinden azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak servisinden azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak evinden azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak evinden azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak ailesinden azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak ailesinden azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak kocasından azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak kocasından azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak annesinden azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak annesinden azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak kızından azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak kızından azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırak odasından azar yedi.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırak odasından azar yedi.,komşunun,komşuyu,yaptığı çırak,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı yardımcısı azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı yardımcısı azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı esi azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı esi azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı tasarımı azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı tasarımı azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı temsilcisi azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı temsilcisi azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı babası azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı babası azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı teknisyeni azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı teknisyeni azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı servisi azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı servisi azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı elemanı azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı elemanı azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Bakkala giderken komşunun görmemiş gibi yaptığı çırağı mühendisi azarladı.,Bakkala giderken komşuyu görmemiş gibi yaptığı çırağı mühendisi azarladı.,komşunun,komşuyu,yaptığı çırağı,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri ihbar etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri ihbar etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri itiraz etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri itiraz etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri sıkıntı etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri sıkıntı etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri destek etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri destek etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri istek etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri istek etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri taciz etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri taciz etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteri tedavi etmeye gelmiş.,Geçen gün elemanın bir hışımla azarlayan müşteri tedavi etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hısımla azarlayan müşteri şikayet etmeye gelmiş.,Geçen gün elemanın bir hısımla azarlayan müşteri şikayet etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir kadıyla azarlayan müşteri şikayet etmeye gelmiş.,Geçen gün elemanın bir kadıyla azarlayan müşteri şikayet etmeye gelmiş.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi ihbar ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi ihbar ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi itiraz ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi itiraz ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi sıkıntı ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi sıkıntı ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi destek ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi destek ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi istek ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi istek ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi taciz ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi taciz ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan müşteriyi tedavi ettik.,Geçen gün elemanın bir hışımla azarlayan müşteriyi tedavi ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan masteri şikayet ettik.,Geçen gün elemanın bir hışımla azarlayan masteri şikayet ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanı bir hışımla azarlayan uru şikayet ettik.,Geçen gün elemanın bir hışımla azarlayan uru şikayet ettik.,elemanı,elemanın,azarlayan,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri ihbar etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri ihbar etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri itiraz etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri itiraz etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri sıkıntı etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri sıkıntı etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri destek etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri destek etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri istek etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri istek etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri taciz etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri taciz etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri tedavi etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri tedavi etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteri şikayet etmeye gelmiş.,Geçen gün elemanı bir hışımla azarladığı müşteri şikayet etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen saat elemanın bir hışımla azarladığı müşteri şikayet etmeye gelmiş.,Geçen saat elemanı bir hışımla azarladığı müşteri şikayet etmeye gelmiş.,elemanın,elemanı,azarladığı müşteri,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi ihbar ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi ihbar ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi itiraz ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi itiraz ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi sıkıntı ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi sıkıntı ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi destek ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi destek ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi istek ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi istek ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi taciz ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi taciz ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi tedavi ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi tedavi ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen gün elemanın bir hışımla azarladığı müşteriyi şikayet ettik.,Geçen gün elemanı bir hışımla azarladığı müşteriyi şikayet ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Geçen saat elemanın bir hışımla azarladığı müşteriyi şikayet ettik.,Geçen saat elemanı bir hışımla azarladığı müşteriyi şikayet ettik.,elemanın,elemanı,azarladığı müşteriyi,relative_clauses
+Arka bahçede kediyi sürekli kovalayan köpek aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan köpek aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan kopek aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan kopek aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan kedi aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan kedi aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan labrador aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan labrador aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan puma aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan puma aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan tavuk aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan tavuk aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan yavru aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan yavru aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan fare aslında oyun oynuyor.,Arka bahçede kedinin sürekli kovalayan fare aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka ormanda kediyi sürekli kovalayan köpek aslında oyun oynuyor.,Arka ormanda kedinin sürekli kovalayan köpek aslında oyun oynuyor.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan köpeği seviyorum.,Arka bahçede kedinin sürekli kovalayan köpeği seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan kediyi seviyorum.,Arka bahçede kedinin sürekli kovalayan kediyi seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan yavruyu seviyorum.,Arka bahçede kedinin sürekli kovalayan yavruyu seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan arabayı seviyorum.,Arka bahçede kedinin sürekli kovalayan arabayı seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan kopeği seviyorum.,Arka bahçede kedinin sürekli kovalayan kopeği seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan atı seviyorum.,Arka bahçede kedinin sürekli kovalayan atı seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan kızı seviyorum.,Arka bahçede kedinin sürekli kovalayan kızı seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan esi seviyorum.,Arka bahçede kedinin sürekli kovalayan esi seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kediyi sürekli kovalayan anneyi seviyorum.,Arka bahçede kedinin sürekli kovalayan anneyi seviyorum.,kediyi,kedinin,kovalayan,relative_clauses
+Arka bahçede kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka bahçede kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka ormanda kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka ormanda kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka evde kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka evde kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka parkta kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka parkta kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka arazide kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka arazide kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka sokakta kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka sokakta kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka yerde kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka yerde kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka terasta kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka terasta kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka balkonda kedinin sürekli kovaladığı köpek aslında oyun oynuyor.,Arka balkonda kediyi sürekli kovaladığı köpek aslında oyun oynuyor.,kedinin,kediyi,kovaladığı köpek,relative_clauses
+Arka bahçede kedinin sürekli kovaladığı köpeği seviyorum.,Arka bahçede kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka ormanda kedinin sürekli kovaladığı köpeği seviyorum.,Arka ormanda kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka evde kedinin sürekli kovaladığı köpeği seviyorum.,Arka evde kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka parkta kedinin sürekli kovaladığı köpeği seviyorum.,Arka parkta kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka arazide kedinin sürekli kovaladığı köpeği seviyorum.,Arka arazide kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka sokakta kedinin sürekli kovaladığı köpeği seviyorum.,Arka sokakta kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka yerde kedinin sürekli kovaladığı köpeği seviyorum.,Arka yerde kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka terasta kedinin sürekli kovaladığı köpeği seviyorum.,Arka terasta kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka balkonda kedinin sürekli kovaladığı köpeği seviyorum.,Arka balkonda kediyi sürekli kovaladığı köpeği seviyorum.,kedinin,kediyi,kovaladığı köpeği,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kedi aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan kedi aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kopek aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan kopek aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan fare aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan fare aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan tavuk aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan tavuk aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan yavru aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan yavru aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan pati aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan pati aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan labrador aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan labrador aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan horoz aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan horoz aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kaplan aslında oyun oynuyor.,Arka bahçede köpeğin sürekli kovalayan kaplan aslında oyun oynuyor.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kediyi seviyorum.,Arka bahçede köpeğin sürekli kovalayan kediyi seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan kopeği seviyorum.,Arka bahçede köpeğin sürekli kovalayan kopeği seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan hayvanı seviyorum.,Arka bahçede köpeğin sürekli kovalayan hayvanı seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan fareyi seviyorum.,Arka bahçede köpeğin sürekli kovalayan fareyi seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan yavruyu seviyorum.,Arka bahçede köpeğin sürekli kovalayan yavruyu seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeği sürekli kovalayan ambulansı seviyorum.,Arka bahçede köpeğin sürekli kovalayan ambulansı seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka ormanda köpeği sürekli kovalayan kediyi seviyorum.,Arka ormanda köpeğin sürekli kovalayan kediyi seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka evde köpeği sürekli kovalayan kediyi seviyorum.,Arka evde köpeğin sürekli kovalayan kediyi seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka parkta köpeği sürekli kovalayan kediyi seviyorum.,Arka parkta köpeğin sürekli kovalayan kediyi seviyorum.,köpeği,köpeğin,kovalayan,relative_clauses
+Arka bahçede köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka bahçede köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka ormanda köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka ormanda köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka evde köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka evde köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka parkta köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka parkta köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka arazide köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka arazide köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka sokakta köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka sokakta köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka yerde köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka yerde köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka terasta köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka terasta köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka balkonda köpeğin sürekli kovaladığı kedi aslında oyun oynuyor.,Arka balkonda köpeği sürekli kovaladığı kedi aslında oyun oynuyor.,köpeğin,köpeği,kovaladığı kedi,relative_clauses
+Arka bahçede köpeğin sürekli kovaladığı kediyi seviyorum.,Arka bahçede köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka ormanda köpeğin sürekli kovaladığı kediyi seviyorum.,Arka ormanda köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka evde köpeğin sürekli kovaladığı kediyi seviyorum.,Arka evde köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka parkta köpeğin sürekli kovaladığı kediyi seviyorum.,Arka parkta köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka arazide köpeğin sürekli kovaladığı kediyi seviyorum.,Arka arazide köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka sokakta köpeğin sürekli kovaladığı kediyi seviyorum.,Arka sokakta köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka yerde köpeğin sürekli kovaladığı kediyi seviyorum.,Arka yerde köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka terasta köpeğin sürekli kovaladığı kediyi seviyorum.,Arka terasta köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Arka balkonda köpeğin sürekli kovaladığı kediyi seviyorum.,Arka balkonda köpeği sürekli kovaladığı kediyi seviyorum.,köpeğin,köpeği,kovaladığı kediyi,relative_clauses
+Sabah annesini hastanede gören küçük kız saatlerdir ağlıyor.,Sabah annesinin hastanede gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini evde gören küçük kız saatlerdir ağlıyor.,Sabah annesinin evde gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini yolda gören küçük kız saatlerdir ağlıyor.,Sabah annesinin yolda gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini klinikte gören küçük kız saatlerdir ağlıyor.,Sabah annesinin klinikte gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini serviste gören küçük kız saatlerdir ağlıyor.,Sabah annesinin serviste gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini sokakta gören küçük kız saatlerdir ağlıyor.,Sabah annesinin sokakta gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini yatakta gören küçük kız saatlerdir ağlıyor.,Sabah annesinin yatakta gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini okulda gören küçük kız saatlerdir ağlıyor.,Sabah annesinin okulda gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini odada gören küçük kız saatlerdir ağlıyor.,Sabah annesinin odada gören küçük kız saatlerdir ağlıyor.,annesini,annesinin,gören,relative_clauses
+Sabah annesini evde gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin evde gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini yolda gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin yolda gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini klinikte gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin klinikte gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini serviste gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin serviste gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini sokakta gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin sokakta gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini yatakta gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin yatakta gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini okulda gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin okulda gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini odada gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin odada gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesini otelde gören küçük kızı bir türlü teselli edemediler.,Sabah annesinin otelde gören küçük kızı bir türlü teselli edemediler.,annesini,annesinin,gören,relative_clauses
+Sabah annesinin evde gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini evde gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin yolda gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini yolda gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin klinikte gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini klinikte gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin serviste gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini serviste gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin sokakta gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini sokakta gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin yatakta gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini yatakta gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin okulda gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini okulda gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin odada gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini odada gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin otelde gördüğü küçük kız saatlerdir ağlıyor.,Sabah annesini otelde gördüğü küçük kız saatlerdir ağlıyor.,annesinin,annesini,gördüğü küçük kız,relative_clauses
+Sabah annesinin evde gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini evde gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin yolda gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini yolda gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin klinikte gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini klinikte gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin serviste gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini serviste gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin sokakta gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini sokakta gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin yatakta gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini yatakta gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin okulda gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini okulda gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin odada gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini odada gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Sabah annesinin otelde gördüğü küçük kızı bir türlü teselli edemediler.,Sabah annesini otelde gördüğü küçük kızı bir türlü teselli edemediler.,annesinin,annesini,gördüğü küçük kızı,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de aleykümüm söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de aleykümüm söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de ziyaretim söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de ziyaretim söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de sohbetim söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de sohbetim söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de telefonum söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de telefonum söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de zikrim söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de zikrim söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de irtibatım söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de irtibatım söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de haccım söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de haccım söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de referansım söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de referansım söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşım size de selam söyledi.,Toplantıdan sonra benim eve bırakan arkadaşım size de selam söyledi.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni eve bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim eve bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni arabaya bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim arabaya bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni okula bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim okula bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni hastaneye bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim hastaneye bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni binaya bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim binaya bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni ofise bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim ofise bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni aileye bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim aileye bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni kapıya bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim kapıya bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra beni fabrikaya bırakan arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra benim fabrikaya bırakan arkadaşımı bir ara sizinle tanıştırayım.,beni,benim,bırakan,relative_clauses
+Toplantıdan sonra benim eve bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni eve bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim arabaya bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni arabaya bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim okula bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni okula bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim hastaneye bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni hastaneye bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim binaya bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni binaya bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim ofise bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni ofise bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim aileye bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni aileye bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim kapıya bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni kapıya bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim fabrikaya bıraktığım arkadaşım size de selam söyledi.,Toplantıdan sonra beni fabrikaya bıraktığım arkadaşım size de selam söyledi.,benim,beni,bıraktığım arkadaşım,relative_clauses
+Toplantıdan sonra benim eve bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni eve bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim arabaya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni arabaya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim okula bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni okula bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim hastaneye bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni hastaneye bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim binaya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni binaya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim ofise bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni ofise bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim aileye bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni aileye bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim kapıya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni kapıya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Toplantıdan sonra benim fabrikaya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,Toplantıdan sonra beni fabrikaya bıraktığım arkadaşımı bir ara sizinle tanıştırayım.,benim,beni,bıraktığım arkadaşımı,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan kılavuz öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan kılavuz öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan asistan öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan asistan öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan gren öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan gren öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan arkadaş öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan arkadaş öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan kap öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan kap öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan doktor öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan doktor öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan hostes öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan hostes öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan personel öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan personel öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan kişi öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımın uzun uzun konuşan kişi öğretmen bize çok yardımcı oldu.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir promosyon aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir promosyon aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir hatır aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir hatır aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir oyuncak aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir oyuncak aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir indirim aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir indirim aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir kredi aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir kredi aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir par aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir par aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir ur aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir ur aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir mesaj aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir mesaj aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımla uzun uzun konuşan rehber öğretmene küçük bir bilezik aldık.,Tercih döneminde kızımın uzun uzun konuşan rehber öğretmene küçük bir bilezik aldık.,kızımla,kızımın,konuşan,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih dışında kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih dışında kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih periyodunda kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih periyodunda kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih yılında kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih yılında kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih donende kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih donende kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih ayında kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih ayında kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih ortanda kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih ortanda kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih yarıyılında kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Tercih yarıyılında kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Anlaşılıyor ki tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,Anlaşılıyor ki tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmen bize çok yardımcı oldu.,kızımın,kızımla,konuştuğu rehber öğretmen,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir promosyon aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir promosyon aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir hatır aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir hatır aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir oyuncak aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir oyuncak aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir indirim aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir indirim aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir kredi aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir kredi aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir par aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir par aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir ur aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir ur aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir mesaj aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir mesaj aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Tercih döneminde kızımın uzun uzun konuştuğu rehber öğretmene küçük bir bilezik aldık.,Tercih döneminde kızımla uzun uzun konuştuğu rehber öğretmene küçük bir bilezik aldık.,kızımın,kızımla,konuştuğu rehber öğretmene,relative_clauses
+Sokağın başında berberi uzaktan gören terzi el salladı.,Sokağın başında berberin uzaktan gören terzi el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören berber el salladı.,Sokağın başında berberin uzaktan gören berber el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören konfeksiyon el salladı.,Sokağın başında berberin uzaktan gören konfeksiyon el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören ayakkabı el salladı.,Sokağın başında berberin uzaktan gören ayakkabı el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören damat el salladı.,Sokağın başında berberin uzaktan gören damat el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören moda el salladı.,Sokağın başında berberin uzaktan gören moda el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören kuyumcu el salladı.,Sokağın başında berberin uzaktan gören kuyumcu el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören sünger el salladı.,Sokağın başında berberin uzaktan gören sünger el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören model el salladı.,Sokağın başında berberin uzaktan gören model el salladı.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi lafa tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi lafa tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi tasa tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi tasa tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi hayvana tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi hayvana tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi oya tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi oya tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi muhabbete tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi muhabbete tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi amele tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi amele tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi iddiaya tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi iddiaya tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi cama tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi cama tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberi uzaktan gören terziyi müşterisi sirke tutuyordu.,Sokağın başında berberin uzaktan gören terziyi müşterisi sirke tutuyordu.,berberi,berberin,gören,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terzi el salladı.,Sokağın başında berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın ortanda berberin uzaktan gördüğü terzi el salladı.,Sokağın ortanda berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın yayında berberin uzaktan gördüğü terzi el salladı.,Sokağın yayında berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın sonunda berberin uzaktan gördüğü terzi el salladı.,Sokağın sonunda berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın arkanda berberin uzaktan gördüğü terzi el salladı.,Sokağın arkanda berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın solunda berberin uzaktan gördüğü terzi el salladı.,Sokağın solunda berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın dışında berberin uzaktan gördüğü terzi el salladı.,Sokağın dışında berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Şu halde sokağın başında berberin uzaktan gördüğü terzi el salladı.,Şu halde sokağın başında berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Anlaşılan sokağın başında berberin uzaktan gördüğü terzi el salladı.,Anlaşılan sokağın başında berberi uzaktan gördüğü terzi el salladı.,berberin,berberi,gördüğü terzi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi masteri lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi masteri lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi temsilcisi lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi temsilcisi lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi acentesi lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi acentesi lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi şirketi lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi şirketi lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi partneri lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi partneri lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi satıcısı lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi satıcısı lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi servisi lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi servisi lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi müşterisi lafa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi müşterisi lafa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Sokağın başında berberin uzaktan gördüğü terziyi müşterisi tasa tutuyordu.,Sokağın başında berberi uzaktan gördüğü terziyi müşterisi tasa tutuyordu.,berberin,berberi,gördüğü terziyi,relative_clauses
+Aylardır ailemize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır ailemize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır dilimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır dilimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır aramıza sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır aramıza sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır milletimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhit bizimle görüşmeye geldi.,Aylardır milletimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı inatla öneren müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının inatla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı kararla öneren müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının kararla öneren müteahhit bizimle görüşmeye geldi.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır ailemize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır ailemize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır dilimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır dilimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır aramıza sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır aramıza sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır milletimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,Aylardır milletimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yerinde ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş yakın ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş yakın ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla öneren müteahhiti iş uzak ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla öneren müteahhiti iş uzak ziyaret ettik.,emlakçıyı,emlakçının,öneren,relative_clauses
+Aylardır ailemize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır ailemize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır dilimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır dilimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır aramıza sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır aramıza sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır milletimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır milletimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının inatla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı inatla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının kararla önerdiği müteahhit bizimle görüşmeye geldi.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı kararla önerdiği müteahhit bizimle görüşmeye geldi.,emlakçının,emlakçıyı,önerdiği müteahhit,relative_clauses
+Aylardır ailemize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır ailemize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır ruhumuza sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır dilimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır dilimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır hayatımıza sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır aramıza sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır aramıza sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır milletimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,Aylardır milletimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yerinde ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş yakın ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş yakın ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Aylardır içimize sinen bir ev bulamadığımız için emlakçının ısrarla önerdiği müteahhiti iş uzak ziyaret ettik.,Aylardır içimize sinen bir ev bulamadığımız için emlakçıyı ısrarla önerdiği müteahhiti iş uzak ziyaret ettik.,emlakçının,emlakçıyı,önerdiği müteahhiti,relative_clauses
+Muayenede hastayla sakince konuşan ecza herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan ecza herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan cerrah herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan cerrah herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan hekim herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan hekim herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan avukat herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan avukat herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan hastane herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan hastane herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan asistan herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan asistan herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan ebe herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan ebe herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan psikiyatrist herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan psikiyatrist herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan mühendis herkesin ilgisini çekti.,Muayenede hastanın sakince konuşan mühendis herkesin ilgisini çekti.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan hekimi asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan hekimi asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan cerrahı asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan cerrahı asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan asistanı asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan asistanı asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan esi asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan esi asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan hastayı asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan hastayı asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan sekreteri asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan sekreteri asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan babayı asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan babayı asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan yardımcıyı asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan yardımcıyı asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastayla sakince konuşan doktoru asistanlar dikkatle izledi.,Muayenede hastanın sakince konuşan doktoru asistanlar dikkatle izledi.,hastayla,hastanın,konuşan,relative_clauses
+Muayenede hastanın sakince konuştuğu doktor herkesin merakını çekti.,Muayenede hastayla sakince konuştuğu doktor herkesin merakını çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,Muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Muayenede hastanın sakince konuştuğu doktor herkesin isteğini çekti.,Muayenede hastayla sakince konuştuğu doktor herkesin isteğini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Muayenede hastanın sakince konuştuğu doktor herkesin sevgisini çekti.,Muayenede hastayla sakince konuştuğu doktor herkesin sevgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Görünüşe göre muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,Görünüşe göre muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Demek ki muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,Demek ki muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Öyle görünüyor ki muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,Öyle görünüyor ki muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+O halde muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,O halde muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Şu halde muayenede hastanın sakince konuştuğu doktor herkesin ilgisini çekti.,Şu halde muayenede hastayla sakince konuştuğu doktor herkesin ilgisini çekti.,hastanın,hastayla,konuştuğu doktor,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru asistanlar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru asistanlar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru doktorlar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru doktorlar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru teknisyenler dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru teknisyenler dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru cerrahlar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru cerrahlar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru çocuklar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru çocuklar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru uzmanlar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru uzmanlar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru avukatlar dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru avukatlar dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru diğerler dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru diğerler dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Muayenede hastanın sakince konuştuğu doktoru hekimler dikkatle izledi.,Muayenede hastayla sakince konuştuğu doktoru hekimler dikkatle izledi.,hastanın,hastayla,konuştuğu doktoru,relative_clauses
+Tartışma esnasında boksörü sertçe iten oyun çok tepki aldı.,Tartışma esnasında boksörün sertçe iten oyun çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten doktor çok tepki aldı.,Tartışma esnasında boksörün sertçe iten doktor çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten futbol çok tepki aldı.,Tartışma esnasında boksörün sertçe iten futbol çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten polis çok tepki aldı.,Tartışma esnasında boksörün sertçe iten polis çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten ceza çok tepki aldı.,Tartışma esnasında boksörün sertçe iten ceza çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten seyirci çok tepki aldı.,Tartışma esnasında boksörün sertçe iten seyirci çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten tak çok tepki aldı.,Tartışma esnasında boksörün sertçe iten tak çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten savcı çok tepki aldı.,Tartışma esnasında boksörün sertçe iten savcı çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten avukat çok tepki aldı.,Tartışma esnasında boksörün sertçe iten avukat çok tepki aldı.,boksörü,boksörün,iten,relative_clauses
+Tartışma sonra boksörü sertçe iten hakemi seyirci yuhaladı.,Tartışma sonra boksörün sertçe iten hakemi seyirci yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi hakem yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi hakem yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi oyun yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi oyun yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi taraftar yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi taraftar yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi araç yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi araç yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi polis yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi polis yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi ocak yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi ocak yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi misafir yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi misafir yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma esnasında boksörü sertçe iten hakemi sahne yuhaladı.,Tartışma esnasında boksörün sertçe iten hakemi sahne yuhaladı.,boksörü,boksörün,iten,relative_clauses
+Tartışma sonra boksörün sertçe ittiği hakem çok tepki aldı.,Tartışma sonra boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Görünüşe göre tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Görünüşe göre tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Anlaşılan tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Anlaşılan tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Yani tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Yani tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Belli ki tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Belli ki tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+O halde tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,O halde tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Şu halde tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Şu halde tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Demek ki tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Demek ki tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Anlaşılıyor ki tartışma esnasında boksörün sertçe ittiği hakem çok tepki aldı.,Anlaşılıyor ki tartışma esnasında boksörü sertçe ittiği hakem çok tepki aldı.,boksörün,boksörü,ittiği hakem,relative_clauses
+Tartışma sonra boksörün sertçe ittiği hakemi seyirci yuhaladı.,Tartışma sonra boksörü sertçe ittiği hakemi seyirci yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi hakem yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi hakem yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi oyun yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi oyun yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi taraftar yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi taraftar yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi araç yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi araç yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi polis yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi polis yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi ocak yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi ocak yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi misafir yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi misafir yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Tartışma esnasında boksörün sertçe ittiği hakemi sahne yuhaladı.,Tartışma esnasında boksörü sertçe ittiği hakemi sahne yuhaladı.,boksörün,boksörü,ittiği hakemi,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  kardeşi odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  babayı odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  babayı odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  abiyi odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  abiyi odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  akrabayı odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  akrabayı odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  anneyi odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  anneyi odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  ablayı odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  ablayı odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  esi odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  esi odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan  kızı odada çok kalmadı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan  kızı odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi odana kadar taşıyan  kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’nin odana kadar taşıyan  kardeşi odada çok kalmadı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi çarşaf çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi çarşaf çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi battaniye çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi battaniye çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi film çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi film çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi havlu çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi havlu çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi yatak çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi yatak çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi pantolon çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi pantolon çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi mendil çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi mendil çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi kul çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi kul çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’yi yatağına kadar taşıyan kardeşine annesi per çıkardı.,Koltukta uyumasın diye Ece’nin yatağına kadar taşıyan kardeşine annesi per çıkardı.,Ece’yi,Ece’nin,taşıyan,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin odana kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi odana kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin koluna kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi koluna kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin yanına kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi yanına kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin altına kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi altına kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin sırtına kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi sırtına kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin arabana kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi arabana kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin arkana kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi arkana kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin yakınına kadar taşıdığı kardeşi odada çok kalmadı.,Koltukta uyumasın diye Ece’yi yakınına kadar taşıdığı kardeşi odada çok kalmadı.,Ece’nin,Ece’yi,taşıdığı kardeşi,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi battaniye çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi battaniye çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi film çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi film çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi havlu çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi havlu çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi yatak çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi yatak çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi pantolon çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi pantolon çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi mendil çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi mendil çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi kul çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi kul çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi per çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi per çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Koltukta uyumasın diye Ece’nin yatağına kadar taşıdığı kardeşine annesi eldiven çıkardı.,Koltukta uyumasın diye Ece’yi yatağına kadar taşıdığı kardeşine annesi eldiven çıkardı.,Ece’nin,Ece’yi,taşıdığı kardeşine,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk insandakileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk insandakileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk kişidekileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk kişidekileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk sestekileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk sestekileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk nesnedekileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk nesnedekileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk akrabadakileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk akrabadakileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk cisimdekileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk cisimdekileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk yakındakileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk yakındakileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk olaydakileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk olaydakileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuk diğerdekileri duygulandırdı.,Otobüse binmeden annesinin sıkıca sarılan çocuk diğerdekileri duygulandırdı.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu kap tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu kap tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu makinist tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu makinist tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu garson tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu garson tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu hostes tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu hostes tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu asistan tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu asistan tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu sekreter tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu sekreter tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu yolcu tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu yolcu tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu doktor tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu doktor tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesine sıkıca sarılan çocuğu kurye tanıyormuş.,Otobüse binmeden annesinin sıkıca sarılan çocuğu kurye tanıyormuş.,annesine,annesinin,sarılan,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk insandakileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk insandakileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk kişidekileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk kişidekileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk sestekileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk sestekileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk nesnedekileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk nesnedekileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk akrabadakileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk akrabadakileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk cisimdekileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk cisimdekileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk yakındakileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk yakındakileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk olaydakileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk olaydakileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuk diğerdekileri duygulandırdı.,Otobüse binmeden annesine sıkıca sarıldığı çocuk diğerdekileri duygulandırdı.,annesinin,annesine,sarıldığı çocuk,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu kap tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu kap tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu makinist tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu makinist tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu garson tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu garson tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu hostes tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu hostes tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu asistan tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu asistan tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu sekreter tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu sekreter tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu yolcu tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu yolcu tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu doktor tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu doktor tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Otobüse binmeden annesinin sıkıca sarıldığı çocuğu kurye tanıyormuş.,Otobüse binmeden annesine sıkıca sarıldığı çocuğu kurye tanıyormuş.,annesinin,annesine,sarıldığı çocuğu,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa yerde çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa yerde çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa sırada çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa sırada çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa saatte çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa saatte çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa sekilde çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa sekilde çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa konuda çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa konuda çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa uzayda çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa uzayda çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa dakikada çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa dakikada çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenci kısa zamanda çok gelişme gösterdi.,Her hafta tango hocasının derste dans eden öğrenci kısa zamanda çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla sınıfta dans eden öğrenci kısa zamanda çok gelişme gösterdi.,Her hafta tango hocasının sınıfta dans eden öğrenci kısa zamanda çok gelişme gösterdi.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl devayı gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl devayı gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl ortayı gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl ortayı gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl sayıyı gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl sayıyı gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl noktayı gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl noktayı gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl haftayı gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl haftayı gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl biti gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl biti gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl sureyi gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl sureyi gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden öğrenciyi yıl lanedi gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden öğrenciyi yıl lanedi gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasıyla derste dans eden greni yıl sonu gösterisine çağırdılar.,Her hafta tango hocasının derste dans eden greni yıl sonu gösterisine çağırdılar.,tango hocasıyla,tango hocasının,dans eden,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa yerde çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa yerde çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa sırada çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa sırada çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa saatte çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa saatte çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa sekilde çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa sekilde çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa konuda çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa konuda çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa uzayda çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa uzayda çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa dakikada çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa dakikada çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenci kısa zamanda çok gelişme gösterdi.,Her hafta tango hocasıyla derste dans ettiği öğrenci kısa zamanda çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının sınıfta dans ettiği öğrenci kısa zamanda çok gelişme gösterdi.,Her hafta tango hocasıyla sınıfta dans ettiği öğrenci kısa zamanda çok gelişme gösterdi.,tango hocasının,tango hocasıyla,dans ettiği öğrenci,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl devayı gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl devayı gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl ortayı gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl ortayı gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl sayıyı gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl sayıyı gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl noktayı gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl noktayı gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl haftayı gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl haftayı gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl biti gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl biti gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl sureyi gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl sureyi gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının derste dans ettiği öğrenciyi yıl lanedi gösterisine çağırdılar.,Her hafta tango hocasıyla derste dans ettiği öğrenciyi yıl lanedi gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Her hafta tango hocasının sınıfta dans ettiği öğrenciyi yıl sonu gösterisine çağırdılar.,Her hafta tango hocasıyla sınıfta dans ettiği öğrenciyi yıl sonu gösterisine çağırdılar.,tango hocasının,tango hocasıyla,dans ettiği öğrenciyi,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz saat yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz saat yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz tarih yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz tarih yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz hafta yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz hafta yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz say yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz say yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz done yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz done yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz takvim yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz takvim yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz ay yöneticiyi sesini yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz ay yöneticinin sesini yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi tonunu yükselterek ağlatan çalışan işi bıraktı.,Geçtiğimiz gün yöneticinin tonunu yükselterek ağlatan çalışan işi bıraktı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi tonunu yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin tonunu yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi telefonunu yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin telefonunu yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi dilini yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin dilini yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi nefesini yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin nefesini yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi addini yükselterek ağlatan çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticinin addini yükselterek ağlatan çalışanı odasına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışanı evine çağırdı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışanı evine çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışanı salonuna çağırdı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışanı salonuna çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticiyi sesini yükselterek ağlatan çalışanı yanına çağırdı.,Geçtiğimiz gün yöneticinin sesini yükselterek ağlatan çalışanı yanına çağırdı.,yöneticiyi,yöneticinin,ağlatan,relative_clauses
+Geçtiğimiz gün yöneticinin tonunu yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi tonunu yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin telefonunu yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi telefonunu yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin dilini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi dilini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin nefesini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi nefesini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin addini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz gün yöneticiyi addini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz saat yöneticinin sesini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz saat yöneticiyi sesini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz tarih yöneticinin sesini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz tarih yöneticiyi sesini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz hafta yöneticinin sesini yükselterek ağlattığı çalışan işi bıraktı.,Geçtiğimiz hafta yöneticiyi sesini yükselterek ağlattığı çalışan işi bıraktı.,yöneticinin,yöneticiyi,ağlattığı çalışan,relative_clauses
+Geçtiğimiz gün yöneticinin tonunu yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi tonunu yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin telefonunu yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi telefonunu yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin dilini yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi dilini yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin nefesini yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi nefesini yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin addini yükselterek ağlattığı çalışanı odasına çağırdı.,Geçtiğimiz gün yöneticiyi addini yükselterek ağlattığı çalışanı odasına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışanı evine çağırdı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışanı evine çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışanı salonuna çağırdı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışanı salonuna çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Geçtiğimiz gün yöneticinin sesini yükselterek ağlattığı çalışanı yanına çağırdı.,Geçtiğimiz gün yöneticiyi sesini yükselterek ağlattığı çalışanı yanına çağırdı.,yöneticinin,yöneticiyi,ağlattığı çalışanı,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu madalyayı ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu madalyayı ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu ikramiyeyi ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu ikramiyeyi ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu bursu ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu bursu ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu plaketi ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu plaketi ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu belgeyi ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu belgeyi ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu sertifikayı ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu sertifikayı ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu hediyeyi ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu hediyeyi ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu diplomayı ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu diplomayı ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncu unvanı ikisi için aldı.,Yıllardır yönetmenin her projesinde destekleyen oyuncu unvanı ikisi için aldı.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes taziye ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes taziye ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes kabul ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes kabul ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes sak ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes sak ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes takdir ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes takdir ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes hediye ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes hediye ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes takdim ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes takdim ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes taltif ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes taltif ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen oyuncuyu şimdi herkes plaket ediyor.,Yıllardır yönetmenin her projesinde destekleyen oyuncuyu şimdi herkes plaket ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmeni her projesinde destekleyen futbolcuyu şimdi herkes tebrik ediyor.,Yıllardır yönetmenin her projesinde destekleyen futbolcuyu şimdi herkes tebrik ediyor.,yönetmeni,yönetmenin,destekleyen,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu madalyayı ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu madalyayı ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu ikramiyeyi ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu ikramiyeyi ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu bursu ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu bursu ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu plaketi ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu plaketi ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu belgeyi ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu belgeyi ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu sertifikayı ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu sertifikayı ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu hediyeyi ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu hediyeyi ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu diplomayı ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu diplomayı ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncu unvanı ikisi için aldı.,Yıllardır yönetmeni her projesinde desteklediği oyuncu unvanı ikisi için aldı.,yönetmenin,yönetmeni,desteklediği oyuncu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes taziye ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes taziye ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes kabul ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes kabul ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes sak ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes sak ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes takdir ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes takdir ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes hediye ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes hediye ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes takdim ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes takdim ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes taltif ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes taltif ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her projesinde desteklediği oyuncuyu şimdi herkes plaket ediyor.,Yıllardır yönetmeni her projesinde desteklediği oyuncuyu şimdi herkes plaket ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Yıllardır yönetmenin her ofisinde desteklediği oyuncuyu şimdi herkes tebrik ediyor.,Yıllardır yönetmeni her ofisinde desteklediği oyuncuyu şimdi herkes tebrik ediyor.,yönetmenin,yönetmeni,desteklediği oyuncuyu,relative_clauses
+Sahada mühendisi bir şey sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir şey sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir durum sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir durum sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir ocak sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir ocak sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir olay sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir olay sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir hareket sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir hareket sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir fiil sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir fiil sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir birşey sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir birşey sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir madde sormak için arayan işçi önce yanındakilere danıştı.,Sahada mühendisin bir madde sormak için arayan işçi önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir şey sormak için arayan mühendis önce yanındakilere danıştı.,Sahada mühendisin bir şey sormak için arayan mühendis önce yanındakilere danıştı.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir şey sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir şey sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir durum sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir durum sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir ocak sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir ocak sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir olay sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir olay sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir hareket sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir hareket sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir fiil sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir fiil sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir birşey sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir birşey sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir madde sormak için arayan işçiyi biraz bekletti.,Sahada mühendisin bir madde sormak için arayan işçiyi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisi bir şey sormak için arayan isi biraz bekletti.,Sahada mühendisin bir şey sormak için arayan isi biraz bekletti.,mühendisi,mühendisin,arayan,relative_clauses
+Sahada mühendisin bir şey sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir şey sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir durum sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir durum sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir ocak sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir ocak sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir olay sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir olay sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir hareket sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir hareket sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir fiil sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir fiil sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir birşey sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir birşey sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir madde sormak için aradığı işçi önce yanındakilere danıştı.,Sahada mühendisi bir madde sormak için aradığı işçi önce yanındakilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir şey sormak için aradığı işçi önce ailendekilere danıştı.,Sahada mühendisi bir şey sormak için aradığı işçi önce ailendekilere danıştı.,mühendisin,mühendisi,aradığı işçi,relative_clauses
+Sahada mühendisin bir şey sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir şey sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir durum sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir durum sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir ocak sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir ocak sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir olay sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir olay sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir hareket sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir hareket sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir fiil sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir fiil sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir birşey sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir birşey sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Sahada mühendisin bir madde sormak için aradığı işçiyi biraz bekletti.,Sahada mühendisi bir madde sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Anlaşılan sahada mühendisin bir şey sormak için aradığı işçiyi biraz bekletti.,Anlaşılan sahada mühendisi bir şey sormak için aradığı işçiyi biraz bekletti.,mühendisin,mühendisi,aradığı işçiyi,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan kameraman kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan kameraman kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan hakem kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan hakem kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan gazete kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan gazete kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan haber kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan haber kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan temsilci kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan temsilci kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan spiker kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan spiker kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan polis kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan polis kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan kurye kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan kurye kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan oyun kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarın nişanlanan oyun kanala davetiye gönderdi.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire taziye mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire taziye mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire kabul mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire kabul mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire sak mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire sak mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire takdir mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire takdir mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire hediye mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire hediye mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire takdim mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire takdim mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire taltif mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire taltif mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire plaket mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire plaket mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarla nişanlanan muhabire tebrik mesajları geliyor.,Geçtiğimiz ay ünlü yazarın nişanlanan muhabire tebrik mesajları geliyor.,ünlü yazarla,ünlü yazarın,nişanlanan,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir duvara davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir duvara davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir kanalizasyona davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir kanalizasyona davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir kanala davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir kanala davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir damara davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir damara davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir kuyuya davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir kuyuya davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir boruya davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir boruya davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir tekneye davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir tekneye davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir tuvalete davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir tuvalete davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabir zemine davetiye gönderdi.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabir zemine davetiye gönderdi.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabir,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire taziye mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire taziye mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire kabul mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire kabul mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire sak mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire sak mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire takdir mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire takdir mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire hediye mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire hediye mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire takdim mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire takdim mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire taltif mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire taltif mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire plaket mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire plaket mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Geçtiğimiz ay ünlü yazarın nişanlandığı muhabire tebrik mesajları geliyor.,Geçtiğimiz ay ünlü yazarla nişanlandığı muhabire tebrik mesajları geliyor.,ünlü yazarın,ünlü yazarla,nişanlandığı muhabire,relative_clauses
+Yemekte onu yakından tanıyan kişiler söz aldı.,Yemekte onun yakından tanıyan kişiler söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan nesneler söz aldı.,Yemekte onun yakından tanıyan nesneler söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan olaylar söz aldı.,Yemekte onun yakından tanıyan olaylar söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan varlıklar söz aldı.,Yemekte onun yakından tanıyan varlıklar söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan kurumlar söz aldı.,Yemekte onun yakından tanıyan kurumlar söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan araçlar söz aldı.,Yemekte onun yakından tanıyan araçlar söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan topluluklar söz aldı.,Yemekte onun yakından tanıyan topluluklar söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan birimler söz aldı.,Yemekte onun yakından tanıyan birimler söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan objeler söz aldı.,Yemekte onun yakından tanıyan objeler söz aldı.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan grupları konuşturduk.,Yemekte onun yakından tanıyan grupları konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan kurumları konuşturduk.,Yemekte onun yakından tanıyan kurumları konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan nesneleri konuşturduk.,Yemekte onun yakından tanıyan nesneleri konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan aileleri konuşturduk.,Yemekte onun yakından tanıyan aileleri konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan kişileri konuşturduk.,Yemekte onun yakından tanıyan kişileri konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan organizasyonları konuşturduk.,Yemekte onun yakından tanıyan organizasyonları konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan şirketleri konuşturduk.,Yemekte onun yakından tanıyan şirketleri konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan ortakları konuşturduk.,Yemekte onun yakından tanıyan ortakları konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onu yakından tanıyan varlıkları konuşturduk.,Yemekte onun yakından tanıyan varlıkları konuşturduk.,onu,onun,tanıyan,relative_clauses
+Yemekte onun yakından tanıdığı kişiler senet aldı.,Yemekte onu yakından tanıdığı kişiler senet aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler fiil aldı.,Yemekte onu yakından tanıdığı kişiler fiil aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler nisa aldı.,Yemekte onu yakından tanıdığı kişiler nisa aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler hareket aldı.,Yemekte onu yakından tanıdığı kişiler hareket aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler harf aldı.,Yemekte onu yakından tanıdığı kişiler harf aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler eylem aldı.,Yemekte onu yakından tanıdığı kişiler eylem aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler müzik aldı.,Yemekte onu yakından tanıdığı kişiler müzik aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler belge aldı.,Yemekte onu yakından tanıdığı kişiler belge aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yemekte onun yakından tanıdığı kişiler imza aldı.,Yemekte onu yakından tanıdığı kişiler imza aldı.,onun,onu,tanıdığı kişiler,relative_clauses
+Yani yemekte onun yakından tanıdığı kişileri konuşturduk.,Yani yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Görünüşe göre yemekte onun yakından tanıdığı kişileri konuşturduk.,Görünüşe göre yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+O halde yemekte onun yakından tanıdığı kişileri konuşturduk.,O halde yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Belli ki yemekte onun yakından tanıdığı kişileri konuşturduk.,Belli ki yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Öyle görünüyor ki yemekte onun yakından tanıdığı kişileri konuşturduk.,Öyle görünüyor ki yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Demek ki yemekte onun yakından tanıdığı kişileri konuşturduk.,Demek ki yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Şu halde yemekte onun yakından tanıdığı kişileri konuşturduk.,Şu halde yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Anlaşılan yemekte onun yakından tanıdığı kişileri konuşturduk.,Anlaşılan yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Anlaşılıyor ki yemekte onun yakından tanıdığı kişileri konuşturduk.,Anlaşılıyor ki yemekte onu yakından tanıdığı kişileri konuşturduk.,onun,onu,tanıdığı kişileri,relative_clauses
+Her zamanda öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her zamanda öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her yerde öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her yerde öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her vakitte öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her vakitte öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her sahada öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her sahada öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her hedefte öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her hedefte öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her dede öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her dede öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her imada öğrencilerini içtenlikle öven profesör ayrılmayı düşünmüyordu.,Her imada öğrencilerinin içtenlikle öven profesör ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her fırsatta öğrencilerini içtenlikle öven doktor ayrılmayı düşünmüyordu.,Her fırsatta öğrencilerinin içtenlikle öven doktor ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her fırsatta öğrencilerini içtenlikle öven dekan ayrılmayı düşünmüyordu.,Her fırsatta öğrencilerinin içtenlikle öven dekan ayrılmayı düşünmüyordu.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her fırsatta öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her fırsatta öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her zamanda öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her zamanda öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her yerde öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her yerde öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her vakitte öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her vakitte öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her sahada öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her sahada öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her hedefte öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her hedefte öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her dede öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her dede öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her imada öğrencilerini içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,Her imada öğrencilerinin içtenlikle öven profesörü kulüp etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her fırsatta öğrencilerini içtenlikle öven profesörü tak etkinliğine davet ettiler.,Her fırsatta öğrencilerinin içtenlikle öven profesörü tak etkinliğine davet ettiler.,öğrencilerini,öğrencilerinin,öven,relative_clauses
+Her zamanda öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her zamanda öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her yerde öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her yerde öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her vakitte öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her vakitte öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her sahada öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her sahada öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her hedefte öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her hedefte öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her dede öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her dede öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her imada öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Her imada öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Belli ki her fırsatta öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Belli ki her fırsatta öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Anlaşılıyor ki her fırsatta öğrencilerinin içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,Anlaşılıyor ki her fırsatta öğrencilerini içtenlikle övdüğü profesör ayrılmayı düşünmüyordu.,öğrencilerinin,öğrencilerini,övdüğü profesör,relative_clauses
+Her fırsatta öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her fırsatta öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her zamanda öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her zamanda öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her yerde öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her yerde öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her vakitte öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her vakitte öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her sahada öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her sahada öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her hedefte öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her hedefte öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her dede öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her dede öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her imada öğrencilerinin içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,Her imada öğrencilerini içtenlikle övdüğü profesörü kulüp etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Her fırsatta öğrencilerinin içtenlikle övdüğü profesörü tak etkinliğine davet ettiler.,Her fırsatta öğrencilerini içtenlikle övdüğü profesörü tak etkinliğine davet ettiler.,öğrencilerinin,öğrencilerini,övdüğü profesörü,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sunucu gerginliğini korudu.,Program boyunca gazetecinin sorularla bunaltan sunucu gerginliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sunucu sinirliliğini korudu.,Program boyunca gazetecinin sorularla bunaltan sunucu sinirliliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin sorularla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi cevaplarla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin cevaplarla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi telefonlarla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin telefonlarla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi yorumlarla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin yorumlarla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi resimlerle bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin resimlerle bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi olaylarla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin olaylarla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sınavlarla bunaltan sunucu sakinliğini korudu.,Program boyunca gazetecinin sınavlarla bunaltan sunucu sakinliğini korudu.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sunucuyu herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan sunucuyu herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan telefonu herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan telefonu herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan sistemi herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan sistemi herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan serviyi herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan serviyi herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan bilgisayarı herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan bilgisayarı herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan cihazı herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan cihazı herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan makineyi herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan makineyi herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan serveri herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan serveri herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazeteciyi sorularla bunaltan yazılıyı herkes çok eleştirdi.,Program boyunca gazetecinin sorularla bunaltan yazılıyı herkes çok eleştirdi.,gazeteciyi,gazetecinin,bunaltan,relative_clauses
+Program boyunca gazetecinin sorularla bunalttığı sunucu gerginliğini korudu.,Program boyunca gazeteciyi sorularla bunalttığı sunucu gerginliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin sorularla bunalttığı sunucu sinirliliğini korudu.,Program boyunca gazeteciyi sorularla bunalttığı sunucu sinirliliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin sorularla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi sorularla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin cevaplarla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi cevaplarla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin telefonlarla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi telefonlarla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin yorumlarla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi yorumlarla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin resimlerle bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi resimlerle bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin olaylarla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi olaylarla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin sınavlarla bunalttığı sunucu sakinliğini korudu.,Program boyunca gazeteciyi sınavlarla bunalttığı sunucu sakinliğini korudu.,gazetecinin,gazeteciyi,bunalttığı sunucu,relative_clauses
+Program boyunca gazetecinin sorularla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi sorularla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin cevaplarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi cevaplarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin telefonlarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi telefonlarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin yorumlarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi yorumlarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin resimlerle bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi resimlerle bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin olaylarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi olaylarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin sınavlarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi sınavlarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin mesajlarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi mesajlarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
+Program boyunca gazetecinin sayılarla bunalttığı sunucuyu herkes çok eleştirdi.,Program boyunca gazeteciyi sayılarla bunalttığı sunucuyu herkes çok eleştirdi.,gazetecinin,gazeteciyi,bunalttığı sunucuyu,relative_clauses
