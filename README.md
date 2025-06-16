@@ -65,6 +65,8 @@ git clone https://github.com/yourusername/TurBLiMP.git
 
 2. For the augmentation module, [the zemberek-full.jar file](https://drive.google.com/file/d/1RRuFK43JqcHcthB3fV2IEpPftWoeoHAu/view?usp=drive_link) should also be downloaded to the project directory.
 
+The dataset is also available on [Hugging Face](https://huggingface.co/datasets/ezgibasar/turblimp)🤗
+
 ## :unlock: License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
