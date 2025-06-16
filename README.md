@@ -72,9 +72,9 @@ The dataset is also available on [Hugging Face](https://huggingface.co/datasets/
 
 The citation for the paper associated with this benchmark will be available shortly. If you use the benchmark, please credit the original authors.
 
-- **Title:** TurBLiMP: A Turkish Benchmark of Linguistic Minimal Pairs
-- **Authors:** Ezgi Başar, Francesca Padovani, Jaap Jumelet, Arianna Bisazza
-- **Affiliation:** Center for Language and Cognition (CLCG), University of Groningen
+| Title                                                     	| Authors                                                       	| Affiliation                                                       	|
+|-----------------------------------------------------------	|---------------------------------------------------------------	|-------------------------------------------------------------------	|
+| TurBLiMP: A Turkish Benchmark of Linguistic Minimal Pairs 	| Ezgi Başar, Francesca Padovani, Jaap Jumelet, Arianna Bisazza 	| Center for Language and Cognition (CLCG), University of Groningen 	|
 
 ## :unlock: License
 
