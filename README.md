@@ -7,6 +7,7 @@ TurBLiMP is the first Turkish benchmark of linguistic minimal pairs, designed to
 - [:mag_right: Experimental Paradigms](#experimental-paradigms)
 - [:raising_hand: Human Judgments](#human-judgments)
 - [:computer: Usage](#usage)
+- [:link: Attribution](#attribution)
 - [:unlock: License](#license)
 
 ## :file_folder: Linguistic Phenomena
@@ -66,6 +67,14 @@ git clone https://github.com/yourusername/TurBLiMP.git
 2. For the augmentation module, [the zemberek-full.jar file](https://drive.google.com/file/d/1RRuFK43JqcHcthB3fV2IEpPftWoeoHAu/view?usp=drive_link) should also be downloaded to the project directory.
 
 The dataset is also available on [Hugging Face](https://huggingface.co/datasets/ezgibasar/turblimp)🤗
+
+## :link: Attribution
+
+If you use our benchmark, please attribute it to the original authors:
+
+- Ezgi Başar, Francesca Padovani, Jaap Jumelet, Arianna Bisazza
+
+The citation for the associated paper will be provided soon.
 
 ## :unlock: License
 
