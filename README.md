@@ -3,12 +3,12 @@
 TurBLiMP is the first Turkish benchmark of linguistic minimal pairs, designed to evaluate the linguistic abilities of monolingual and multilingual language models (LMs). This benchmark covers 16 core grammatical phenomena in Turkish, with 1,000 minimal pairs per phenomenon. Additionally, it incorporates experimental paradigms that examine model performance across different subordination strategies and word order variations.
 
 ## Table of Contents
-- [:file_folder: Linguistic Phenomena](#linguistic-phenomena)
-- [:mag_right: Experimental Paradigms](#experimental-paradigms)
-- [:raising_hand: Human Judgments](#human-judgments)
-- [:computer: Usage](#usage)
-- [:link: Attribution](#attribution)
-- [:unlock: License](#license)
+- [:file_folder: Linguistic Phenomena](#file_folder-linguistic-phenomena)
+- [:mag_right: Experimental Paradigms](#mag_right-experimental-paradigms)
+- [:raising_hand: Human Judgments](#raising_hand-human-judgments)
+- [:computer: Usage](#computer-usage)
+- [:link: Attribution](#link-attribution)
+- [:unlock: License](#unlock-license)
 
 ## :file_folder: Linguistic Phenomena
 
