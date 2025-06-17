@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon,subtype
+Kız hediyeyi ablasına hiç beklemeden verdi.,Kız hediyeyi ablasından hiç beklemeden verdi.,ablasına,ablasından,verdi,argument_structure,ditransitive
+Barmen doğum günü diye kıza ilk birasını ısmarladı.,Barmen doğum günü diye kızı ilk birasını ısmarladı.,kıza,kızı,ısmarladı,argument_structure,ditransitive
+Küçük çocuk vitrindeki oyuncağı annesine gösterdi.,Küçük çocuk vitrindeki oyuncağı annesini gösterdi.,annesine,annesini,gösterdi,argument_structure,ditransitive
+Babam bugün markette ilkokul öğretmenime rastlamış.,Babam bugün marketi ilkokul öğretmenime rastlamış.,markette,marketi,rastlamış,argument_structure,ditransitive
+Annem tarçını kekin içine koyar.,Annem tarçını kekin içini koyar.,içine,içini,koyar,argument_structure,ditransitive
+Biz oğlanı dün gece apar topar hastaneye götürdük.,Biz oğlana dün gece apar topar hastaneye götürdük.,oğlanı,oğlana,götürdük,argument_structure,ditransitive
+Asistan dosyaları masasına getirdi.,Asistan dosyalarla masasına getirdi.,dosyaları,dosyalarla,getirdi,argument_structure,ditransitive
+Onlar çeyrek altını damadın yakasına taktılar.,Onlar çeyrek altını damadın yakasını taktılar.,yakasına,yakasını,taktılar,argument_structure,ditransitive
+Ben koca bir fincan kahveyi üzerime döktüm.,Ben koca bir fincan kahveyi üzerimde döktüm.,Üzerime,Üzerimde,döktüm,argument_structure,ditransitive
+Yanlış politikalar halkı yoksulluğa mahkum etti.,Yanlış politikalar halkla yoksulluğa mahkum etti.,halkı,halkla,mahkum etti,argument_structure,ditransitive
+Mahalledeki çocuklar yine topu dükkanın camına atıyor.,Mahalledeki çocuklar yine topu dükkanın camını atıyor.,camına,camını,atıyor,argument_structure,ditransitive
+Annem dün ekmeği ben aldığım için kardeşimi bakkala yolladı.,Annem dün ekmeği ben aldığım için kardeşimi bakkalda yolladı.,bakkala,bakkalda,yolladı,argument_structure,ditransitive
+Onlar zeytin ağacını evlerinin bahçesine dikmişler.,Onlar zeytin ağacını evlerinin bahçesinden dikmişler.,bahçesine,bahçesinden,dikmişler,argument_structure,ditransitive
+O belki sana bu konudaki fikirlerinden bahsetmiştir.,O belki seni bu konudaki fikirlerinden bahsetmiştir.,sana,seni,bahsetmiştir,argument_structure,ditransitive
+O kendini yıllardır sadece işine adamış.,O kendinden yıllardır sadece işine adamış.,kendini,kendinden,adamış,argument_structure,ditransitive
+Ben bu ödülü düzen bozan kadınlara ithaf ediyorum.,Ben bu ödüle düzen bozan kadınlara ithaf ediyorum.,ödülü,ödüle,ithaf ediyorum,argument_structure,ditransitive
+Ahmet ayakkabılarını çıkarıp paltosunu girişteki vestiyere astı.,Ahmet ayakkabılarını çıkarıp paltosuna girişteki vestiyere astı.,paltosunu,paltosuna,astı,argument_structure,ditransitive
+Ben ekmeğimi küçükken hep salatanın suyuna banardım.,Ben ekmeğimde küçükken hep salatanın suyuna banardım.,ekmeğimi,ekmeğimde,banardım,argument_structure,ditransitive
+Melike dileklerini yazdığı kağıdı bir ağacın dalına bağladı.,Melike dileklerini yazdığı kağıda bir ağacın dalına bağladı.,kağıdı,kağıda,bağladı,argument_structure,ditransitive
+Siz kılçıklarını temizlediğiniz mezgiti galeta ununa bulayın.,Siz kılçıklarını temizlediğiniz mezgite galeta ununa bulayın.,mezgiti,mezgite,bulayın,argument_structure,ditransitive
+Öğretmen yeni konuyu öğrencilere anlattı.,Öğretmen yeni konuyu öğrencileri anlattı.,öğrencilere,öğrencileri,anlattı,argument_structure,ditransitive
+Çocuk en sevdiği oyuncağı babasına verdi.,Çocuk en sevdiği oyuncağı babasını verdi.,babasına,babasını,verdi,argument_structure,ditransitive
+Arkadaşım doğum günüm için bana yeni albümlerini aldı.,Arkadaşım doğum günüm için beni yeni albümlerini aldı.,bana,beni,aldı,argument_structure,ditransitive
+Garson yemekleri müşterilere servis etti.,Garson yemekleri müşterileri servis etti.,müşterilere,müşterileri,servis etti,argument_structure,ditransitive
+Şirket yeni görevleri çalışanlarına bildirdi.,Şirket yeni görevleri çalışanlarını bildirdi.,çalışanlarına,çalışanlarını,bildirdi,argument_structure,ditransitive
+Yönetmen rolleri oyunculara dağıttı.,Yönetmen rolleri oyuncuları dağıttı.,oyunculara,oyuncuları,dağıttı,argument_structure,ditransitive
+Anne sütü bebeğine biberonla verdi.,Anne sütü bebeğini biberonla verdi.,bebeğine,bebeğini,verdi,argument_structure,ditransitive
+Dedem masallarını torunlarına anlattı.,Dedem masallarını torunlarını anlattı.,torunlarına,torunlarını,anlattı,argument_structure,ditransitive
+Yazar yeni kitabını okurlarına tanıttı.,Yazar yeni kitabını okurlarını tanıttı.,okurlarına,okurlarını,tanıttı,argument_structure,ditransitive
+Antrenör yeni taktikleri sporculara öğretti.,Antrenör yeni taktikleri sporcuları öğretti.,sporculara,sporcuları,öğretti,argument_structure,ditransitive
+Çocuk yeni şarkıyı annesine söyledi.,Çocuk yeni şarkıyı annesini söyledi.,annesine,annesini,söyledi,argument_structure,ditransitive
+Arkadaşım havadisleri bana verdi.,Arkadaşım havadisleri beni verdi.,bana,beni,verdi,argument_structure,ditransitive
+Yönetmen talimatlarını oyunculara verdi.,Yönetmen talimatlarını oyuncuları verdi.,oyunculara,oyuncuları,verdi,argument_structure,ditransitive
+Hoca antrenman programını sporculara anlattı.,Hoca antrenman programını sporculara anlattı.,sporculara,sporcuları,anlattı,argument_structure,ditransitive
+Annem kardeşime yeni kitabı aldı.,Annem kardeşimi yeni kitabı aldı.,kardeşime,kardeşimi,aldı,argument_structure,ditransitive
+Arkadaşım vitrinde beğendiğim fuları bana aldı.,Arkadaşım vitrinde beğendiğim fuları beni aldı.,bana,beni,aldı,argument_structure,ditransitive
+Kız kardeşim kediyi veterinere götürdü.,Kız kardeşim kediye veterinere götürdü.,kediyi,kediye,götürdü,argument_structure,ditransitive
+Babam yeni telefonunu bana verdi.,Babam yeni telefonuna bana verdi.,telefonunu,telefonuna,verdi,argument_structure,ditransitive
+Dedem eski hikayeleri bana anlattı.,Dedem eski hikayeleri beni anlattı.,bana,beni,anlattı,argument_structure,ditransitive
+Halam el örgüsü kazağı bana hediye etti.,Halam el örgüsü kazağı beni hediye etti.,bana,beni,hediye etti,argument_structure,ditransitive
+Teyzem oyuncakları çocuklara dağıttı.,Teyzem oyuncaklara çocuklara dağıttı.,oyuncakları,oyuncaklara,dağıttı,argument_structure,ditransitive
+Arkadaşım yeni filmi bana önerdi.,Arkadaşım yeni filmi benle önerdi.,bana,benle,önerdi,argument_structure,ditransitive
+Kuzenim köpeği parka götürdü.,Kuzenim köpeğe parka götürdü.,köpeği,köpeğe,götürdü,argument_structure,ditransitive
+Komşumuz topladığı taze meyveleri bize getirdi.,Komşumuz topladığı taze meyveleri bizi getirdi.,bize,bizi,getirdi,argument_structure,ditransitive
+Öğretmen öğrencilere bol bol kitap okumalarını tavsiye etti.,Öğretmen öğrencileri bol bol kitap okumalarını tavsiye etti.,öğrencilere,öğrencileri,tavsiye etti,argument_structure,ditransitive
+Gelin altın bileziği görümcesine hediye etti.,Gelin altın bilezikle görümcesine hediye etti.,bileziği,bilezikle,hediye etti,argument_structure,ditransitive
+Oğlum topu arkadaşına ödünç verdi.,Oğlum topla arkadaşına ödünç verdi.,topu,topla,ödünç verdi,argument_structure,ditransitive
+Manav en taze meyveleri bize ayırdı.,Manav en taze meyveleri bizi ayırdı.,bize,bizi,ayırdı,argument_structure,ditransitive
+Kasap en güzel etleri bana ayırdı.,Kasap en güzel etleri beni ayırdı.,bana,beni,ayırdı,argument_structure,ditransitive
+Arkadaşım yeni bir şarkıyı bana önerdi.,Arkadaşım yeni bir şarkıyı beni önerdi.,bana,beni,önerdi,argument_structure,ditransitive
+Kız arkadaşına çikolatayı hiç düşünmeden verdi.,Kız arkadaşından çikolatayı hiç düşünmeden verdi.,arkadaşına,arkadaşından,verdi,argument_structure,ditransitive
+Amcam gitarını bana ödünç verdi.,Amcam gitarına bana ödünç verdi.,gitarını,gitarına,ödünç verdi,argument_structure,ditransitive
+Küçük çocuk mağazadaki oyuncağı teyzesine gösterdi.,Küçük çocuk mağazadaki oyuncağı teyzesini gösterdi.,teyzesine,teyzesini,gösterdi,argument_structure,ditransitive
+Babam parkta lise öğretmenine rastlamış.,Babam parkı lise öğretmenine rastlamış.,parkta,parkı,rastlamış,argument_structure,ditransitive
+Annem çikolatayı pastanın üstüne koyar.,Annem çikolatayı pastanın üstünü koyar.,üstüne,üstünü,koyar,argument_structure,ditransitive
+Biz kızı dün gece apar topar kliniğe götürdük.,Biz kıza dün gece apar topar kliniğe götürdük.,kızı,kıza,götürdük,argument_structure,ditransitive
+Asistan belgeleri masasına getirdi.,Asistan belgelerle masasına getirdi.,belgeleri,belgelerle,getirdi,argument_structure,ditransitive
+Onlar burma bileziği geline taktılar.,Onlar burma bileziği gelini taktılar.,geline,gelini,taktılar,argument_structure,ditransitive
+Ben koca bir bardak çayı üzerime döktüm.,Ben koca bir bardak çayı üzerimde döktüm.,üzerime,üzerimde,döktüm,argument_structure,ditransitive
+Yanlış kararlar halkı adaletsizliğe mahkum etti.,Yanlış kararlar halkla adaletsizliğe mahkum etti.,halkı,halkla,mahkum etti,argument_structure,ditransitive
+Mahalledeki çocuklar yine taşı evin camına attı.,Mahalledeki çocuklar yine taşı evin camını attı.,camına,camını,attı,argument_structure,ditransitive
+Annem dün sütü ben aldığım için kardeşimi markete yolladı.,Annem dün sütü ben aldığım için kardeşimi markette yolladı.,markete,markette,yolladı,argument_structure,ditransitive
+Onlar elma ağacını evlerinin arka bahçesine dikmişler.,Onlar elma ağacını evlerinin arka bahçesinden dikmişler.,arka bahçesine,arka bahçesinden,dikmişler,argument_structure,ditransitive
+O size bu konudaki düşüncelerinden bahsetmiştir.,O sizi bu konudaki düşüncelerinden bahsetmiştir.,size,sizi,bahsetmiştir,argument_structure,ditransitive
+O kendini yıllardır sadece sanatına adamış.,O kendinden yıllardır sadece sanatına adamış.,kendini,kendinden,adamış,argument_structure,ditransitive
+Ben bu sergiyi neşesini kaybetmeyen kadınlara ithaf ediyorum.,Ben bu sergiye neşesini kaybetmeyen kadınlara ithaf ediyorum.,sergiyi,sergiye,ithaf ediyorum,argument_structure,ditransitive
+Uğur şapkasını girişteki dolaba astı.,Uğur şapkasına girişteki dolaba astı.,şapkasını,şapkasına,astı,argument_structure,ditransitive
+Ben küçükken ekmeğimi çorbaya banardım.,Ben küçükken ekmeğimde çorbaya banardım.,ekmeğimi,ekmeğimde,banardım,argument_structure,ditransitive
+Selen dileklerini yazdığı kartı bir ağacın dalına bağladı.,Selen dileklerini yazdığı karta bir ağacın dalına bağladı.,kartı,karta,bağladı,argument_structure,ditransitive
+Siz kılçıklarını temizlediğiniz balığı pane ununa bulayın.,Siz kılçıklarını temizlediğiniz balığa pane ununa bulayın.,balığı,balığa,bulayın,argument_structure,ditransitive
+Öğretmen yeni şarkıyı öğrencilere öğretti.,Öğretmen yeni şarkıyı öğrencileri öğretti.,öğrencilere,öğrencileri,öğretti,argument_structure,ditransitive
+Çocuk en sevdiği kitabı dedesine verdi.,Çocuk en sevdiği kitabı dedesini verdi.,dedesine,dedesini,verdi,argument_structure,ditransitive
+Arkadaşım yılbaşı hediyesini bana verdi.,Arkadaşım yılbaşı hediyesini beni verdi.,bana,beni,verdi,argument_structure,ditransitive
+Garson tatlıları misafirlerimize servis etti.,Garson tatlıları misafirlerimizi servis etti.,misafirlerimize,misafirlerimizi,servis etti,argument_structure,ditransitive
+Şirket yeni projeleri personeline dağıttı.,Şirket yeni projeleri personelini dağıttı.,personeline,personelini,dağıttı,argument_structure,ditransitive
+Yönetmen rolleri sanatçılara dağıttı.,Yönetmen rolleri sanatçıları dağıttı.,sanatçılara,sanatçıları,dağıttı,argument_structure,ditransitive
+Anne bebeğe mamasını yedirdi.,Anne bebeği mamasını yedirdi.,bebeğe,bebeği,yedirdi,argument_structure,ditransitive
+Dedem bildiği fıkraları torunlarına anlattı.,Dedem bildiği fıkraları torunlarını anlattı.,torunlarına,torunlarını,anlattı,argument_structure,ditransitive
+Şair yeni şiir kitabını dinleyicilerine tanıttı.,Şair yeni şiir kitabını dinleyicilerini tanıttı.,dinleyicilerine,dinleyicilerini,tanıttı,argument_structure,ditransitive
+Antrenör kendi stratejilerini takıma öğretti.,Antrenör kendi stratejilerini takımı öğretti.,takıma,takımı,öğretti,argument_structure,ditransitive
+Çocuk okulda öğrendiği şiiri babasına okudu.,Çocuk okulda öğrendiği şiiri babasını okudu.,babasına,babasını,okudu,argument_structure,ditransitive
+Arkadaşım son gelişmeleri bana anlattı.,Arkadaşım son gelişmeleri beni anlattı.,bana,beni,anlattı,argument_structure,ditransitive
+Yönetmen son direktifleri ekibine verdi.,Yönetmen son direktifleri ekibini verdi.,ekibine,ekibini,verdi,argument_structure,ditransitive
+Antrenör beslenme planını atletlere anlattı.,Antrenör beslenme planını atletleri anlattı.,atletlere,atletleri,anlattı,argument_structure,ditransitive
+Annem gardırobu abime almış.,Annem gardırobu abimi almış.,abime,abimi,almış,argument_structure,ditransitive
+Arkadaşım istediğim konser biletini bana aldı.,Arkadaşım istediğim konser biletini beni aldı.,bana,beni,aldı,argument_structure,ditransitive
+Kız kardeşim kediyi komşuya götürdü.,Kız kardeşim kediye komşuya götürdü.,kediyi,kediye,götürdü,argument_structure,ditransitive
+Babam yeni saatini bana verdi.,Babam yeni saatine bana verdi.,saatini,saatine,verdi,argument_structure,ditransitive
+Dedem devrimci anılarını bana anlattı.,Dedem devrimci anılarını beni anlattı.,bana,beni,anlattı,argument_structure,ditransitive
+Halam eldiveni bana hediye etti.,Halam eldiveni beni hediye etti.,bana,beni,hediye etti,argument_structure,ditransitive
+Teyzem kitapları çocuklara dağıttı.,Teyzem kitaplara çocuklara dağıttı.,kitapları,kitaplara,dağıttı,argument_structure,ditransitive
+Arkadaşım diziyi bana önerdi.,Arkadaşım diziyi benle önerdi.,bana,benle,önerdi,argument_structure,ditransitive
+Kuzenim kediyi bahçeye götürdü.,Kuzenim kediye bahçeye götürdü.,kediyi,kediye,götürdü,argument_structure,ditransitive
+Komşumuz taze sebzeleri bize getirdi.,Komşumuz taze sebzeleri bizi getirdi.,bize,bizi,getirdi,argument_structure,ditransitive
+Öğretmen ödevleri zamanında yapmalarını öğrencilere nasihat etti.,Öğretmen ödevleri zamanında yapmalarını öğrencileri nasihat etti.,öğrencilere,öğrencileri,nasihat etti,argument_structure,ditransitive
+Gelin gerdanlığı kayınvalidesine hediye etti.,Gelin gerdanlığa kayınvalidesine hediye etti.,gerdanlığı,gerdanlığa,hediye etti,argument_structure,ditransitive
+Oğlum bisikleti arkadaşına ödünç verdi.,Oğlum bisikletle arkadaşına ödünç verdi.,bisikleti,bisikletle,ödünç verdi,argument_structure,ditransitive
+Manav en lezzetli meyveleri bize ayırdı.,Manav en lezzetli meyveleri bizi ayırdı.,bize,bizi,ayırdı,argument_structure,ditransitive
+Kasap en iyi bifteği bana ayırdı.,Kasap en iyi bifteği beni ayırdı.,bana,beni,ayırdı,argument_structure,ditransitive
+Arkadaşım yeni kitabını bana önerdi.,Arkadaşım yeni kitabına bana önerdi.,kitabını,kitabına,önerdi,argument_structure,ditransitive

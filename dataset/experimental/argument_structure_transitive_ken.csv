@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon,subtype
+Eda hediyesine resmen bayılırken gitti.,Eda hediyesini resmen bayılırken gitti.,hediyesine,hediyesini,bayılırken,argument_structure,transitive
+İnternette her okuduğun şeye körü körüne inanırken gitti.,İnternette her okuduğun şeyi körü körüne inanırken gitti.,şeye,şeyi,inanırken,argument_structure,transitive
+Eşimin zevkine çok güvenirken gitti.,Eşimin zevkini çok güvenirken gitti.,zevkine,zevkini,güvenirken,argument_structure,transitive
+Ben artık sana sadece acırken gitti.,Ben artık seni sadece acırken gitti.,sana,seni,acırken,argument_structure,transitive
+Hemşire hanım yaşlı hastayla özel olurken ilgilenirken gitti.,Hemşire hanım yaşlı hastayı özel olurken ilgilenirken gitti.,hastayla,hastayı,ilgilenirken,argument_structure,transitive
+Bizim ufaklık sıra arkadaşından baya hoşlanırken gitti.,Bizim ufaklık sıra arkadaşını baya hoşlanırken gitti.,arkadaşından,arkadaşını,hoşlanırken,argument_structure,transitive
+Muhalefet partisi erken seçimde hala ısrar ederken gitti.,Muhalefet partisi erken seçimi hala ısrar ederken gitti.,seçimde,seçimi,ısrar ederken,argument_structure,transitive
+Saygısız çalışan yaşlı kadınla resmen alay ederken gitti.,Saygısız çalışan yaşlı kadına resmen alay ederken gitti.,kadınla,kadına,alay ederken,argument_structure,transitive
+Senin bu hallerinden bıkarken gitti.,Senin bu hallerine bıkarken gitti.,hallerinden,hallerine,bıkarken,argument_structure,transitive
+Balayı için Urla'da karar kılarken gitti.,Balayı için Urla'ya karar kılarken gitti.,Urla'da,Urla'ya,karar kılarken,argument_structure,transitive
+Bu konuya çok kafa yorarken gitti.,Bu konuyu çok kafa yorarken gitti.,konuya,konuyu,yorarken,argument_structure,transitive
+Bütün gün seni düşünürken gitti.,Bütün gün senden düşünürken gitti.,seni,senden,düşünürken,argument_structure,transitive
+Bu şarkıya bayılırken gitti.,Bu şarkıyı bayılırken gitti.,şarkıya,şarkıyı,bayılırken,argument_structure,transitive
+Arkadaşımın doğum gününü unuturken gitti.,Arkadaşımın doğum gününe unuturken gitti.,doğum gününü,doğum gününe,unuturken,argument_structure,transitive
+Yarın size de gelerek gitti.,Yarın sizi de gelerek gitti.,size,sizi,gelerek,argument_structure,transitive
+Bu habere çok sevinirken gitti.,Bu haberi çok sevinirken gitti.,habere,haberi,sevinirken,argument_structure,transitive
+Kedim balkondan düşerken gitti.,Kedim balkonu düşerken gitti.,balkondan,balkonu,düşerken,argument_structure,transitive
+Annem her zaman bana destek olurken gitti.,Annem her zaman beni destek olurken gitti.,bana,beni,destek olurken,argument_structure,transitive
+Öğretmenimiz bize çok kızarken gitti.,Öğretmenimiz bizi çok kızarken gitti.,bize,bizi,kızarken,argument_structure,transitive
+Bu filme bayılırken gitti.,Bu filmi bayılırken gitti.,filme,filmi,bayılırken,argument_structure,transitive
+Bu şehri çok severken gitti.,Bu şehre çok severken gitti.,şehri,şehre,severken,argument_structure,transitive
+Bu gözlüğü çok beğenirken gitti.,Bu gözlüğe çok beğenirken gitti.,gözlüğü,gözlüğe,beğenirken,argument_structure,transitive
+Yeni bir hobiye başlarken gitti.,Yeni bir hobiyi başlarken gitti.,hobiye,hobiyi,başlarken,argument_structure,transitive
+Bu öneriye sıcak bakarken gitti.,Bu öneriyi sıcak bakarken gitti.,öneriye,öneriyi,bakarken,argument_structure,transitive
+Komşularımla iyi geçinirken gitti.,Komşularımı iyi geçinirken gitti.,komşularımla,komşularımı,geçinirken,argument_structure,transitive
+Bu kitap serisine bayılırken gitti.,Bu kitap serisini bayılırken gitti.,serisine,serisini,bayılırken,argument_structure,transitive
+Onun doğruyu söylediğine inanırken gitti.,Onun doğruyu söylediğini inanırken gitti.,söylediğine,söylediğini,inanırken,argument_structure,transitive
+Tatile çıkma fikrine çok ısınırken gitti.,Tatile çıkma fikrini çok ısınırken gitti.,fikrine,fikrini,ısınırken,argument_structure,transitive
+Bu duruma çok üzülürken gitti.,Bu durumu çok üzülürken gitti.,duruma,durumu,üzülürken,argument_structure,transitive
+Yeni projeye başlamaya karar verirken gitti.,Yeni projeye başlamayı karar verirken gitti.,başlamaya,başlamayı,karar verirken,argument_structure,transitive
+Onun tepkisine çok şaşırıp gitti.,Onun tepkisini çok şaşırıp gitti.,tepkisine,tepkisini,şaşırıp,argument_structure,transitive
+Bu tabloya hayran kalırken gitti.,Bu tabloyu hayran kalırken gitti.,tabloya,tabloyu,kalırken,argument_structure,transitive
+Ona büyük saygı duyarken gitti.,Onu büyük saygı duyarken gitti.,ona,onu,duyarken,argument_structure,transitive
+Yeni bir işe girerken gitti.,Yeni bir işi girerken gitti.,işe,işi,girerken,argument_structure,transitive
+Ona koşulsuz destek olurken gitti.,Onu koşulsuz destek olurken gitti.,ona,onu,olurken,argument_structure,transitive
+Bu projeye çok önem verirken gitti.,Bu projeyi çok önem verirken gitti.,projeye,projeyi,verirken,argument_structure,transitive
+Son duruma çok şaşırıp gitti.,Son durumu çok şaşırıp gitti.,duruma,durumu,şaşırıp,argument_structure,transitive
+Sana her zaman güvenirken gitti.,Seni her zaman güvenirken gitti.,sana,seni,güvenirken,argument_structure,transitive
+Bu sınava günlerce çalışırken gitti.,Bu sınavı günlerce çalışırken gitti.,sınava,sınavı,çalışırken,argument_structure,transitive
+Onun söylediklerine katılırken gitti.,Onun söylediklerini katılırken gitti.,söylediklerine,söylediklerini,katılırken,argument_structure,transitive
+Şu değişikliklere oldum olası alışamazken gitti.,Şu değişiklikleri oldum olası alışamazken gitti.,değişikliklere,değişiklikleri,alışamazken,argument_structure,transitive
+Annemin sözlerine kulak verirken gitti.,Annemin sözlerini kulak verirken gitti.,sözlerine,sözlerini,verirken,argument_structure,transitive
+Konferansa katılmaya karar verirken gitti.,Konferansı katılmayı karar verirken gitti.,katılmaya,katılmayı,karar verirken,argument_structure,transitive
+Oyunlara fazla kapılmazken gitti.,Oyunları fazla kapılmazken gitti.,oyunlara,oyunları,kapılmazken,argument_structure,transitive
+Dün yaptıklarından sonra sana çok kırılırken gitti.,Dün yaptıklarından sonra seni çok kırılırken gitti.,sana,seni,kırılırken,argument_structure,transitive
+Etkinliğe katılmayı düşünürken gitti.,Etkinliğe katılmaya düşünürken gitti.,katılmayı,katılmaya,düşünürken,argument_structure,transitive
+Gözden kaçan hataya çok üzülürken gitti.,Gözden kaçan hatayı çok üzülürken gitti.,hataya,hatayı,üzülürken,argument_structure,transitive
+Tartışmaya girmeyi sevmezken gitti.,Tartışmaya girmeye sevmezken gitti.,girmeyi,girmeye,sevmezken,argument_structure,transitive
+Seni buralarda görmeye son zamanlarda iyice alışırken gitti.,Seni buralarda görmeyi son zamanlarda iyice alışırken gitti.,görmeye,görmeyi,alışırken,argument_structure,transitive
+Zorlu bir süreçten sonra elde ettiğin bu başarıya sevinirken gitti.,Zorlu bir süreçten sonra elde ettiğin bu başarıyı sevinirken gitti.,başarıya,başarıyı,sevinirken,argument_structure,transitive
+Eda yeni elbisesine resmen hayran kalırken gitti.,Eda yeni elbisesini resmen hayran kalırken gitti.,elbisesine,elbisesini,kalırken,argument_structure,transitive
+İnternette her gördüğün habere körü körüne inanırken gitti.,İnternette her gördüğün haberi körü körüne inanırken gitti.,habere,haberi,inanırken,argument_structure,transitive
+Eşimin kararlarına çok güvenirken gitti.,Eşimin kararlarını çok güvenirken gitti.,kararlarına,kararlarını,güvenirken,argument_structure,transitive
+Ben artık ona sadece gülerek gitti.,Ben artık onu sadece gülerek gitti.,ona,onu,gülerek,argument_structure,transitive
+Doktor bey yaşlı hastayla özel olurken ilgilenirken gitti.,Doktor bey yaşlı hastayı özel olurken ilgilenirken gitti.,hastayla,hastayı,ilgilenirken,argument_structure,transitive
+Bizim kuşumuz komşunun kedisinden baya korkarak gitti.,Bizim kuşumuz komşunun kedisini baya korkarak gitti.,kedisinden,kedisini,korkarak,argument_structure,transitive
+Hükümet partisi yeni yasada hala ısrar ederken gitti.,Hükümet partisi yeni yasayı hala ısrar ederken gitti.,yasada,yasayı,ısrar ederken,argument_structure,transitive
+Kaba müşteri genç garsonla resmen dalga geçerek gitti.,Kaba müşteri genç garsona resmen dalga geçerek gitti.,garsonla,garsona,geçerek,argument_structure,transitive
+Senin bu tavırlarından bıkarken gitti.,Senin bu tavırlarına bıkarken gitti.,tavırlarından,tavırlarına,bıkarken,argument_structure,transitive
+Tatil için Bodrum'da karar kılarken gitti.,Tatil için Bodrum'a karar kılarken gitti.,Bodrum'da,Bodrum'a,karar kılarken,argument_structure,transitive
+Bu soruna çok kafa yorarken gitti.,Bu sorunu çok kafa yorarken gitti.,soruna,sorunu,yorarken,argument_structure,transitive
+Bütün gece onu düşünürken gitti.,Bütün gece ondan düşünürken gitti.,onu,ondan,düşünürken,argument_structure,transitive
+Bu türküye bayılırken gitti.,Bu türküyü bayılırken gitti.,türküye,türküyü,bayılırken,argument_structure,transitive
+Kardeşimin mezuniyetini unuturken gitti.,Kardeşimin mezuniyetine unuturken gitti.,mezuniyetini,mezuniyetine,unuturken,argument_structure,transitive
+Yarın onlara da uğrarken gitti.,Yarın onları da uğrarken gitti.,onlara,onları,uğrarken,argument_structure,transitive
+Bu müjdeye çok sevinirken gitti.,Bu müjdeyi çok sevinirken gitti.,müjdeye,müjdeyi,sevinirken,argument_structure,transitive
+Köpeğim merdivenlerden düşerken gitti.,Köpeğim merdivenleri düşerken gitti.,merdivenlerden,merdivenleri,düşerken,argument_structure,transitive
+Babam her zaman bana destek olurken gitti.,Babam her zaman beni destek olurken gitti.,bana,beni,destek olurken,argument_structure,transitive
+Müdürümüz bize çok kızarken gitti.,Müdürümüz bizi çok kızarken gitti.,bize,bizi,kızarken,argument_structure,transitive
+Bu diziye bayılırken gitti.,Bu diziyi bayılırken gitti.,diziye,diziyi,bayılırken,argument_structure,transitive
+Bu kasabayı çok severken gitti.,Bu kasabaya çok severken gitti.,kasabayı,kasabaya,severken,argument_structure,transitive
+Bu saati çok beğenirken gitti.,Bu saate çok beğenirken gitti.,saati,saate,beğenirken,argument_structure,transitive
+Yeni bir spora başlarken gitti.,Yeni bir sporu başlarken gitti.,spora,sporu,başlarken,argument_structure,transitive
+Bu fikre sıcak bakarken gitti.,Bu fikri sıcak bakarken gitti.,fikre,fikri,bakarken,argument_structure,transitive
+Akrabalarımla iyi geçinirken gitti.,Akrabalarımı iyi geçinirken gitti.,akrabalarımla,akrabalarımı,geçinirken,argument_structure,transitive
+Bu film serisine bayılırken gitti.,Bu film serisini bayılırken gitti.,serisine,serisini,bayılırken,argument_structure,transitive
+Onun doğruyu söylediğine inanırken gitti.,Onun doğruyu söylediğini inanırken gitti.,söylediğine,söylediğini,inanırken,argument_structure,transitive
+Tatile çıkma planına çok ısınırken gitti.,Tatile çıkma planını çok ısınırken gitti.,planına,planını,ısınırken,argument_structure,transitive
+Bu olaya çok üzülürken gitti.,Bu olayı çok üzülürken gitti.,olaya,olayı,üzülürken,argument_structure,transitive
+Yeni projeye başlamaya karar verirken gitti.,Yeni projeye başlamayı karar verirken gitti.,başlamaya,başlamayı,karar verirken,argument_structure,transitive
+Onun cevabına çok şaşırırken gitti.,Onun cevabını çok şaşırırken gitti.,cevabına,cevabını,şaşırırken,argument_structure,transitive
+Bu heykellere hayran kalırken gitti.,Bu heykelleri hayran kalırken gitti.,heykellere,heykelleri,kalırken,argument_structure,transitive
+Ona büyük saygı duyarken gitti.,Onu büyük saygı duyarken gitti.,ona,onu,duyarken,argument_structure,transitive
+Yeni bir kursa girerken gitti.,Yeni bir kursu girerken gitti.,kursa,kursu,girerken,argument_structure,transitive
+Ona koşulsuz destek olurken gitti.,Onu koşulsuz destek olurken gitti.,ona,onu,olurken,argument_structure,transitive
+Bu fikre çok önem verirken gitti.,Bu fikri çok önem verirken gitti.,fikre,fikri,verirken,argument_structure,transitive
+Son gelişmeye çok şaşırırken gitti.,Son gelişmeyi çok şaşırırken gitti.,gelişmeye,gelişmeyi,şaşırırken,argument_structure,transitive
+Sana her zaman güvenirken gitti.,Seni her zaman güvenirken gitti.,sana,seni,güvenirken,argument_structure,transitive
+Bu yarışmaya günlerce çalışırken gitti.,Bu yarışmayı günlerce çalışırken gitti.,yarışmaya,yarışmayı,çalışırken,argument_structure,transitive
+Onun söylediklerine katılırken gitti.,Onun söylediklerini katılırken gitti.,söylediklerine,söylediklerini,katılırken,argument_structure,transitive
+Şu yeniliklere oldum olası alışamazken gitti.,Şu yenilikleri oldum olası alışamazken gitti.,yeniliklere,yenilikleri,alışamazken,argument_structure,transitive
+Babamın öğütlerine kulak verirken gitti.,Babamın öğütlerini kulak verirken gitti.,öğütlerine,öğütlerini,verirken,argument_structure,transitive
+Seminere katılmaya karar verirken gitti.,Semineri katılmayı karar verirken gitti.,katılmaya,katılmayı,karar verirken,argument_structure,transitive
+Kumara fazla kapılmazken gitti.,Kumarı fazla kapılmazken gitti.,kumara,kumarı,kapılmazken,argument_structure,transitive
+Dün söylediklerinden sonra sana çok kırılırken gitti.,Dün söylediklerinden sonra seni çok kırılırken gitti.,sana,seni,kırılırken,argument_structure,transitive
+Konsere katılmayı düşünürken gitti.,Konsere katılmaya düşünürken gitti.,katılmayı,katılmaya,düşünürken,argument_structure,transitive
+Gözden kaçan detaya çok üzülürken gitti.,Gözden kaçan detayı çok üzülürken gitti.,detaya,detayı,üzülürken,argument_structure,transitive
+Tartışmaya girmeyi sevmezken gitti.,Tartışmaya girmeye sevmezken gitti.,girmeyi,girmeye,sevmezken,argument_structure,transitive
+Seni burada görmeye son zamanlarda iyice alışırken gitti.,Seni burada görmeyi son zamanlarda iyice alışırken gitti.,görmeye,görmeyi,alışırken,argument_structure,transitive
+Zorlu bir maratondan sonra elde ettiğin bu zafere sevinirken gitti.,Zorlu bir maratondan sonra elde ettiğin bu zaferi sevinirken gitti.,zafere,zaferi,sevinirken,argument_structure,transitive

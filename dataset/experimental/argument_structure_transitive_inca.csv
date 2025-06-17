@@ -1,0 +1,101 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon,subtype
+Eda hediyesine resmen bayılınca gitti.,Eda hediyesini resmen bayılınca gitti.,hediyesine,hediyesini,bayılınca,argument_structure,transitive
+İnternette her okuduğun şeye körü körüne inanmayınca gitti.,İnternette her okuduğun şeyi körü körüne inanmayınca gitti.,şeye,şeyi,inanmayınca,argument_structure,transitive
+Eşimin zevkine çok güvenince gitti.,Eşimin zevkini çok güvenince gitti.,zevkine,zevkini,güvenince,argument_structure,transitive
+Ben artık sana sadece acıyınca gitti.,Ben artık seni sadece acıyınca gitti.,sana,seni,acıyınca,argument_structure,transitive
+Hemşire hanım yaşlı hastayla özel olarak ilgilenince gitti.,Hemşire hanım yaşlı hastayı özel olarak ilgilenince gitti.,hastayla,hastayı,ilgilenince,argument_structure,transitive
+Bizim ufaklık sıra arkadaşından baya hoşlanınca gitti.,Bizim ufaklık sıra arkadaşını baya hoşlanınca gitti.,arkadaşından,arkadaşını,hoşlanınca,argument_structure,transitive
+Muhalefet partisi erken seçimde hala ısrar edince gitti.,Muhalefet partisi erken seçimi hala ısrar edince gitti.,seçimde,seçimi,ısrar edince,argument_structure,transitive
+Saygısız çalışan yaşlı kadınla resmen alay edince gitti.,Saygısız çalışan yaşlı kadına resmen alay edince gitti.,kadınla,kadına,alay edince,argument_structure,transitive
+Senin bu hallerinden bıkınca gitti.,Senin bu hallerine bıkınca gitti.,hallerinden,hallerine,bıkınca,argument_structure,transitive
+Balayı için Urla'da karar kılınca gitti.,Balayı için Urla'ya karar kılınca gitti.,Urla'da,Urla'ya,karar kılınca,argument_structure,transitive
+Bu konuya çok kafa yorunca gitti.,Bu konuyu çok kafa yorunca gitti.,konuya,konuyu,yorunca,argument_structure,transitive
+Bütün gün seni düşününce gitti.,Bütün gün senden düşününce gitti.,seni,senden,düşününce,argument_structure,transitive
+Bu şarkıya bayılınca gitti.,Bu şarkıyı bayılınca gitti.,şarkıya,şarkıyı,bayılınca,argument_structure,transitive
+Arkadaşımın doğum gününü unutunca gitti.,Arkadaşımın doğum gününe unutunca gitti.,doğum gününü,doğum gününe,unutunca,argument_structure,transitive
+Yarın size de gelince gitti.,Yarın sizi de gelince gitti.,size,sizi,gelince,argument_structure,transitive
+Bu habere çok sevinince gitti.,Bu haberi çok sevinince gitti.,habere,haberi,sevinince,argument_structure,transitive
+Kedim balkondan düşünce gitti.,Kedim balkonu düşünce gitti.,balkondan,balkonu,düşünce,argument_structure,transitive
+Annem her zaman bana destek olunca gitti.,Annem her zaman beni destek olunca gitti.,bana,beni,destek olunca,argument_structure,transitive
+Öğretmenimiz bize çok kızınca gitti.,Öğretmenimiz bizi çok kızınca gitti.,bize,bizi,kızınca,argument_structure,transitive
+Bu filme bayılınca gitti.,Bu filmi bayılınca gitti.,filme,filmi,bayılınca,argument_structure,transitive
+Bu şehri çok sevince gitti.,Bu şehre çok sevince gitti.,şehri,şehre,sevince,argument_structure,transitive
+Bu gözlüğü çok beğenince gitti.,Bu gözlüğe çok beğenince gitti.,gözlüğü,gözlüğe,beğenince,argument_structure,transitive
+Yeni bir hobiye başlayınca gitti.,Yeni bir hobiyi başlayınca gitti.,hobiye,hobiyi,başlayınca,argument_structure,transitive
+Bu öneriye sıcak bakınca gitti.,Bu öneriyi sıcak bakınca gitti.,öneriye,öneriyi,bakınca,argument_structure,transitive
+Komşularımla iyi geçinince gitti.,Komşularımı iyi geçinince gitti.,komşularımla,komşularımı,geçinince,argument_structure,transitive
+Bu kitap serisine bayılınca gitti.,Bu kitap serisini bayılınca gitti.,serisine,serisini,bayılınca,argument_structure,transitive
+Onun doğruyu söylediğine inanınca gitti.,Onun doğruyu söylediğini inanınca gitti.,söylediğine,söylediğini,inanınca,argument_structure,transitive
+Tatile çıkma fikrine çok ısınınca gitti.,Tatile çıkma fikrini çok ısınınca gitti.,fikrine,fikrini,ısınınca,argument_structure,transitive
+Bu duruma çok üzülünce gitti.,Bu durumu çok üzülünce gitti.,duruma,durumu,üzülünce,argument_structure,transitive
+Yeni projeye başlamaya karar verince gitti.,Yeni projeye başlamayı karar verince gitti.,başlamaya,başlamayı,karar verince,argument_structure,transitive
+Onun tepkisine çok şaşırınca gitti.,Onun tepkisini çok şaşırınca gitti.,tepkisine,tepkisini,şaşırınca,argument_structure,transitive
+Bu tabloya hayran kalınca gitti.,Bu tabloyu hayran kalınca gitti.,tabloya,tabloyu,kalınca,argument_structure,transitive
+Ona büyük saygı duyunca gitti.,Onu büyük saygı duyunca gitti.,ona,onu,duyunca,argument_structure,transitive
+Yeni bir işe girince gitti.,Yeni bir işi girince gitti.,işe,işi,girince,argument_structure,transitive
+Ona koşulsuz destek olunca gitti.,Onu koşulsuz destek olunca gitti.,ona,onu,olunca,argument_structure,transitive
+Bu projeye çok önem verince gitti.,Bu projeyi çok önem verince gitti.,projeye,projeyi,verince,argument_structure,transitive
+Son duruma çok şaşırınca gitti.,Son durumu çok şaşırınca gitti.,duruma,durumu,şaşırınca,argument_structure,transitive
+Sana her zaman güvenince gitti.,Seni her zaman güvenince gitti.,sana,seni,güvenince,argument_structure,transitive
+Bu sınava günlerce çalışınca gitti.,Bu sınavı günlerce çalışınca gitti.,sınava,sınavı,çalışınca,argument_structure,transitive
+Onun söylediklerine katılınca gitti.,Onun söylediklerini katılınca gitti.,söylediklerine,söylediklerini,katılınca,argument_structure,transitive
+Şu değişikliklere oldum olası alışamayınca gitti.,Şu değişiklikleri oldum olası alışamayınca gitti.,değişikliklere,değişiklikleri,alışamayınca,argument_structure,transitive
+Annemin sözlerine kulak verince gitti.,Annemin sözlerini kulak verince gitti.,sözlerine,sözlerini,verince,argument_structure,transitive
+Konferansa katılmaya karar verince gitti.,Konferansı katılmayı karar verince gitti.,katılmaya,katılmayı,karar verince,argument_structure,transitive
+Oyunlara fazla kapılmayınca gitti.,Oyunları fazla kapılmayınca gitti.,oyunlara,oyunları,kapılmayınca,argument_structure,transitive
+Dün yaptıklarından sonra sana çok kırılınca gitti.,Dün yaptıklarından sonra seni çok kırılınca gitti.,sana,seni,kırılınca,argument_structure,transitive
+Etkinliğe katılmayı düşününce gitti.,Etkinliğe katılmaya düşününce gitti.,katılmayı,katılmaya,düşününce,argument_structure,transitive
+Gözden kaçan hataya çok üzülünce gitti.,Gözden kaçan hatayı çok üzülünce gitti.,hataya,hatayı,üzülünce,argument_structure,transitive
+Tartışmaya girmeyi sevmeyince gitti.,Tartışmaya girmeye sevmeyince gitti.,girmeyi,girmeye,sevmeyince,argument_structure,transitive
+Seni buralarda görmeye son zamanlarda iyice alışınca gitti.,Seni buralarda görmeyi son zamanlarda iyice alışınca gitti.,görmeye,görmeyi,alışınca,argument_structure,transitive
+Zorlu bir süreçten sonra elde ettiğin bu başarıya sevinince gitti.,Zorlu bir süreçten sonra elde ettiğin bu başarıyı sevinince gitti.,başarıya,başarıyı,sevinince,argument_structure,transitive
+Eda yeni elbisesine resmen hayran kalınca gitti.,Eda yeni elbisesini resmen hayran kalınca gitti.,elbisesine,elbisesini,kalınca,argument_structure,transitive
+İnternette her gördüğün habere körü körüne inanmayınca gitti.,İnternette her gördüğün haberi körü körüne inanmayınca gitti.,habere,haberi,inanmayınca,argument_structure,transitive
+Eşimin kararlarına çok güvenince gitti.,Eşimin kararlarını çok güvenince gitti.,kararlarına,kararlarını,güvenince,argument_structure,transitive
+Ben artık ona sadece gülünce gitti.,Ben artık onu sadece gülünce gitti.,ona,onu,gülünce,argument_structure,transitive
+Doktor bey yaşlı hastayla özel olarak ilgilenince gitti.,Doktor bey yaşlı hastayı özel olarak ilgilenince gitti.,hastayla,hastayı,ilgilenince,argument_structure,transitive
+Bizim kuşumuz komşunun kedisinden baya korkunca gitti.,Bizim kuşumuz komşunun kedisini baya korkunca gitti.,kedisinden,kedisini,korkunca,argument_structure,transitive
+Hükümet partisi yeni yasada hala ısrar edince gitti.,Hükümet partisi yeni yasayı hala ısrar edince gitti.,yasada,yasayı,ısrar edince,argument_structure,transitive
+Kaba müşteri genç garsonla resmen dalga geçince gitti.,Kaba müşteri genç garsona resmen dalga geçince gitti.,garsonla,garsona,geçince,argument_structure,transitive
+Senin bu tavırlarından bıkınca gitti.,Senin bu tavırlarına bıkınca gitti.,tavırlarından,tavırlarına,bıkınca,argument_structure,transitive
+Tatil için Bodrum'da karar kılınca gitti.,Tatil için Bodrum'a karar kılınca gitti.,Bodrum'da,Bodrum'a,karar kılınca,argument_structure,transitive
+Bu soruna çok kafa yorunca gitti.,Bu sorunu çok kafa yorunca gitti.,soruna,sorunu,yorunca,argument_structure,transitive
+Bütün gece onu düşününce gitti.,Bütün gece ondan düşününce gitti.,onu,ondan,düşününce,argument_structure,transitive
+Bu türküye bayılınca gitti.,Bu türküyü bayılınca gitti.,türküye,türküyü,bayılınca,argument_structure,transitive
+Kardeşimin mezuniyetini unutunca gitti.,Kardeşimin mezuniyetine unutunca gitti.,mezuniyetini,mezuniyetine,unutunca,argument_structure,transitive
+Yarın onlara da uğrayınca gitti.,Yarın onları da uğrayınca gitti.,onlara,onları,uğrayınca,argument_structure,transitive
+Bu müjdeye çok sevinince gitti.,Bu müjdeyi çok sevinince gitti.,müjdeye,müjdeyi,sevinince,argument_structure,transitive
+Köpeğim merdivenlerden düşünce gitti.,Köpeğim merdivenleri düşünce gitti.,merdivenlerden,merdivenleri,düşünce,argument_structure,transitive
+Babam her zaman bana destek olunca gitti.,Babam her zaman beni destek olunca gitti.,bana,beni,destek olunca,argument_structure,transitive
+Müdürümüz bize çok kızınca gitti.,Müdürümüz bizi çok kızınca gitti.,bize,bizi,kızınca,argument_structure,transitive
+Bu diziye bayılınca gitti.,Bu diziyi bayılınca gitti.,diziye,diziyi,bayılınca,argument_structure,transitive
+Bu kasabayı çok sevince gitti.,Bu kasabaya çok sevince gitti.,kasabayı,kasabaya,sevince,argument_structure,transitive
+Bu saati çok beğenince gitti.,Bu saate çok beğenince gitti.,saati,saate,beğenince,argument_structure,transitive
+Yeni bir spora başlayınca gitti.,Yeni bir sporu başlayınca gitti.,spora,sporu,başlayınca,argument_structure,transitive
+Bu fikre sıcak bakınca gitti.,Bu fikri sıcak bakınca gitti.,fikre,fikri,bakınca,argument_structure,transitive
+Akrabalarımla iyi geçinince gitti.,Akrabalarımı iyi geçinince gitti.,akrabalarımla,akrabalarımı,geçinince,argument_structure,transitive
+Bu film serisine bayılınca gitti.,Bu film serisini bayılınca gitti.,serisine,serisini,bayılınca,argument_structure,transitive
+Onun doğruyu söylediğine inanınca gitti.,Onun doğruyu söylediğini inanınca gitti.,söylediğine,söylediğini,inanınca,argument_structure,transitive
+Tatile çıkma planına çok ısınınca gitti.,Tatile çıkma planını çok ısınınca gitti.,planına,planını,ısınınca,argument_structure,transitive
+Bu olaya çok üzülünce gitti.,Bu olayı çok üzülünce gitti.,olaya,olayı,üzülünce,argument_structure,transitive
+Yeni projeye başlamaya karar verince gitti.,Yeni projeye başlamayı karar verince gitti.,başlamaya,başlamayı,karar verince,argument_structure,transitive
+Onun cevabına çok şaşırınca gitti.,Onun cevabını çok şaşırınca gitti.,cevabına,cevabını,şaşırınca,argument_structure,transitive
+Bu heykellere hayran kalınca gitti.,Bu heykelleri hayran kalınca gitti.,heykellere,heykelleri,kalınca,argument_structure,transitive
+Ona büyük saygı duyunca gitti.,Onu büyük saygı duyunca gitti.,ona,onu,duyunca,argument_structure,transitive
+Yeni bir kursa girince gitti.,Yeni bir kursu girince gitti.,kursa,kursu,girince,argument_structure,transitive
+Ona koşulsuz destek olunca gitti.,Onu koşulsuz destek olunca gitti.,ona,onu,olunca,argument_structure,transitive
+Bu fikre çok önem verince gitti.,Bu fikri çok önem verince gitti.,fikre,fikri,verince,argument_structure,transitive
+Son gelişmeye çok şaşırınca gitti.,Son gelişmeyi çok şaşırınca gitti.,gelişmeye,gelişmeyi,şaşırınca,argument_structure,transitive
+Sana her zaman güvenince gitti.,Seni her zaman güvenince gitti.,sana,seni,güvenince,argument_structure,transitive
+Bu yarışmaya günlerce çalışınca gitti.,Bu yarışmayı günlerce çalışınca gitti.,yarışmaya,yarışmayı,çalışınca,argument_structure,transitive
+Onun söylediklerine katılınca gitti.,Onun söylediklerini katılınca gitti.,söylediklerine,söylediklerini,katılınca,argument_structure,transitive
+Şu yeniliklere oldum olası alışamayınca gitti.,Şu yenilikleri oldum olası alışamayınca gitti.,yeniliklere,yenilikleri,alışamayınca,argument_structure,transitive
+Babamın öğütlerine kulak verince gitti.,Babamın öğütlerini kulak verince gitti.,öğütlerine,öğütlerini,verince,argument_structure,transitive
+Seminere katılmaya karar verince gitti.,Semineri katılmayı karar verince gitti.,katılmaya,katılmayı,karar verince,argument_structure,transitive
+Kumara fazla kapılmayınca gitti.,Kumarı fazla kapılmayınca gitti.,kumara,kumarı,kapılmayınca,argument_structure,transitive
+Dün söylediklerinden sonra sana çok kırılınca gitti.,Dün söylediklerinden sonra seni çok kırılınca gitti.,sana,seni,kırılınca,argument_structure,transitive
+Konsere katılmayı düşününce gitti.,Konsere katılmaya düşününce gitti.,katılmayı,katılmaya,düşününce,argument_structure,transitive
+Gözden kaçan detaya çok üzülünce gitti.,Gözden kaçan detayı çok üzülünce gitti.,detaya,detayı,üzülünce,argument_structure,transitive
+Tartışmaya girmeyi sevmeyince gitti.,Tartışmaya girmeye sevmeyince gitti.,girmeyi,girmeye,sevmeyince,argument_structure,transitive
+Seni burada görmeye son zamanlarda iyice alışınca gitti.,Seni burada görmeyi son zamanlarda iyice alışınca gitti.,görmeye,görmeyi,alışınca,argument_structure,transitive
+Zorlu bir maratondan sonra elde ettiğin bu zafere sevinince gitti.,Zorlu bir maratondan sonra elde ettiğin bu zaferi sevinince gitti.,zafere,zaferi,sevinince,argument_structure,transitive

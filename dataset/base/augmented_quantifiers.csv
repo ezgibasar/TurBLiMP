@@ -1,0 +1,1001 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Gösteride casus numara yaptı.,Gösteride casus her numara yaptı.,∅,her,numara,quantifiers  
+Yolculukta radyo dinledik.,Yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Belli ki çiftlikte yumurta topladık.,Belli ki çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Melike matematik odanda problem çözmüş.,Melike matematik odanda her problem çözmüş.,∅,her,problem,quantifiers
+Müşteri vitrinde kıyafet beğendi.,Müşteri vitrinde çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Gösteride oyun numara yaptı.,Gösteride oyun her numara yaptı.,∅,her,numara,quantifiers  
+Kafede kurye tepsi taşıdı.,Kafede kurye her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Yani gölde sandal kiraladık.,Yani gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Öyle görünüyor ki kafede şekerlik boşaldı.,Öyle görünüyor ki kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Yemekten sonra tatlı yedik.,Yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Anlaşılıyor ki karnın acıkınca ekmek yersin.,Anlaşılıyor ki karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Anlaşılıyor ki mağazada ayakkabı denedim.,Anlaşılıyor ki mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Taşınırken eşya sattılar.,Taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Müşteriler markette ayakkabı denedi.,Müşteriler markette her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Dikkati dağılmadığı krizce çalışırken müzik dinler.,Dikkati dağılmadığı krizce çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Görünüşe göre mağazada vitrin düzenlediler.,Görünüşe göre mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Kafede se tepsi taşıdı.,Kafede se her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Sınıf ilgisinde müze rehberi bilgi verdi.,Sınıf ilgisinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Altın günü için ablam tatlı yaptı.,Altın günü için ablam çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Yazın deniz aranda kitap okurum.,Yazın deniz aranda çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Gümrükte bavul açtılar.,Gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Yol yanından çiçek topladık.,Yol yanından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Sınıf izinde müze rehberi bilgi verdi.,Sınıf izinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Sabah erkenden kalkıp gazete okurum.,Sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Yol içinden çiçek topladık.,Yol içinden çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Anlaşılıyor ki tarlada mahsul topladılar.,Anlaşılıyor ki tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Yoldan geçenlere broşür dağıttılar.,Yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Demek ki mağazada ayakkabı denedim.,Demek ki mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Anlaşılan berberde yanlışlıkla ayna kırdı.,Anlaşılan berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Konser sonrası poster aldık.,Konser sonrası her poster aldık.,∅,her,poster,quantifiers
+Görünüşe göre kırtasiyede defter baktık.,Görünüşe göre kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Belli ki yemekten sonra tatlı yedik.,Belli ki yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Anlaşılan akşam yürüyüşünde yıldız gördük.,Anlaşılan akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Sabah ayılmak için kahve içeriz.,Sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Gösteride medyum numara yaptı.,Gösteride medyum her numara yaptı.,∅,her,numara,quantifiers  
+O halde yoldan geçenlere broşür dağıttılar.,O halde yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Kardeşinin gelinini için elbise denedi.,Kardeşinin gelinini için her elbise denedi.,∅,her,elbise,quantifiers
+Yani yürüyüşte döviz taşıdık.,Yani yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Tiyatroda hakemciler kostüm giydi.,Tiyatroda hakemciler çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Millet sıkılınca çalma listesinde şarkı atladı.,Millet sıkılınca çalma listesinde çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Demek ki manavda sebze tarttık.,Demek ki manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Çocuklar ormanda oyun oynadı.,Çocuklar ormanda her oyun oynadı.,∅,her,oyun,quantifiers  
+Meydanda heykel gördük.,Meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Konser ilerisi poster aldık.,Konser ilerisi her poster aldık.,∅,her,poster,quantifiers
+Annem durumdan istifade çanta baktı.,Annem durumdan istifade çanta baktı.,∅,her,çanta,quantifiers
+Boş hayatım olursa film izlerim.,Boş hayatım olursa her film izlerim.,∅,her,film,quantifiers
+Alışveriş merkezinde mağaza gezdik.,Alışveriş merkezinde çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Manavda sebze tarttık.,Manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Şantiyede vinç gördük.,Şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Konserde bireyciler şarkı söyledi.,Konserde bireyciler çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Sabah periyodunda kuş gördüm.,Sabah periyodunda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Anlaşılıyor ki bahçeye salıncak kurduk.,Anlaşılıyor ki bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Bahçede aileler çiçek topladı.,Bahçede aileler her çiçek topladı.,∅,her,çiçek,quantifiers
+Sahilde şezlong kiraladık.,Sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Anlaşılıyor ki terziden kumaş aldık.,Anlaşılıyor ki terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Şu halde kütüphanede belge inceledim.,Şu halde kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Anlaşılan yoldan geçenlere broşür dağıttılar.,Anlaşılan yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Öyle görünüyor ki restoranda menü karıştırdık.,Öyle görünüyor ki restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Yarışmada çocuklar madalya kazandı.,Yarışmada çocuklar her madalya kazandı.,∅,her,madalya,quantifiers  
+Sınıfta doktor hikaye anlattı.,Sınıfta doktor çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Belli ki kırtasiyede defter baktık.,Belli ki kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Millet sıkılınca çalma altında şarkı atladı.,Millet sıkılınca çalma altında çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Müşteriler yerde ayakkabı denedi.,Müşteriler yerde her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Müşteriler fabrikada ayakkabı denedi.,Müşteriler fabrikada her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Kışın mangalda yemek pişiririz.,Kışın mangalda her yemek pişiririz.,∅,her,yemek,quantifiers  
+O halde yolda tabela gördük.,O halde yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Demek ki bahçede çit boyadık.,Demek ki bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Görünüşe göre sınıfta tebeşir kullandık.,Görünüşe göre sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Çiftlikte insanlar yumurta topladı.,Çiftlikte insanlar her yumurta topladı.,∅,her,yumurta,quantifiers
+Yani akşam yürüyüşünde yıldız gördük.,Yani akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Kütüphanede belge inceledim.,Kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Yarışmada atletler madalya kazandı.,Yarışmada atletler her madalya kazandı.,∅,her,madalya,quantifiers  
+Anlaşılan sergide tablo beğendik.,Anlaşılan sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Demek ki bizim ufaklık artık bisiklet sürebiliyor.,Demek ki bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Yazın deniz ortanda kitap okurum.,Yazın deniz ortanda çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Gösteride ajan numara yaptı.,Gösteride ajan her numara yaptı.,∅,her,numara,quantifiers  
+Belli ki kafede beklerken dergi okudum.,Belli ki kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Şu halde sahilde şezlong kiraladık.,Şu halde sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Sergide manken tablo sergiledi.,Sergide manken çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Kışın sobada yemek pişiririz.,Kışın sobada her yemek pişiririz.,∅,her,yemek,quantifiers  
+Öyle görünüyor ki pastanede kurabiye paketledik.,Öyle görünüyor ki pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Yarışmada doktorlar madalya kazandı.,Yarışmada doktorlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Belli ki gümrükte bavul açtılar.,Belli ki gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Görünüşe göre manavda sebze tarttık.,Görünüşe göre manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Öyle görünüyor ki gümrükte bavul açtılar.,Öyle görünüyor ki gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Öyle görünüyor ki kütüphanede roman okudum.,Öyle görünüyor ki kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Konserde katılımcılar şarkı söyledi.,Konserde katılımcılar çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Kütüphanede görevli raf düzeltti.,Kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Şu halde bahçıvan çiçek suladı.,Şu halde bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Anlaşılan kafede şekerlik boşaldı.,Anlaşılan kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Konserde kişiciler şarkı söyledi.,Konserde kişiciler çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Anlaşılan kütüphanede roman okudum.,Anlaşılan kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Sabah kahvaltısında zeytin yedik.,Sabah kahvaltısında çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+O halde akşam yürüyüşünde yıldız gördük.,O halde akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Demek ki marketten yumurta aldım.,Demek ki marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Annem indirimden istifade çanta baktı.,Annem indirimden istifade çanta baktı.,∅,her,çanta,quantifiers
+Amcasının müzik altında gitar çalmış.,Amcasının müzik altında her gitar çalmış.,∅,her,gitar,quantifiers
+Sergide beste tablo sergiledi.,Sergide beste çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Şu halde kütüphanede roman okudum.,Şu halde kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Gösteride hırsız numara yaptı.,Gösteride hırsız her numara yaptı.,∅,her,numara,quantifiers  
+Doğa partisinde sincap gördük.,Doğa partisinde her sincap gördük.,∅,her,sincap,quantifiers  
+Anlaşılan elimizi silerken peçete kullandık.,Anlaşılan elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Bizim ufaklık artık bisiklet sürebiliyor.,Bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Görünüşe göre pastanede kurabiye paketledik.,Görünüşe göre pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Anlaşılan müzede tarihi eser inceledik.,Anlaşılan müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Amcasının müzik salonunda gitar çalmış.,Amcasının müzik salonunda her gitar çalmış.,∅,her,gitar,quantifiers
+Boş yılım olursa film izlerim.,Boş yılım olursa her film izlerim.,∅,her,film,quantifiers
+Restoranda menü karıştırdık.,Restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Kütüphanede roman okudum.,Kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Yol ortandan çiçek topladık.,Yol ortandan çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Anlaşılan sabah erkenden kalkıp gazete okurum.,Anlaşılan sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Şantiyede vinç gördük.,Şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Sergide ressam tablo sergiledi.,Sergide ressam çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Hafta sonu dede kayık kullandık.,Hafta sonu dede her kayık kullandık.,∅,her,kayık,quantifiers  
+Dikkati dağılmadığı olayca çalışırken müzik dinler.,Dikkati dağılmadığı olayca çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Hafta sonu duvarda kayık kullandık.,Hafta sonu duvarda her kayık kullandık.,∅,her,kayık,quantifiers  
+Yani plajda şemsiye açtık.,Yani plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Görünüşe göre terziden kumaş aldık.,Görünüşe göre terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Belli ki kütüphanede sözlük aradım.,Belli ki kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Yani bizim ufaklık artık bisiklet sürebiliyor.,Yani bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Yani bahçede çit boyadık.,Yani bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Yani yolculukta radyo dinledik.,Yani yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Hafta devayı bahçeye çiçek diktik.,Hafta devayı bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Demek ki tarlada mahsul topladılar.,Demek ki tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Demek ki köyde saman taşıdılar.,Demek ki köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Bahçede çit boyadık.,Bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Ders arasında çocuklar sınıf gezdi.,Ders arasında çocuklar her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Kışın evde yemek pişiririz.,Kışın evde her yemek pişiririz.,∅,her,yemek,quantifiers  
+Dikkati dağılmadığı zamanca çalışırken müzik dinler.,Dikkati dağılmadığı zamanca çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Kütüphanede robot kitap okudu.,Kütüphanede robot her kitap okudu.,∅,her,kitap,quantifiers
+Çocuklar yolda oyun oynadı.,Çocuklar yolda her oyun oynadı.,∅,her,oyun,quantifiers  
+Konuklar derneğinde fotoğraf çekti.,Konuklar derneğinde her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Öyle görünüyor ki bizim ufaklık artık bisiklet sürebiliyor.,Öyle görünüyor ki bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Kütüphanede sözlük aradım.,Kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Çiftlikte kızlar yumurta topladı.,Çiftlikte kızlar her yumurta topladı.,∅,her,yumurta,quantifiers
+O halde yürüyüşte döviz taşıdık.,O halde yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Öyle görünüyor ki çiftlikte yumurta topladık.,Öyle görünüyor ki çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+O halde marketten yumurta aldım.,O halde marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Plajda şemsiye açtık.,Plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Ders arasında arkadaşlar sınıf gezdi.,Ders arasında arkadaşlar her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Hafta lanedi bahçeye çiçek diktik.,Hafta lanedi bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Görünüşe göre kafede şekerlik boşaldı.,Görünüşe göre kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Anlaşılıyor ki sınıfta tebeşir kullandık.,Anlaşılıyor ki sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Maçta polisler tezahürat yaptı.,Maçta polisler her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Anlaşılan şantiyede vinç gördük.,Anlaşılan şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Yani yemekten sonra tatlı yedik.,Yani yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Boş zamanım olursa film izlerim.,Boş zamanım olursa her film izlerim.,∅,her,film,quantifiers
+Doğa ilgisinde sincap gördük.,Doğa ilgisinde her sincap gördük.,∅,her,sincap,quantifiers  
+Anlaşılıyor ki atölyede mobilya yaptık.,Anlaşılıyor ki atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Akşam yürüyüşünde yıldız gördük.,Akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Mağazada ayakkabı denedim.,Mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Yani kütüphanede sözlük aradım.,Yani kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Şu halde sahilde deniz kabuğu topladık.,Şu halde sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Otobüste bilet kontrol ettiler.,Otobüste her bilet kontrol ettiler.,∅,her,bilet,quantifiers  
+Görünüşe göre karnın acıkınca ekmek yersin.,Görünüşe göre karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Tiyatroda çocukçular kostüm giydi.,Tiyatroda çocukçular çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Anlaşılan gümrükte bavul açtılar.,Anlaşılan gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Belli ki markette kasa açtılar.,Belli ki markette her kasa açtılar.,∅,her,kasa,quantifiers
+O halde taşınırken eşya sattılar.,O halde taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Belli ki terziden kumaş aldık.,Belli ki terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Öyle görünüyor ki kafede beklerken dergi okudum.,Öyle görünüyor ki kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Görünüşe göre bahçıvan çiçek suladı.,Görünüşe göre bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Öyle görünüyor ki i̇nşaatta tuğla taşıdılar.,Öyle görünüyor ki i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Öyle görünüyor ki kütüphanete raf yerleştirdiler.,Öyle görünüyor ki kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Kafede beklerken dergi okudum.,Kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Doğa gezisinde sincap gördük.,Doğa gezisinde her sincap gördük.,∅,her,sincap,quantifiers  
+Anlaşılan kamp yaparken çadır kurduk.,Anlaşılan kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Kamp ateşinde şarkı söyledik.,Kamp ateşinde her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Bahçede kadınlar çiçek topladı.,Bahçede kadınlar her çiçek topladı.,∅,her,çiçek,quantifiers
+Boş param olursa film izlerim.,Boş param olursa her film izlerim.,∅,her,film,quantifiers
+Millet sıkılınca çalma adresinde şarkı atladı.,Millet sıkılınca çalma adresinde çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Yani kütüphanede roman okudum.,Yani kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Sergide tasarım tablo sergiledi.,Sergide tasarım çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Görünüşe göre babam mağazada gömlek denedi.,Görünüşe göre babam mağazada her gömlek denedi.,∅,her,gömlek,quantifiers
+Annem yerden meyve aldı.,Annem yerden her meyve aldı.,∅,her,meyve,quantifiers  
+Anlaşılan tarlada mahsul topladılar.,Anlaşılan tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Belli ki mağazada vitrin düzenlediler.,Belli ki mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+O halde mağazada manken değiştirdiler.,O halde mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Kırtasiyede defter baktık.,Kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Öyle görünüyor ki marketten yumurta aldım.,Öyle görünüyor ki marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Doğa gezisinde sincap gördük.,Doğa gezisinde her sincap gördük.,∅,her,sincap,quantifiers  
+O halde tarlada mahsul topladılar.,O halde tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Şu halde yürüyüşte döviz taşıdık.,Şu halde yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Demek ki gümrükte bavul açtılar.,Demek ki gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Hafta haftayı bahçeye çiçek diktik.,Hafta haftayı bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Kardeşinin nisanı için elbise denedi.,Kardeşinin nisanı için her elbise denedi.,∅,her,elbise,quantifiers
+Belli ki barınağın önünden geçerken köpek gördük.,Belli ki barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Kamp boyunda şarkı söyledik.,Kamp boyunda her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Hafta sonu toprakta kayık kullandık.,Hafta sonu toprakta her kayık kullandık.,∅,her,kayık,quantifiers  
+Kedim açıkta bulursa süt içer.,Kedim açıkta bulursa her süt içer.,∅,her,süt,quantifiers  
+Müşteriler mağazada ayakkabı denedi.,Müşteriler mağazada her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Alışveriş dışında mağaza gezdik.,Alışveriş dışında çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Demek ki meydanda heykel gördük.,Demek ki meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Kütüphanede aday kitap okudu.,Kütüphanede aday her kitap okudu.,∅,her,kitap,quantifiers
+Anlaşılıyor ki kütüphanede belge inceledim.,Anlaşılıyor ki kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Yol kenarından çiçek topladık.,Yol kenarından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Sınıfta teknisyen hikaye anlattı.,Sınıfta teknisyen çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Çiftlikte çocuklar yumurta topladı.,Çiftlikte çocuklar her yumurta topladı.,∅,her,yumurta,quantifiers
+Anlaşılıyor ki restoranda menü karıştırdık.,Anlaşılıyor ki restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Şu halde bahçeye salıncak kurduk.,Şu halde bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Görünüşe göre meydanda heykel gördük.,Görünüşe göre meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Şu halde yemekten sonra tatlı yedik.,Şu halde yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Öyle görünüyor ki mağazada ayakkabı denedim.,Öyle görünüyor ki mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Markette kasa açtılar.,Markette her kasa açtılar.,∅,her,kasa,quantifiers
+Kütüphanede görevli raf düzeltti.,Kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Berberde yanlışlıkla ayna kırdı.,Berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Belli ki konserde katılımcılar şarkı söyledi.,Belli ki konserde katılımcılar çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Yani sınıfta tebeşir kullandık.,Yani sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Kedim karanlıkta bulursa süt içer.,Kedim karanlıkta bulursa her süt içer.,∅,her,süt,quantifiers  
+Ünlü artist defilede elbise giydi.,Ünlü artist defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Yani bahçıvan çiçek suladı.,Yani bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Otobüste bilet test ettiler.,Otobüste her bilet test ettiler.,∅,her,bilet,quantifiers  
+Anlaşılıyor ki yol kenarından çiçek topladık.,Anlaşılıyor ki yol kenarından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Akşam yürüyüşünde yıldız gördük.,Akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Demek ki kafede şekerlik boşaldı.,Demek ki kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Kardeşinin dansını için elbise denedi.,Kardeşinin dansını için her elbise denedi.,∅,her,elbise,quantifiers
+Alışveriş etrafında mağaza gezdik.,Alışveriş etrafında çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+O halde sabah erkenden kalkıp gazete okurum.,O halde sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Demek ki plajda şemsiye açtık.,Demek ki plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Demek ki sabah erkenden kalkıp gazete okurum.,Demek ki sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+O halde sergide tablo beğendik.,O halde sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Kafede şekerlik boşaldı.,Kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Belli ki yürüyüşte döviz taşıdık.,Belli ki yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Şu halde şantiyede vinç gördük.,Şu halde şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Altın haftayı için annem tatlı yaptı.,Altın haftayı için annem çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Görünüşe göre kardeşinin düğünü için elbise denedi.,Görünüşe göre kardeşinin düğünü için her elbise denedi.,∅,her,elbise,quantifiers
+Kafede vale tepsi taşıdı.,Kafede vale her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Mağazada manken değiştirdiler.,Mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Babam fabrikada gömlek denedi.,Babam fabrikada her gömlek denedi.,∅,her,gömlek,quantifiers
+Konserde doktor enstrüman çaldı.,Konserde doktor çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Annem korkudan istifade çanta baktı.,Annem korkudan istifade çanta baktı.,∅,her,çanta,quantifiers
+Görünüşe göre kafede beklerken dergi okudum.,Görünüşe göre kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Konuklar evinde fotoğraf çekti.,Konuklar evinde her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Öyle görünüyor ki atölyede mobilya yaptık.,Öyle görünüyor ki atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Ders arasında turistler sınıf gezdi.,Ders arasında turistler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Demek ki kamp yaparken çadır kurduk.,Demek ki kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Çocuklar parkta oyun oynadı.,Çocuklar parkta her oyun oynadı.,∅,her,oyun,quantifiers  
+Yarışmada bayanlar madalya kazandı.,Yarışmada bayanlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Konserde çocukçular şarkı söyledi.,Konserde çocukçular çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Yani hastanede tahlil yaptırdım.,Yani hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Sabah dışında kuş gördüm.,Sabah dışında çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Altın yılı için annem tatlı yaptı.,Altın yılı için annem çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Sınıfta asistan tahta sildi.,Sınıfta asistan her tahta sildi.,∅,her,tahta,quantifiers
+Yarışmada kadınlar madalya kazandı.,Yarışmada kadınlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Ünlü eleştirmen masada menü inceledi.,Ünlü eleştirmen masada her menü inceledi.,∅,her,menü,quantifiers
+Gölde sandal kiraladık.,Gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Görünüşe göre kütüphanede belge inceledim.,Görünüşe göre kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Çiftlikte çocuklar yumurta topladı.,Çiftlikte çocuklar her yumurta topladı.,∅,her,yumurta,quantifiers
+Yani pastanede kurabiye paketledik.,Yani pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Annem pazardan meyve aldı.,Annem pazardan her meyve aldı.,∅,her,meyve,quantifiers  
+Alışveriş arkanda mağaza gezdik.,Alışveriş arkanda çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Kışın ocakta yemek pişiririz.,Kışın ocakta her yemek pişiririz.,∅,her,yemek,quantifiers  
+Anlaşılan mağazada vitrin düzenlediler.,Anlaşılan mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Demek ki pastanede kurabiye paketledik.,Demek ki pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Anlaşılan sınıfta tebeşir kullandık.,Anlaşılan sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Yazın deniz dışında kitap okurum.,Yazın deniz dışında çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Anlaşılan tiyatroda oyuncular kostüm giydi.,Anlaşılan tiyatroda oyuncular çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Demek ki barınağın önünden geçerken köpek gördük.,Demek ki barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Konuklar nisanda fotoğraf çekti.,Konuklar nisanda her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Sahilde deniz kabuğu topladık.,Sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Öyle görünüyor ki kütüphanede sözlük aradım.,Öyle görünüyor ki kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Demek ki kütüphanede sözlük aradım.,Demek ki kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Şu halde bizim ufaklık artık bisiklet sürebiliyor.,Şu halde bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Sınıfta öğretmen hikaye anlattı.,Sınıfta öğretmen çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Bahçede çocuklar çiçek topladı.,Bahçede çocuklar her çiçek topladı.,∅,her,çiçek,quantifiers
+Anlaşılıyor ki sabah erkenden kalkıp gazete okurum.,Anlaşılıyor ki sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Görünüşe göre i̇nşaatta tuğla taşıdılar.,Görünüşe göre i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Kütüphanede asistan kitap okudu.,Kütüphanede asistan her kitap okudu.,∅,her,kitap,quantifiers
+Demek ki yoldan geçenlere broşür dağıttılar.,Demek ki yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Görünüşe göre bizim ufaklık artık bisiklet sürebiliyor.,Görünüşe göre bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Tiyatroda futbolcular kostüm giydi.,Tiyatroda futbolcular çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Görünüşe göre sahilde deniz kabuğu topladık.,Görünüşe göre sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Anlaşılıyor ki yemekten sonra tatlı yedik.,Anlaşılıyor ki yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Annem fırsattan istifade çanta baktı.,Annem fırsattan istifade çanta baktı.,∅,her,çanta,quantifiers
+Konserde solist enstrüman çaldı.,Konserde solist çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Belli ki melike matematik dersinde problem çözmüş.,Belli ki melike matematik dersinde her problem çözmüş.,∅,her,problem,quantifiers
+Otobüste bilet kabul ettiler.,Otobüste her bilet kabul ettiler.,∅,her,bilet,quantifiers  
+Müşteri perdende kıyafet beğendi.,Müşteri perdende çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Şu halde köyde saman taşıdılar.,Şu halde köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Elimizi silerken peçete kullandık.,Elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Yani köyde sabahları ekmek pişirirler.,Yani köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Çocuklar sokakta oyun oynadı.,Çocuklar sokakta her oyun oynadı.,∅,her,oyun,quantifiers  
+Öğrenciler laboratuvarda deney yaptı.,Öğrenciler laboratuvarda çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+O halde gümrükte bavul açtılar.,O halde gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Konserde adaycılar şarkı söyledi.,Konserde adaycılar çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Sınıfta gren hikaye anlattı.,Sınıfta gren çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+O halde kafede beklerken dergi okudum.,O halde kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Çocuklar sahilde oyun oynadı.,Çocuklar sahilde her oyun oynadı.,∅,her,oyun,quantifiers  
+Köyde sabahları ekmek pişirirler.,Köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Sergide model tablo sergiledi.,Sergide model çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+O halde yolculukta radyo dinledik.,O halde yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Melike matematik sınıfında problem çözmüş.,Melike matematik sınıfında her problem çözmüş.,∅,her,problem,quantifiers
+Hastanede tahlil yaptırdım.,Hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Maçta seyirciler tezahürat yaptı.,Maçta seyirciler her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Kamp uykunda şarkı söyledik.,Kamp uykunda her şarkı söyledik.,∅,her,şarkı,quantifiers  
+O halde restoranda menü karıştırdık.,O halde restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Annem piyasadan meyve aldı.,Annem piyasadan her meyve aldı.,∅,her,meyve,quantifiers  
+Anlaşılıyor ki bizim ufaklık artık bisiklet sürebiliyor.,Anlaşılıyor ki bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+O halde berberde yanlışlıkla ayna kırdı.,O halde berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Belli ki gölde sandal kiraladık.,Belli ki gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Yani kafede şekerlik boşaldı.,Yani kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+O halde kütüphanede belge inceledim.,O halde kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Görünüşe göre kütüphanede sözlük aradım.,Görünüşe göre kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Anlaşılıyor ki kütüphanete raf yerleştirdiler.,Anlaşılıyor ki kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Konserde beste enstrüman çaldı.,Konserde beste çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+O halde markette kasa açtılar.,O halde markette her kasa açtılar.,∅,her,kasa,quantifiers
+Annem marketten meyve aldı.,Annem marketten her meyve aldı.,∅,her,meyve,quantifiers  
+Bahçede çit boyadık.,Bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Yolculukta radyo dinledik.,Yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Sabah koşusunda kuş gördüm.,Sabah koşusunda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Öyle görünüyor ki taşınırken eşya sattılar.,Öyle görünüyor ki taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Barınağın önünden geçerken köpek gördük.,Barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Görünüşe göre kamp yaparken çadır kurduk.,Görünüşe göre kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Mutfakta bulaşık yıkadım.,Mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Millet sıkılınca çalma arasında şarkı atladı.,Millet sıkılınca çalma arasında çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Şu halde sergide tablo beğendik.,Şu halde sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Çiftlikte yumurta topladık.,Çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Yarışmada insanlar madalya kazandı.,Yarışmada insanlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Otobüste bilet alarm ettiler.,Otobüste her bilet alarm ettiler.,∅,her,bilet,quantifiers  
+Öyle görünüyor ki manavda sebze tarttık.,Öyle görünüyor ki manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Anlaşılıyor ki kafede beklerken dergi okudum.,Anlaşılıyor ki kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Kedim ortada bulursa süt içer.,Kedim ortada bulursa her süt içer.,∅,her,süt,quantifiers  
+Bahçede insanlar çiçek topladı.,Bahçede insanlar her çiçek topladı.,∅,her,çiçek,quantifiers
+Sınıf partisinde müze rehberi bilgi verdi.,Sınıf partisinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Babam depoda gömlek denedi.,Babam depoda her gömlek denedi.,∅,her,gömlek,quantifiers
+Gölde sandal kiraladık.,Gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Anlaşılıyor ki sahilde şezlong kiraladık.,Anlaşılıyor ki sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Sabah kahvaltısında zeytin yedik.,Sabah kahvaltısında çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Ünlü eleştirmen restoranda menü inceledi.,Ünlü eleştirmen restoranda her menü inceledi.,∅,her,menü,quantifiers
+Yemekten sonra tatlı yedik.,Yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Belli ki bahçeye salıncak kurduk.,Belli ki bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Demek ki taşınırken eşya sattılar.,Demek ki taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Sabah evinde zeytin yedik.,Sabah evinde çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Kardeşinin düğünü için elbise denedi.,Kardeşinin düğünü için her elbise denedi.,∅,her,elbise,quantifiers
+Yani elimizi silerken peçete kullandık.,Yani elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Şu halde kamp yaparken çadır kurduk.,Şu halde kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Otobüste bilet muayene ettiler.,Otobüste her bilet muayene ettiler.,∅,her,bilet,quantifiers  
+Görünüşe göre markette kasa açtılar.,Görünüşe göre markette her kasa açtılar.,∅,her,kasa,quantifiers
+Bahçeye salıncak kurduk.,Bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Sabah yarısında kuş gördüm.,Sabah yarısında çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Kışın duvarda yemek pişiririz.,Kışın duvarda her yemek pişiririz.,∅,her,yemek,quantifiers  
+Kafede beklerken dergi okudum.,Kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Millet sıkılınca çalma listesinde şarkı atladı.,Millet sıkılınca çalma listesinde çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Şu halde barınağın önünden geçerken köpek gördük.,Şu halde barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Konserde takımcılar şarkı söyledi.,Konserde takımcılar çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Boş zamanım olursa film izlerim.,Boş zamanım olursa her film izlerim.,∅,her,film,quantifiers
+Belli ki elimizi silerken peçete kullandık.,Belli ki elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Konuklar düğünde fotoğraf çekti.,Konuklar düğünde her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Sabah saatinde zeytin yedik.,Sabah saatinde çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Demek ki kütüphanede roman okudum.,Demek ki kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Maçta taraftarlar tezahürat yaptı.,Maçta taraftarlar her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Yoldan geçenlere broşür dağıttılar.,Yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Yazın deniz kenarında kitap okurum.,Yazın deniz kenarında çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Belli ki bahçıvan çiçek suladı.,Belli ki bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Çiftlikte yumurta topladık.,Çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Yani atölyede mobilya yaptık.,Yani atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Konserde gitarist enstrüman çaldı.,Konserde gitarist çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Demek ki zaten Fransa'da peynir tatmıştır.,Demek ki zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Belli ki akşam yürüyüşünde yıldız gördük.,Belli ki akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Anlaşılıyor ki sahilde deniz kabuğu topladık.,Anlaşılıyor ki sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Anlaşılıyor ki sabah ayılmak için kahve içeriz.,Anlaşılıyor ki sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Kardeşinin düğünü için elbise denedi.,Kardeşinin düğünü için her elbise denedi.,∅,her,elbise,quantifiers
+Çiftlikte ebeveynler yumurta topladı.,Çiftlikte ebeveynler her yumurta topladı.,∅,her,yumurta,quantifiers
+Yani i̇nşaatta tuğla taşıdılar.,Yani i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Kütüphanede öğrenci kitap okudu.,Kütüphanede öğrenci her kitap okudu.,∅,her,kitap,quantifiers
+Marketten yumurta aldım.,Marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Şu halde terziden kumaş aldık.,Şu halde terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Müşteri piyasanda kıyafet beğendi.,Müşteri piyasanda çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Anlaşılıyor ki plajda şemsiye açtık.,Anlaşılıyor ki plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Seyirciler yerde şarkı söyledi.,Seyirciler yerde her şarkı söyledi.,∅,her,şarkı,quantifiers
+Konserde müzisyen enstrüman çaldı.,Konserde müzisyen çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Demek ki müzede tarihi eser inceledik.,Demek ki müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Sabah altında kuş gördüm.,Sabah altında çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Berberde yanlışlıkla ayna kırdı.,Berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Görünüşe göre zaten Fransa'da peynir tatmıştır.,Görünüşe göre zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Terziden kumaş aldık.,Terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Seyirciler sahnede şarkı söyledi.,Seyirciler sahnede her şarkı söyledi.,∅,her,şarkı,quantifiers
+Anlaşılıyor ki zaten Fransa'da peynir tatmıştır.,Anlaşılıyor ki zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Gösteride sihirbaz numara yaptı.,Gösteride sihirbaz her numara yaptı.,∅,her,numara,quantifiers  
+Hastanede tahlil yaptırdım.,Hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Görünüşe göre yolda tabela gördük.,Görünüşe göre yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Kafede hostes tepsi taşıdı.,Kafede hostes her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Belli ki atölyede mobilya yaptık.,Belli ki atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Anlaşılan mutfakta bulaşık yıkadım.,Anlaşılan mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Öyle görünüyor ki yolda tabela gördük.,Öyle görünüyor ki yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Altın günü için teyzem tatlı yaptı.,Altın günü için teyzem çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Bahçıvan çiçek suladı.,Bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Konserde piyanist enstrüman çaldı.,Konserde piyanist çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Anlaşılan marketten yumurta aldım.,Anlaşılan marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Sınıf gezisinde müze rehberi bilgi verdi.,Sınıf gezisinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Şu halde kafede şekerlik boşaldı.,Şu halde kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Belli ki şantiyede vinç gördük.,Belli ki şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Ders arasında öğrenciler sınıf gezdi.,Ders arasında öğrenciler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Öyle görünüyor ki yoldan geçenlere broşür dağıttılar.,Öyle görünüyor ki yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Yani taşınırken eşya sattılar.,Yani taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Mağazada vitrin düzenlediler.,Mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Kedim arkada bulursa süt içer.,Kedim arkada bulursa her süt içer.,∅,her,süt,quantifiers  
+Babam markette gömlek denedi.,Babam markette her gömlek denedi.,∅,her,gömlek,quantifiers
+Yani sabah erkenden kalkıp gazete okurum.,Yani sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Anlaşılıyor ki kütüphanede roman okudum.,Anlaşılıyor ki kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Anlaşılıyor ki konuklar düğünde fotoğraf çekti.,Anlaşılıyor ki konuklar düğünde her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Annem sıkıntıdan istifade çanta baktı.,Annem sıkıntıdan istifade çanta baktı.,∅,her,çanta,quantifiers
+Ders arasında aileler sınıf gezdi.,Ders arasında aileler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+O halde sahilde deniz kabuğu topladık.,O halde sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Yani manavda sebze tarttık.,Yani manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Altın günü için esim tatlı yaptı.,Altın günü için esim çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Anlaşılıyor ki yolda tabela gördük.,Anlaşılıyor ki yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Otobüste bilet fren ettiler.,Otobüste her bilet fren ettiler.,∅,her,bilet,quantifiers  
+Tiyatroda kişiciler kostüm giydi.,Tiyatroda kişiciler çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Kedim arazide bulursa süt içer.,Kedim arazide bulursa her süt içer.,∅,her,süt,quantifiers  
+Anlaşılan kütüphanete raf yerleştirdiler.,Anlaşılan kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Meydanda heykel gördük.,Meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Sabah turunda kuş gördüm.,Sabah turunda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Kedim dede bulursa süt içer.,Kedim dede bulursa her süt içer.,∅,her,süt,quantifiers  
+Mağazada vitrin düzenlediler.,Mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Kütüphanede misafir kitap okudu.,Kütüphanede misafir her kitap okudu.,∅,her,kitap,quantifiers
+Millet sıkılınca çalma numarasında şarkı atladı.,Millet sıkılınca çalma numarasında çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Sabah masasında zeytin yedik.,Sabah masasında çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Belli ki kütüphanede belge inceledim.,Belli ki kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Müşteriler evde ayakkabı denedi.,Müşteriler evde her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Köyde saman taşıdılar.,Köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Anlaşılan bahçıvan çiçek suladı.,Anlaşılan bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Kışın suda yemek pişiririz.,Kışın suda her yemek pişiririz.,∅,her,yemek,quantifiers  
+Öğrenciler klinikte deney yaptı.,Öğrenciler klinikte çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Müşteri onunda kıyafet beğendi.,Müşteri onunda çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Konser sonu poster aldık.,Konser sonu her poster aldık.,∅,her,poster,quantifiers
+Hafta noktayı bahçeye çiçek diktik.,Hafta noktayı bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Sınıfta tebeşir kullandık.,Sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Şu halde müzede tarihi eser inceledik.,Şu halde müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Bahçede çocuklar çiçek topladı.,Bahçede çocuklar her çiçek topladı.,∅,her,çiçek,quantifiers
+O halde kamp yaparken çadır kurduk.,O halde kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Zaten Fransa'da peynir tatmıştır.,Zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Görünüşe göre kütüphanede roman okudum.,Görünüşe göre kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Görünüşe göre bahçeye salıncak kurduk.,Görünüşe göre bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Konuklar teknende fotoğraf çekti.,Konuklar teknende her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Anlaşılan yürüyüşte döviz taşıdık.,Anlaşılan yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Belli ki plajda şemsiye açtık.,Belli ki plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Konser devası poster aldık.,Konser devası her poster aldık.,∅,her,poster,quantifiers
+Müşteriler mağazada ayakkabı denedi.,Müşteriler mağazada her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Öyle görünüyor ki şantiyede vinç gördük.,Öyle görünüyor ki şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Demek ki mutfakta bulaşık yıkadım.,Demek ki mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Yazın deniz içerinde kitap okurum.,Yazın deniz içerinde çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Kedim yerde bulursa süt içer.,Kedim yerde bulursa her süt içer.,∅,her,süt,quantifiers  
+Sınıfta mühendis tahta sildi.,Sınıfta mühendis her tahta sildi.,∅,her,tahta,quantifiers
+Öğrenciler arazide deney yaptı.,Öğrenciler arazide çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Anlaşılıyor ki elimizi silerken peçete kullandık.,Anlaşılıyor ki elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Millet sıkılınca çalma sayfasında şarkı atladı.,Millet sıkılınca çalma sayfasında çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Sabah durumunda kuş gördüm.,Sabah durumunda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Ünlü oyun defilede elbise giydi.,Ünlü oyun defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Anlaşılan yolculukta radyo dinledik.,Anlaşılan yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Yani yol kenarından çiçek topladık.,Yani yol kenarından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Konuklar konserinde fotoğraf çekti.,Konuklar konserinde her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Kütüphanede sözlük aradım.,Kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Şu halde hastanede tahlil yaptırdım.,Şu halde hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Markette kasa açtılar.,Markette her kasa açtılar.,∅,her,kasa,quantifiers
+O halde gölde sandal kiraladık.,O halde gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Alışveriş merkezinde mağaza gezdik.,Alışveriş merkezinde çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Dikkati dağılmadığı surece çalışırken müzik dinler.,Dikkati dağılmadığı surece çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Anlaşılan taşınırken eşya sattılar.,Anlaşılan taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Ünlü aksesuar defilede elbise giydi.,Ünlü aksesuar defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+O halde hastanede tahlil yaptırdım.,O halde hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Belli ki zaten Fransa'da peynir tatmıştır.,Belli ki zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Yarışmada astronotlar madalya kazandı.,Yarışmada astronotlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Gösteride fal numara yaptı.,Gösteride fal her numara yaptı.,∅,her,numara,quantifiers  
+Kamp ateşinde şarkı söyledik.,Kamp ateşinde her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Anlaşılıyor ki hastanede tahlil yaptırdım.,Anlaşılıyor ki hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Görünüşe göre sahilde şezlong kiraladık.,Görünüşe göre sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Elimizi silerken peçete kullandık.,Elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Öyle görünüyor ki yürüyüşte döviz taşıdık.,Öyle görünüyor ki yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Anlaşılıyor ki mutfakta bulaşık yıkadım.,Anlaşılıyor ki mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Kardeşinin kınanı için elbise denedi.,Kardeşinin kınanı için her elbise denedi.,∅,her,elbise,quantifiers
+Sergide piyanist tablo sergiledi.,Sergide piyanist çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Demek ki sergide tablo beğendik.,Demek ki sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Mağazada ayakkabı denedim.,Mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Anlaşılan kütüphanede görevli raf düzeltti.,Anlaşılan kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Kamp altında şarkı söyledik.,Kamp altında her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Bahçede hayvanlar çiçek topladı.,Bahçede hayvanlar her çiçek topladı.,∅,her,çiçek,quantifiers
+Görünüşe göre şantiyede vinç gördük.,Görünüşe göre şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Görünüşe göre marketten yumurta aldım.,Görünüşe göre marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Konserde oyun enstrüman çaldı.,Konserde oyun çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Yolda tabela gördük.,Yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Şu halde yolculukta radyo dinledik.,Şu halde yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Şu halde gümrükte bavul açtılar.,Şu halde gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Yani mağazada manken değiştirdiler.,Yani mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Yani terziden kumaş aldık.,Yani terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Hafta ortayı bahçeye çiçek diktik.,Hafta ortayı bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Öyle görünüyor ki sabah erkenden kalkıp gazete okurum.,Öyle görünüyor ki sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Yazın deniz arkanda kitap okurum.,Yazın deniz arkanda çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Öyle görünüyor ki sahilde deniz kabuğu topladık.,Öyle görünüyor ki sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Kışın fırda yemek pişiririz.,Kışın fırda her yemek pişiririz.,∅,her,yemek,quantifiers  
+Kedim havada bulursa süt içer.,Kedim havada bulursa her süt içer.,∅,her,süt,quantifiers  
+Kamp alerjinde şarkı söyledik.,Kamp alerjinde her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Öyle görünüyor ki bahçıvan çiçek suladı.,Öyle görünüyor ki bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+O halde melike matematik dersinde problem çözmüş.,O halde melike matematik dersinde her problem çözmüş.,∅,her,problem,quantifiers
+Sınıfta veli tahta sildi.,Sınıfta veli her tahta sildi.,∅,her,tahta,quantifiers
+Şu halde gölde sandal kiraladık.,Şu halde gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Yürüyüşte döviz taşıdık.,Yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Demek ki çiftlikte yumurta topladık.,Demek ki çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Belli ki berberde yanlışlıkla ayna kırdı.,Belli ki berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Şu halde berberde yanlışlıkla ayna kırdı.,Şu halde berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Annem hareketten istifade çanta baktı.,Annem hareketten istifade çanta baktı.,∅,her,çanta,quantifiers
+Şu halde markette kasa açtılar.,Şu halde markette her kasa açtılar.,∅,her,kasa,quantifiers
+Yani sabah ayılmak için kahve içeriz.,Yani sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Kışın sobada yemek pişiririz.,Kışın sobada her yemek pişiririz.,∅,her,yemek,quantifiers  
+O halde mağazada ayakkabı denedim.,O halde mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Maçta hakemler tezahürat yaptı.,Maçta hakemler her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Otobüste bilet uygun ettiler.,Otobüste her bilet uygun ettiler.,∅,her,bilet,quantifiers  
+Görünüşe göre elimizi silerken peçete kullandık.,Görünüşe göre elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Yol kenarından çiçek topladık.,Yol kenarından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Sınıfta asistan hikaye anlattı.,Sınıfta asistan çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Amcasının müzik yakınında gitar çalmış.,Amcasının müzik yakınında her gitar çalmış.,∅,her,gitar,quantifiers
+Amcasının müzik ofisinde gitar çalmış.,Amcasının müzik ofisinde her gitar çalmış.,∅,her,gitar,quantifiers
+Anlaşılan kırtasiyede defter baktık.,Anlaşılan kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Sınıfta polis tahta sildi.,Sınıfta polis her tahta sildi.,∅,her,tahta,quantifiers
+Amcasının müzik arkanda gitar çalmış.,Amcasının müzik arkanda her gitar çalmış.,∅,her,gitar,quantifiers
+Belli ki sınıfta tebeşir kullandık.,Belli ki sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+O halde elimizi silerken peçete kullandık.,O halde elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Ünlü aktris defilede elbise giydi.,Ünlü aktris defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Atölyede mobilya yaptık.,Atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Öyle görünüyor ki müşteriler mağazada ayakkabı denedi.,Öyle görünüyor ki müşteriler mağazada her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Sınıfta teknisyen tahta sildi.,Sınıfta teknisyen her tahta sildi.,∅,her,tahta,quantifiers
+Belli ki sabah erkenden kalkıp gazete okurum.,Belli ki sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Demek ki kütüphanede belge inceledim.,Demek ki kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Tiyatroda oyuncular kostüm giydi.,Tiyatroda oyuncular çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Yolda tabela gördük.,Yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Kütüphanede gren kitap okudu.,Kütüphanede gren her kitap okudu.,∅,her,kitap,quantifiers
+O halde bizim ufaklık artık bisiklet sürebiliyor.,O halde bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Şu halde sabah erkenden kalkıp gazete okurum.,Şu halde sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Yani karnın acıkınca ekmek yersin.,Yani karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Anlaşılıyor ki i̇nşaatta tuğla taşıdılar.,Anlaşılıyor ki i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Şu halde plajda şemsiye açtık.,Şu halde plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Annem isten istifade çanta baktı.,Annem isten istifade çanta baktı.,∅,her,çanta,quantifiers
+Melike matematik evinde problem çözmüş.,Melike matematik evinde her problem çözmüş.,∅,her,problem,quantifiers
+Anlaşılıyor ki markette kasa açtılar.,Anlaşılıyor ki markette her kasa açtılar.,∅,her,kasa,quantifiers
+Sınıfta veli hikaye anlattı.,Sınıfta veli çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Demek ki yemekten sonra tatlı yedik.,Demek ki yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Anlaşılıyor ki gümrükte bavul açtılar.,Anlaşılıyor ki gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Çiftlikte aileler yumurta topladı.,Çiftlikte aileler her yumurta topladı.,∅,her,yumurta,quantifiers
+Görünüşe göre taşınırken eşya sattılar.,Görünüşe göre taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Belli ki sahilde deniz kabuğu topladık.,Belli ki sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Belli ki mağazada ayakkabı denedim.,Belli ki mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Yani doğa gezisinde sincap gördük.,Yani doğa gezisinde her sincap gördük.,∅,her,sincap,quantifiers  
+Demek ki akşam yürüyüşünde yıldız gördük.,Demek ki akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Anlaşılan melike matematik dersinde problem çözmüş.,Anlaşılan melike matematik dersinde her problem çözmüş.,∅,her,problem,quantifiers
+Hafta sonu golde kayık kullandık.,Hafta sonu golde her kayık kullandık.,∅,her,kayık,quantifiers  
+Anlaşılan çiftlikte yumurta topladık.,Anlaşılan çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Şu halde zaten Fransa'da peynir tatmıştır.,Şu halde zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Bahçıvan çiçek suladı.,Bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Hafta sonu havuzda kayık kullandık.,Hafta sonu havuzda her kayık kullandık.,∅,her,kayık,quantifiers  
+Öğrenciler suda deney yaptı.,Öğrenciler suda çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Çiftlikte erkekler yumurta topladı.,Çiftlikte erkekler her yumurta topladı.,∅,her,yumurta,quantifiers
+Demek ki elimizi silerken peçete kullandık.,Demek ki elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Belli ki kamp yaparken çadır kurduk.,Belli ki kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+O halde kütüphanede görevli raf düzeltti.,O halde kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Demek ki sabah ayılmak için kahve içeriz.,Demek ki sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Belli ki restoranda menü karıştırdık.,Belli ki restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Öyle görünüyor ki sabah ayılmak için kahve içeriz.,Öyle görünüyor ki sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+O halde mutfakta bulaşık yıkadım.,O halde mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Yani sabah kahvaltısında zeytin yedik.,Yani sabah kahvaltısında çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Sahilde deniz kabuğu topladık.,Sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Sergide tablo beğendik.,Sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Şu halde sınıfta tebeşir kullandık.,Şu halde sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Boş enerjim olursa film izlerim.,Boş enerjim olursa her film izlerim.,∅,her,film,quantifiers
+Şu halde pastanede kurabiye paketledik.,Şu halde pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+O halde köyde sabahları ekmek pişirirler.,O halde köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Tiyatroda takımcılar kostüm giydi.,Tiyatroda takımcılar çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Konser ortası poster aldık.,Konser ortası her poster aldık.,∅,her,poster,quantifiers
+Öyle görünüyor ki gölde sandal kiraladık.,Öyle görünüyor ki gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Anlaşılıyor ki meydanda heykel gördük.,Anlaşılıyor ki meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Anlaşılıyor ki manavda sebze tarttık.,Anlaşılıyor ki manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Alışveriş kuzeyinde mağaza gezdik.,Alışveriş kuzeyinde çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Konuklar kilisende fotoğraf çekti.,Konuklar kilisende her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Görünüşe göre çiftlikte yumurta topladık.,Görünüşe göre çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Yani mutfakta bulaşık yıkadım.,Yani mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Belli ki köyde sabahları ekmek pişirirler.,Belli ki köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Tarlada mahsul topladılar.,Tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Öyle görünüyor ki yolculukta radyo dinledik.,Öyle görünüyor ki yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Ünlü eleştirmen sokakta menü inceledi.,Ünlü eleştirmen sokakta her menü inceledi.,∅,her,menü,quantifiers
+Müşteri ekranında kıyafet beğendi.,Müşteri ekranında çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Seyirciler partide şarkı söyledi.,Seyirciler partide her şarkı söyledi.,∅,her,şarkı,quantifiers
+Belli ki yolculukta radyo dinledik.,Belli ki yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Anlaşılıyor ki taşınırken eşya sattılar.,Anlaşılıyor ki taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Şu halde taşınırken eşya sattılar.,Şu halde taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Yazın deniz kenarında kitap okurum.,Yazın deniz kenarında çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Sergide heykel tablo sergiledi.,Sergide heykel çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+O halde barınağın önünden geçerken köpek gördük.,O halde barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Yani şantiyede vinç gördük.,Yani şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Demek ki kütüphanete raf yerleştirdiler.,Demek ki kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Görünüşe göre barınağın önünden geçerken köpek gördük.,Görünüşe göre barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Demek ki yolda tabela gördük.,Demek ki yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Millet sıkılınca çalma programında şarkı atladı.,Millet sıkılınca çalma programında çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Anlaşılan sahilde şezlong kiraladık.,Anlaşılan sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Yani kırtasiyede defter baktık.,Yani kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Belli ki kütüphanete raf yerleştirdiler.,Belli ki kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Doğa evinde sincap gördük.,Doğa evinde her sincap gördük.,∅,her,sincap,quantifiers  
+Anlaşılıyor ki köyde sabahları ekmek pişirirler.,Anlaşılıyor ki köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Seyirciler tiyatroda şarkı söyledi.,Seyirciler tiyatroda her şarkı söyledi.,∅,her,şarkı,quantifiers
+Amcasının müzik galerinde gitar çalmış.,Amcasının müzik galerinde her gitar çalmış.,∅,her,gitar,quantifiers
+Babam sokakta gömlek denedi.,Babam sokakta her gömlek denedi.,∅,her,gömlek,quantifiers
+Demek ki hastanede tahlil yaptırdım.,Demek ki hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Anlaşılıyor ki şantiyede vinç gördük.,Anlaşılıyor ki şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Sınıfta polis hikaye anlattı.,Sınıfta polis çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Görünüşe göre atölyede mobilya yaptık.,Görünüşe göre atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Köyde sabahları ekmek pişirirler.,Köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Şu halde restoranda menü karıştırdık.,Şu halde restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Müşteri yerinde kıyafet beğendi.,Müşteri yerinde çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Öyle görünüyor ki akşam yürüyüşünde yıldız gördük.,Öyle görünüyor ki akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Şu halde kütüphanede sözlük aradım.,Şu halde kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Anlaşılıyor ki köyde saman taşıdılar.,Anlaşılıyor ki köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Müşteri vitrinde kıyafet beğendi.,Müşteri vitrinde çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+O halde pastanede kurabiye paketledik.,O halde pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Öyle görünüyor ki konuklar düğünde fotoğraf çekti.,Öyle görünüyor ki konuklar düğünde her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Ünlü kameraman defilede elbise giydi.,Ünlü kameraman defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Melike matematik projende problem çözmüş.,Melike matematik projende her problem çözmüş.,∅,her,problem,quantifiers
+Alışveriş altında mağaza gezdik.,Alışveriş altında çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+O halde yemekten sonra tatlı yedik.,O halde yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Anlaşılıyor ki akşam yürüyüşünde yıldız gördük.,Anlaşılıyor ki akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Ünlü fotomodel defilede elbise giydi.,Ünlü fotomodel defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Öyle görünüyor ki kütüphanede görevli raf düzeltti.,Öyle görünüyor ki kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Çocuklar yerde oyun oynadı.,Çocuklar yerde her oyun oynadı.,∅,her,oyun,quantifiers  
+Yani mağazada vitrin düzenlediler.,Yani mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Öyle görünüyor ki mağazada manken değiştirdiler.,Öyle görünüyor ki mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Öyle görünüyor ki müzede tarihi eser inceledik.,Öyle görünüyor ki müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Sabah salonunda zeytin yedik.,Sabah salonunda çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Çocuklar havuzda oyun oynadı.,Çocuklar havuzda her oyun oynadı.,∅,her,oyun,quantifiers  
+Öyle görünüyor ki barınağın önünden geçerken köpek gördük.,Öyle görünüyor ki barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Belli ki pastanede kurabiye paketledik.,Belli ki pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Sabah koşusunda kuş gördüm.,Sabah koşusunda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Görünüşe göre yürüyüşte döviz taşıdık.,Görünüşe göre yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Sabah ayılmak için kahve içeriz.,Sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Anlaşılıyor ki kırtasiyede defter baktık.,Anlaşılıyor ki kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Babam rafta gömlek denedi.,Babam rafta her gömlek denedi.,∅,her,gömlek,quantifiers
+Zaten Fransa'da peynir tatmıştır.,Zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Altın günü için annem tatlı yaptı.,Altın günü için annem çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Öyle görünüyor ki zaten Fransa'da peynir tatmıştır.,Öyle görünüyor ki zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Dikkati dağılmadığı sürece çalışırken müzik dinler.,Dikkati dağılmadığı sürece çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Çocuklar arazide oyun oynadı.,Çocuklar arazide her oyun oynadı.,∅,her,oyun,quantifiers  
+Alışveriş içerinde mağaza gezdik.,Alışveriş içerinde çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Doğa seyahatinde sincap gördük.,Doğa seyahatinde her sincap gördük.,∅,her,sincap,quantifiers  
+Sınıfta tebeşir kullandık.,Sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Çocuklar evde oyun oynadı.,Çocuklar evde her oyun oynadı.,∅,her,oyun,quantifiers  
+Konserde yolcucular şarkı söyledi.,Konserde yolcucular çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Görünüşe göre kütüphanete raf yerleştirdiler.,Görünüşe göre kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Müzede tarihi eser inceledik.,Müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Anlaşılan pastanede kurabiye paketledik.,Anlaşılan pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Alışveriş batında mağaza gezdik.,Alışveriş batında çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Kütüphanede personel kitap okudu.,Kütüphanede personel her kitap okudu.,∅,her,kitap,quantifiers
+Görünüşe göre mutfakta bulaşık yıkadım.,Görünüşe göre mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Öyle görünüyor ki hastanede tahlil yaptırdım.,Öyle görünüyor ki hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Ünlü eleştirmen evde menü inceledi.,Ünlü eleştirmen evde her menü inceledi.,∅,her,menü,quantifiers
+Sınıf seyahatinde müze rehberi bilgi verdi.,Sınıf seyahatinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Anlaşılıyor ki gölde sandal kiraladık.,Anlaşılıyor ki gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Yani gümrükte bavul açtılar.,Yani gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Anlaşılan mağazada manken değiştirdiler.,Anlaşılan mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Anlaşılan kütüphanede sözlük aradım.,Anlaşılan kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Anlaşılıyor ki kafede şekerlik boşaldı.,Anlaşılıyor ki kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Şu halde kütüphanete raf yerleştirdiler.,Şu halde kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Seyirciler derste şarkı söyledi.,Seyirciler derste her şarkı söyledi.,∅,her,şarkı,quantifiers
+Maçta diğerler tezahürat yaptı.,Maçta diğerler her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Öyle görünüyor ki mağazada vitrin düzenlediler.,Öyle görünüyor ki mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Şu halde çiftlikte yumurta topladık.,Şu halde çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Öyle görünüyor ki sahilde şezlong kiraladık.,Öyle görünüyor ki sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Kamp kanında şarkı söyledik.,Kamp kanında her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Öyle görünüyor ki kütüphanede belge inceledim.,Öyle görünüyor ki kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Ders arasında ebeveynler sınıf gezdi.,Ders arasında ebeveynler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Görünüşe göre restoranda menü karıştırdık.,Görünüşe göre restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Millet sıkılınca çalma sitesinde şarkı atladı.,Millet sıkılınca çalma sitesinde çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Yol altından çiçek topladık.,Yol altından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Müşteriler rafta ayakkabı denedi.,Müşteriler rafta her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Tiyatroda seyirciciler kostüm giydi.,Tiyatroda seyirciciler çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Anlaşılan mağazada ayakkabı denedim.,Anlaşılan mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Müşteriler depoda ayakkabı denedi.,Müşteriler depoda her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Anlaşılıyor ki marketten yumurta aldım.,Anlaşılıyor ki marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Demek ki yol kenarından çiçek topladık.,Demek ki yol kenarından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+Demek ki bahçeye salıncak kurduk.,Demek ki bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Boş saatim olursa film izlerim.,Boş saatim olursa her film izlerim.,∅,her,film,quantifiers
+Öyle görünüyor ki terziden kumaş aldık.,Öyle görünüyor ki terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Babam evde gömlek denedi.,Babam evde her gömlek denedi.,∅,her,gömlek,quantifiers
+Kafede sekreter tepsi taşıdı.,Kafede sekreter her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Öyle görünüyor ki bahçede çit boyadık.,Öyle görünüyor ki bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Otobüste bilet kontrol ettiler.,Otobüste her bilet kontrol ettiler.,∅,her,bilet,quantifiers  
+Anlaşılıyor ki çiftlikte yumurta topladık.,Anlaşılıyor ki çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Yani sahilde deniz kabuğu topladık.,Yani sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Maçta çocuklar tezahürat yaptı.,Maçta çocuklar her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Öyle görünüyor ki tarlada mahsul topladılar.,Öyle görünüyor ki tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Seyirciler okulda şarkı söyledi.,Seyirciler okulda her şarkı söyledi.,∅,her,şarkı,quantifiers
+Sınıfta öğretmen tahta sildi.,Sınıfta öğretmen her tahta sildi.,∅,her,tahta,quantifiers
+Belli ki marketten yumurta aldım.,Belli ki marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Şu halde mağazada ayakkabı denedim.,Şu halde mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Anlaşılan millet sıkılınca çalma listesinde şarkı atladı.,Anlaşılan millet sıkılınca çalma listesinde çoğu şarkı atladı.,∅,çoğu,şarkı,quantifiers
+Tarlada mahsul topladılar.,Tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Anlaşılıyor ki bahçıvan çiçek suladı.,Anlaşılıyor ki bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Kardeşinin partini için elbise denedi.,Kardeşinin partini için her elbise denedi.,∅,her,elbise,quantifiers
+Öğrenciler evde deney yaptı.,Öğrenciler evde çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Sabah suyunda zeytin yedik.,Sabah suyunda çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Anlaşılıyor ki mağazada manken değiştirdiler.,Anlaşılıyor ki mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Görünüşe göre tarlada mahsul topladılar.,Görünüşe göre tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Öğrenciler laboratuvarda deney yaptı.,Öğrenciler laboratuvarda çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Bahçede bebekler çiçek topladı.,Bahçede bebekler her çiçek topladı.,∅,her,çiçek,quantifiers
+O halde kırtasiyede defter baktık.,O halde kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+O halde bahçede çit boyadık.,O halde bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Öyle görünüyor ki berberde yanlışlıkla ayna kırdı.,Öyle görünüyor ki berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Belli ki taşınırken eşya sattılar.,Belli ki taşınırken çoğu eşya sattılar.,∅,çoğu,eşya,quantifiers
+Ders arasında diğerler sınıf gezdi.,Ders arasında diğerler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Görünüşe göre sabah ayılmak için kahve içeriz.,Görünüşe göre sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Görünüşe göre köyde sabahları ekmek pişirirler.,Görünüşe göre köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Yarışmada pilotlar madalya kazandı.,Yarışmada pilotlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Görünüşe göre yoldan geçenlere broşür dağıttılar.,Görünüşe göre yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Yazın deniz yakınında kitap okurum.,Yazın deniz yakınında çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Bahçeye salıncak kurduk.,Bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Şu halde kafede beklerken dergi okudum.,Şu halde kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Demek ki kütüphanede görevli raf düzeltti.,Demek ki kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Melike matematik dersinde problem çözmüş.,Melike matematik dersinde her problem çözmüş.,∅,her,problem,quantifiers
+Sahilde şezlong kiraladık.,Sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Şu halde manavda sebze tarttık.,Şu halde manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Doğa izinde sincap gördük.,Doğa izinde her sincap gördük.,∅,her,sincap,quantifiers  
+Hafta sonu havada kayık kullandık.,Hafta sonu havada her kayık kullandık.,∅,her,kayık,quantifiers  
+Anlaşılıyor ki kütüphanede görevli raf düzeltti.,Anlaşılıyor ki kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Öyle görünüyor ki yemekten sonra tatlı yedik.,Öyle görünüyor ki yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+O halde meydanda heykel gördük.,O halde meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Amcasının müzik evinde gitar çalmış.,Amcasının müzik evinde her gitar çalmış.,∅,her,gitar,quantifiers
+Ünlü eleştirmen yatakta menü inceledi.,Ünlü eleştirmen yatakta her menü inceledi.,∅,her,menü,quantifiers
+Barınağın önünden geçerken köpek gördük.,Barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Şu halde mağazada vitrin düzenlediler.,Şu halde mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Yani kamp yaparken çadır kurduk.,Yani kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Anlaşılıyor ki barınağın önünden geçerken köpek gördük.,Anlaşılıyor ki barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Öyle görünüyor ki meydanda heykel gördük.,Öyle görünüyor ki meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Dikkati dağılmadığı kişice çalışırken müzik dinler.,Dikkati dağılmadığı kişice çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Anlaşılıyor ki yolculukta radyo dinledik.,Anlaşılıyor ki yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Şu halde yolda tabela gördük.,Şu halde yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Annem istifadeden istifade çanta baktı.,Annem istifadeden istifade çanta baktı.,∅,her,çanta,quantifiers
+Anlaşılan restoranda menü karıştırdık.,Anlaşılan restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Kütüphanede roman okudum.,Kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Pastanede kurabiye paketledik.,Pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Anlaşılan barınağın önünden geçerken köpek gördük.,Anlaşılan barınağın önünden geçerken çoğu köpek gördük.,∅,çoğu,köpek,quantifiers  
+Şu halde atölyede mobilya yaptık.,Şu halde atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Belli ki yolda tabela gördük.,Belli ki yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Belli ki hastanede tahlil yaptırdım.,Belli ki hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Yani müzede tarihi eser inceledik.,Yani müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Annem fabrikadan meyve aldı.,Annem fabrikadan her meyve aldı.,∅,her,meyve,quantifiers  
+İnşaatta tuğla taşıdılar.,İnşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Kamp durumunda şarkı söyledik.,Kamp durumunda her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Restoranda menü karıştırdık.,Restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Anlaşılan bizim ufaklık artık bisiklet sürebiliyor.,Anlaşılan bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Hafta biti bahçeye çiçek diktik.,Hafta biti bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Sergide tablo beğendik.,Sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Köyde gece ekmek pişirirler.,Köyde gece her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Babam mağazada gömlek denedi.,Babam mağazada her gömlek denedi.,∅,her,gömlek,quantifiers
+Bahçede kızlar çiçek topladı.,Bahçede kızlar her çiçek topladı.,∅,her,çiçek,quantifiers
+Demek ki sahilde deniz kabuğu topladık.,Demek ki sahilde her deniz kabuğu topladık.,∅,her,deniz kabuğu,quantifiers
+Anlaşılan bahçeye salıncak kurduk.,Anlaşılan bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Tiyatroda oyuncular kostüm giydi.,Tiyatroda oyuncular çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Annem esnaftan meyve aldı.,Annem esnaftan her meyve aldı.,∅,her,meyve,quantifiers  
+Kütüphanede öğrenci kitap okudu.,Kütüphanede öğrenci her kitap okudu.,∅,her,kitap,quantifiers
+Hafta sonu karada kayık kullandık.,Hafta sonu karada her kayık kullandık.,∅,her,kayık,quantifiers  
+Konserde yapım enstrüman çaldı.,Konserde yapım çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Ünlü eleştirmen otelde menü inceledi.,Ünlü eleştirmen otelde her menü inceledi.,∅,her,menü,quantifiers
+Öyle görünüyor ki markette kasa açtılar.,Öyle görünüyor ki markette her kasa açtılar.,∅,her,kasa,quantifiers
+Sergide oyun tablo sergiledi.,Sergide oyun çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+O halde bahçıvan çiçek suladı.,O halde bahçıvan çoğu çiçek suladı.,∅,çoğu,çiçek,quantifiers
+Görünüşe göre sergide tablo beğendik.,Görünüşe göre sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Bahçede ebeveynler çiçek topladı.,Bahçede ebeveynler her çiçek topladı.,∅,her,çiçek,quantifiers
+Belli ki sabah ayılmak için kahve içeriz.,Belli ki sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Belli ki bahçede çit boyadık.,Belli ki bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Pastanede kurabiye paketledik.,Pastanede çoğu kurabiye paketledik.,∅,çoğu,kurabiye,quantifiers
+Demek ki mağazada manken değiştirdiler.,Demek ki mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Sınıf turunda müze rehberi bilgi verdi.,Sınıf turunda müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Babam yerde gömlek denedi.,Babam yerde her gömlek denedi.,∅,her,gömlek,quantifiers
+Anlaşılıyor ki yürüyüşte döviz taşıdık.,Anlaşılıyor ki yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Mağazada manken değiştirdiler.,Mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Kütüphanete raf yerleştirdiler.,Kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Kamp yaparken çadır kurduk.,Kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+O halde zaten Fransa'da peynir tatmıştır.,O halde zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Kamp yaparken çadır kurduk.,Kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Anlaşılan hastanede tahlil yaptırdım.,Anlaşılan hastanede çoğu tahlil yaptırdım.,∅,çoğu,tahlil,quantifiers  
+Karnın acıkınca ekmek yersin.,Karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Yarışmada cerrahlar madalya kazandı.,Yarışmada cerrahlar her madalya kazandı.,∅,her,madalya,quantifiers  
+Demek ki kırtasiyede defter baktık.,Demek ki kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Dikkati dağılmadığı projece çalışırken müzik dinler.,Dikkati dağılmadığı projece çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Hafta sonu altta kayık kullandık.,Hafta sonu altta her kayık kullandık.,∅,her,kayık,quantifiers  
+O halde sabah ayılmak için kahve içeriz.,O halde sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+Sabah oyununda kuş gördüm.,Sabah oyununda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Şu halde meydanda heykel gördük.,Şu halde meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Görünüşe göre berberde yanlışlıkla ayna kırdı.,Görünüşe göre berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Şu halde i̇nşaatta tuğla taşıdılar.,Şu halde i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Anlaşılan kafede beklerken dergi okudum.,Anlaşılan kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Belli ki kafede şekerlik boşaldı.,Belli ki kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Şu halde sabah ayılmak için kahve içeriz.,Şu halde sabah ayılmak için her kahve içeriz.,∅,her,kahve,quantifiers  
+O halde müzede tarihi eser inceledik.,O halde müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Belli ki mağazada manken değiştirdiler.,Belli ki mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Yani kütüphanede görevli raf düzeltti.,Yani kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Atölyede mobilya yaptık.,Atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Tiyatroda takçılar kostüm giydi.,Tiyatroda takçılar çoğu kostüm giydi.,∅,çoğu,kostüm,quantifiers
+Plajda şemsiye açtık.,Plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Ünlü manken defilede elbise giydi.,Ünlü manken defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Ünlü eleştirmen gemide menü inceledi.,Ünlü eleştirmen gemide her menü inceledi.,∅,her,menü,quantifiers
+Mutfakta bulaşık yıkadım.,Mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Konserde katılımcılar şarkı söyledi.,Konserde katılımcılar çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+Kamp ishalinde şarkı söyledik.,Kamp ishalinde her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Yani yolda tabela gördük.,Yani yolda çoğu tabela gördük.,∅,çoğu,tabela,quantifiers  
+Karnın acıkınca ekmek yersin.,Karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Sınıfta öğretmen hikaye anlattı.,Sınıfta öğretmen çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Seyirciler konserde şarkı söyledi.,Seyirciler konserde her şarkı söyledi.,∅,her,şarkı,quantifiers
+Amcasının müzik dükkanında gitar çalmış.,Amcasının müzik dükkanında her gitar çalmış.,∅,her,gitar,quantifiers
+Müşteri duvarında kıyafet beğendi.,Müşteri duvarında çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Anlaşılıyor ki kamp yaparken çadır kurduk.,Anlaşılıyor ki kamp yaparken çoğu çadır kurduk.,∅,çoğu,çadır,quantifiers  
+Belli ki yoldan geçenlere broşür dağıttılar.,Belli ki yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+O halde kütüphanede sözlük aradım.,O halde kütüphanede her sözlük aradım.,∅,her,sözlük,quantifiers
+Manavda sebze tarttık.,Manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Görünüşe göre kütüphanede görevli raf düzeltti.,Görünüşe göre kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Sınıf gezisinde müze acenteyi bilgi verdi.,Sınıf gezisinde müze acenteyi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Sergide mimar tablo sergiledi.,Sergide mimar çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Anlaşılan bahçede çit boyadık.,Anlaşılan bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Annem topraktan meyve aldı.,Annem topraktan her meyve aldı.,∅,her,meyve,quantifiers  
+Belli ki bizim ufaklık artık bisiklet sürebiliyor.,Belli ki bizim ufaklık artık çoğu bisiklet sürebiliyor.,∅,çoğu,bisiklet,quantifiers
+Sabah pozisyonunda kuş gördüm.,Sabah pozisyonunda çoğu kuş gördüm.,∅,çoğu,kuş,quantifiers  
+Amcasının müzik dükkanında gitar çalmış.,Amcasının müzik dükkanında her gitar çalmış.,∅,her,gitar,quantifiers
+Demek ki i̇nşaatta tuğla taşıdılar.,Demek ki i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Demek ki sınıfta tebeşir kullandık.,Demek ki sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Öyle görünüyor ki mutfakta bulaşık yıkadım.,Öyle görünüyor ki mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Köyde saman taşıdılar.,Köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Ünlü eleştirmen sinemada menü inceledi.,Ünlü eleştirmen sinemada her menü inceledi.,∅,her,menü,quantifiers
+Belli ki boş zamanım olursa film izlerim.,Belli ki boş zamanım olursa her film izlerim.,∅,her,film,quantifiers
+O halde plajda şemsiye açtık.,O halde plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Sınıfta doktor tahta sildi.,Sınıfta doktor her tahta sildi.,∅,her,tahta,quantifiers
+Altın saati için annem tatlı yaptı.,Altın saati için annem çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Belli ki i̇nşaatta tuğla taşıdılar.,Belli ki i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Hafta sonu suda kayık kullandık.,Hafta sonu suda her kayık kullandık.,∅,her,kayık,quantifiers  
+Şu halde köyde sabahları ekmek pişirirler.,Şu halde köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Kafede garson tepsi taşıdı.,Kafede garson her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Altın tatili için annem tatlı yaptı.,Altın tatili için annem çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Altın günü için babam tatlı yaptı.,Altın günü için babam çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Müşteri altında kıyafet beğendi.,Müşteri altında çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Sınıfta mühendis hikaye anlattı.,Sınıfta mühendis çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Çocuklar dede oyun oynadı.,Çocuklar dede her oyun oynadı.,∅,her,oyun,quantifiers  
+Belli ki kütüphanede görevli raf düzeltti.,Belli ki kütüphanede görevli her raf düzeltti.,∅,her,raf,quantifiers
+Şu halde bahçede çit boyadık.,Şu halde bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Seyirciler otelde şarkı söyledi.,Seyirciler otelde her şarkı söyledi.,∅,her,şarkı,quantifiers
+Annem depodan meyve aldı.,Annem depodan her meyve aldı.,∅,her,meyve,quantifiers  
+Gösteride polis numara yaptı.,Gösteride polis her numara yaptı.,∅,her,numara,quantifiers  
+Anlaşılan terziden kumaş aldık.,Anlaşılan terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+O halde şantiyede vinç gördük.,O halde şantiyede çoğu vinç gördük.,∅,çoğu,vinç,quantifiers
+Sabah erkenden kalkıp gazete okurum.,Sabah erkenden kalkıp her gazete okurum.,∅,her,gazete,quantifiers  
+Öyle görünüyor ki kırtasiyede defter baktık.,Öyle görünüyor ki kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+O halde bahçeye salıncak kurduk.,O halde bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Hafta sayıyı bahçeye çiçek diktik.,Hafta sayıyı bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Demek ki terziden kumaş aldık.,Demek ki terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Boş dakikam olursa film izlerim.,Boş dakikam olursa her film izlerim.,∅,her,film,quantifiers
+Annem masraftan istifade çanta baktı.,Annem masraftan istifade çanta baktı.,∅,her,çanta,quantifiers
+Ünlü eleştirmen yerde menü inceledi.,Ünlü eleştirmen yerde her menü inceledi.,∅,her,menü,quantifiers
+Öğrenciler ofiste deney yaptı.,Öğrenciler ofiste çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Öğrenciler hastanede deney yaptı.,Öğrenciler hastanede çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Şu halde mutfakta bulaşık yıkadım.,Şu halde mutfakta her bulaşık yıkadım.,∅,her,bulaşık,quantifiers  
+Anlaşılan köyde saman taşıdılar.,Anlaşılan köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Kafede asistan tepsi taşıdı.,Kafede asistan her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Görünüşe göre plajda şemsiye açtık.,Görünüşe göre plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Öyle görünüyor ki sergide tablo beğendik.,Öyle görünüyor ki sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Yazın deniz onunda kitap okurum.,Yazın deniz onunda çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Konserde ressam enstrüman çaldı.,Konserde ressam çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Yarışmada sporcular madalya kazandı.,Yarışmada sporcular her madalya kazandı.,∅,her,madalya,quantifiers  
+Yazın deniz altında kitap okurum.,Yazın deniz altında çoğu kitap okurum.,∅,çoğu,kitap,quantifiers  
+Babam mağazada gömlek denedi.,Babam mağazada her gömlek denedi.,∅,her,gömlek,quantifiers
+Hafta sureyi bahçeye çiçek diktik.,Hafta sureyi bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Öğrenciler laboratuarda deney yaptı.,Öğrenciler laboratuarda çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Annem maldan istifade çanta baktı.,Annem maldan istifade çanta baktı.,∅,her,çanta,quantifiers
+Müşteri rafında kıyafet beğendi.,Müşteri rafında çoğu kıyafet beğendi.,∅,çoğu,kıyafet,quantifiers
+Ünlü model defilede elbise giydi.,Ünlü model defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Annem evden meyve aldı.,Annem evden her meyve aldı.,∅,her,meyve,quantifiers  
+Gösteride hayalet numara yaptı.,Gösteride hayalet her numara yaptı.,∅,her,numara,quantifiers  
+Anlaşılıyor ki yoldan geçenlere broşür dağıttılar.,Anlaşılıyor ki yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Ders içerisinde öğrenciler sınıf gezdi.,Ders içerisinde öğrenciler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Anlaşılan karnın acıkınca ekmek yersin.,Anlaşılan karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Anlaşılan markette kasa açtılar.,Anlaşılan markette her kasa açtılar.,∅,her,kasa,quantifiers
+Belli ki tarlada mahsul topladılar.,Belli ki tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Terziden kumaş aldık.,Terziden her kumaş aldık.,∅,her,kumaş,quantifiers  
+Görünüşe göre bahçede çit boyadık.,Görünüşe göre bahçede çoğu çit boyadık.,∅,çoğu,çit,quantifiers  
+Kedim suda bulursa süt içer.,Kedim suda bulursa her süt içer.,∅,her,süt,quantifiers  
+Demek ki gölde sandal kiraladık.,Demek ki gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+O halde kütüphanete raf yerleştirdiler.,O halde kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+O halde çiftlikte yumurta topladık.,O halde çiftlikte her yumurta topladık.,∅,her,yumurta,quantifiers
+Çiftlikte kadınlar yumurta topladı.,Çiftlikte kadınlar her yumurta topladı.,∅,her,yumurta,quantifiers
+Demek ki sahilde şezlong kiraladık.,Demek ki sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Anlaşılıyor ki berberde yanlışlıkla ayna kırdı.,Anlaşılıyor ki berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+O halde atölyede mobilya yaptık.,O halde atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Konser anı poster aldık.,Konser anı her poster aldık.,∅,her,poster,quantifiers
+Demek ki kafede beklerken dergi okudum.,Demek ki kafede beklerken her dergi okudum.,∅,her,dergi,quantifiers  
+Demek ki yolculukta radyo dinledik.,Demek ki yolculukta her radyo dinledik.,∅,her,radyo,quantifiers  
+Anlaşılan kütüphanede belge inceledim.,Anlaşılan kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Çiftlikte bebekler yumurta topladı.,Çiftlikte bebekler her yumurta topladı.,∅,her,yumurta,quantifiers
+Ünlü hostes defilede elbise giydi.,Ünlü hostes defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Dikkati dağılmadığı sistemce çalışırken müzik dinler.,Dikkati dağılmadığı sistemce çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Öğrenciler ameliyathanede deney yaptı.,Öğrenciler ameliyathanede çoğu deney yaptı.,∅,çoğu,deney,quantifiers  
+Kütüphanede veli kitap okudu.,Kütüphanede veli her kitap okudu.,∅,her,kitap,quantifiers
+Anlaşılan plajda şemsiye açtık.,Anlaşılan plajda her şemsiye açtık.,∅,her,şemsiye,quantifiers  
+Yani konserde katılımcılar şarkı söyledi.,Yani konserde katılımcılar çoğu şarkı söyledi.,∅,çoğu,şarkı,quantifiers  
+O halde sahilde şezlong kiraladık.,O halde sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Melike matematik dersinde problem çözmüş.,Melike matematik dersinde her problem çözmüş.,∅,her,problem,quantifiers
+Boş hatam olursa film izlerim.,Boş hatam olursa her film izlerim.,∅,her,film,quantifiers
+Belli ki köyde saman taşıdılar.,Belli ki köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Hafta sonu ormana çiçek diktik.,Hafta sonu ormana her çiçek diktik.,∅,her,çiçek,quantifiers  
+Görünüşe göre gölde sandal kiraladık.,Görünüşe göre gölde çoğu sandal kiraladık.,∅,çoğu,sandal,quantifiers
+Kafede barmen tepsi taşıdı.,Kafede barmen her tepsi taşıdı.,∅,her,tepsi,quantifiers
+O halde köyde saman taşıdılar.,O halde köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Sabah servisinde zeytin yedik.,Sabah servisinde çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+Yani marketten yumurta aldım.,Yani marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Sınıfta gren tahta sildi.,Sınıfta gren her tahta sildi.,∅,her,tahta,quantifiers
+Dikkati dağılmadığı sürece çalışırken müzik dinler.,Dikkati dağılmadığı sürece çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Yani bahçeye salıncak kurduk.,Yani bahçeye her salıncak kurduk.,∅,her,salıncak,quantifiers
+Otobüste bilet risk ettiler.,Otobüste her bilet risk ettiler.,∅,her,bilet,quantifiers  
+Alışveriş yakınında mağaza gezdik.,Alışveriş yakınında çoğu mağaza gezdik.,∅,çoğu,mağaza,quantifiers  
+Öyle görünüyor ki elimizi silerken peçete kullandık.,Öyle görünüyor ki elimizi silerken çoğu peçete kullandık.,∅,çoğu,peçete,quantifiers
+Konuklar cenazende fotoğraf çekti.,Konuklar cenazende her fotoğraf çekti.,∅,her,fotoğraf,quantifiers
+Şu halde karnın acıkınca ekmek yersin.,Şu halde karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Kardeşinin cenazeni için elbise denedi.,Kardeşinin cenazeni için her elbise denedi.,∅,her,elbise,quantifiers
+O halde manavda sebze tarttık.,O halde manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
+Görünüşe göre mağazada ayakkabı denedim.,Görünüşe göre mağazada çoğu ayakkabı denedim.,∅,çoğu,ayakkabı,quantifiers  
+Kışın yerde yemek pişiririz.,Kışın yerde her yemek pişiririz.,∅,her,yemek,quantifiers  
+Kütüphanede belge inceledim.,Kütüphanede çoğu belge inceledim.,∅,çoğu,belge,quantifiers
+Amcasının müzik deponda gitar çalmış.,Amcasının müzik deponda her gitar çalmış.,∅,her,gitar,quantifiers
+Demek ki restoranda menü karıştırdık.,Demek ki restoranda her menü karıştırdık.,∅,her,menü,quantifiers  
+Seyirciler sokakta şarkı söyledi.,Seyirciler sokakta her şarkı söyledi.,∅,her,şarkı,quantifiers
+Ders arasında veliler sınıf gezdi.,Ders arasında veliler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Görünüşe göre müzede tarihi eser inceledik.,Görünüşe göre müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Çiftlikte hayvanlar yumurta topladı.,Çiftlikte hayvanlar her yumurta topladı.,∅,her,yumurta,quantifiers
+Kafede şekerlik boşaldı.,Kafede çoğu şekerlik boşaldı.,∅,çoğu,şekerlik,quantifiers
+Demek ki yürüyüşte döviz taşıdık.,Demek ki yürüyüşte her döviz taşıdık.,∅,her,döviz,quantifiers
+Ders dışında öğrenciler sınıf gezdi.,Ders dışında öğrenciler her sınıf gezdi.,∅,her,sınıf,quantifiers  
+Ünlü eleştirmen barda menü inceledi.,Ünlü eleştirmen barda her menü inceledi.,∅,her,menü,quantifiers
+Sınıfta avukat tahta sildi.,Sınıfta avukat her tahta sildi.,∅,her,tahta,quantifiers
+Yani kütüphanete raf yerleştirdiler.,Yani kütüphanete çoğu raf yerleştirdiler.,∅,çoğu,raf,quantifiers
+Ünlü star defilede elbise giydi.,Ünlü star defilede çoğu elbise giydi.,∅,çoğu,elbise,quantifiers
+Şu halde mağazada manken değiştirdiler.,Şu halde mağazada çoğu manken değiştirdiler.,∅,çoğu,manken,quantifiers
+Belli ki yol kenarından çiçek topladık.,Belli ki yol kenarından çoğu çiçek topladık.,∅,çoğu,çiçek,quantifiers  
+O halde sınıfta tebeşir kullandık.,O halde sınıfta her tebeşir kullandık.,∅,her,tebeşir,quantifiers
+Görünüşe göre akşam yürüyüşünde yıldız gördük.,Görünüşe göre akşam yürüyüşünde çoğu yıldız gördük.,∅,çoğu,yıldız,quantifiers  
+Görünüşe göre köyde saman taşıdılar.,Görünüşe göre köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Şu halde yoldan geçenlere broşür dağıttılar.,Şu halde yoldan geçenlere çoğu broşür dağıttılar.,∅,çoğu,broşür,quantifiers
+Maçta oyunlar tezahürat yaptı.,Maçta oyunlar her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Sınıfta avukat hikaye anlattı.,Sınıfta avukat çoğu hikaye anlattı.,∅,çoğu,hikaye,quantifiers  
+Melike matematik okulunda problem çözmüş.,Melike matematik okulunda her problem çözmüş.,∅,her,problem,quantifiers
+Yani meydanda heykel gördük.,Yani meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+Konser zamanı poster aldık.,Konser zamanı her poster aldık.,∅,her,poster,quantifiers
+Müzede tarihi eser inceledik.,Müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Annem pazardan meyve aldı.,Annem pazardan her meyve aldı.,∅,her,meyve,quantifiers  
+Kedim uzakta bulursa süt içer.,Kedim uzakta bulursa her süt içer.,∅,her,süt,quantifiers  
+Hafta sonu gölde kayık kullandık.,Hafta sonu gölde her kayık kullandık.,∅,her,kayık,quantifiers  
+Yani markette kasa açtılar.,Yani markette her kasa açtılar.,∅,her,kasa,quantifiers
+Gümrükte bavul açtılar.,Gümrükte her bavul açtılar.,∅,her,bavul,quantifiers
+Yani berberde yanlışlıkla ayna kırdı.,Yani berberde yanlışlıkla çoğu ayna kırdı.,∅,çoğu,ayna,quantifiers
+Kırtasiyede defter baktık.,Kırtasiyede her defter baktık.,∅,her,defter,quantifiers
+Öyle görünüyor ki köyde sabahları ekmek pişirirler.,Öyle görünüyor ki köyde sabahları her ekmek pişirirler.,∅,her,ekmek,quantifiers  
+Bahçede erkekler çiçek topladı.,Bahçede erkekler her çiçek topladı.,∅,her,çiçek,quantifiers
+Yani zaten Fransa'da peynir tatmıştır.,Yani zaten Fransa'da çoğu peynir tatmıştır.,∅,çoğu,peynir,quantifiers
+Demek ki karnın acıkınca ekmek yersin.,Demek ki karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Altın günü için kardeşim tatlı yaptı.,Altın günü için kardeşim çoğu tatlı yaptı.,∅,çoğu,tatlı,quantifiers
+Anlaşılıyor ki sergide tablo beğendik.,Anlaşılıyor ki sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Belli ki sahilde şezlong kiraladık.,Belli ki sahilde her şezlong kiraladık.,∅,her,şezlong,quantifiers  
+Konser arkası poster aldık.,Konser arkası her poster aldık.,∅,her,poster,quantifiers
+Sınıf gezisinde müze rehberi bilgi verdi.,Sınıf gezisinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Belli ki karnın acıkınca ekmek yersin.,Belli ki karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+Sınıf sergisinde müze rehberi bilgi verdi.,Sınıf sergisinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Öyle görünüyor ki köyde saman taşıdılar.,Öyle görünüyor ki köyde çoğu saman taşıdılar.,∅,çoğu,saman,quantifiers  
+Müşteriler sokakta ayakkabı denedi.,Müşteriler sokakta her ayakkabı denedi.,∅,her,ayakkabı,quantifiers
+Kütüphanede arkadaş kitap okudu.,Kütüphanede arkadaş her kitap okudu.,∅,her,kitap,quantifiers
+Marketten yumurta aldım.,Marketten çoğu yumurta aldım.,∅,çoğu,yumurta,quantifiers  
+Öyle görünüyor ki karnın acıkınca ekmek yersin.,Öyle görünüyor ki karnın acıkınca her ekmek yersin.,∅,her,ekmek,quantifiers
+O halde kütüphanede roman okudum.,O halde kütüphanede çoğu roman okudum.,∅,çoğu,roman,quantifiers  
+Seyirciler sinemada şarkı söyledi.,Seyirciler sinemada her şarkı söyledi.,∅,her,şarkı,quantifiers
+Kardeşinin isini için elbise denedi.,Kardeşinin isini için her elbise denedi.,∅,her,elbise,quantifiers
+Sınıf evinde müze rehberi bilgi verdi.,Sınıf evinde müze rehberi çoğu bilgi verdi.,∅,çoğu,bilgi,quantifiers  
+Maçta futbollar tezahürat yaptı.,Maçta futbollar her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Belli ki müzede tarihi eser inceledik.,Belli ki müzede çoğu tarihi eser inceledik.,∅,çoğu,eser,quantifiers  
+Gösteride dedektif numara yaptı.,Gösteride dedektif her numara yaptı.,∅,her,numara,quantifiers  
+Sergide mühendis tablo sergiledi.,Sergide mühendis çoğu tablo sergiledi.,∅,çoğu,tablo,quantifiers  
+Maçta takımlar tezahürat yaptı.,Maçta takımlar her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+Hafta sonu bahçeye çiçek diktik.,Hafta sonu bahçeye her çiçek diktik.,∅,her,çiçek,quantifiers  
+Kışın odada yemek pişiririz.,Kışın odada her yemek pişiririz.,∅,her,yemek,quantifiers  
+Demek ki mağazada vitrin düzenlediler.,Demek ki mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Doğa sergisinde sincap gördük.,Doğa sergisinde her sincap gördük.,∅,her,sincap,quantifiers  
+Sınıfta öğretmen tahta sildi.,Sınıfta öğretmen her tahta sildi.,∅,her,tahta,quantifiers
+Kafede kasiyer tepsi taşıdı.,Kafede kasiyer her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Anlaşılan yemekten sonra tatlı yedik.,Anlaşılan yemekten sonra çoğu tatlı yedik.,∅,çoğu,tatlı,quantifiers  
+Sabah odasında zeytin yedik.,Sabah odasında çoğu zeytin yedik.,∅,çoğu,zeytin,quantifiers  
+İnşaatta tuğla taşıdılar.,İnşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Konser sonrası poster aldık.,Konser sonrası her poster aldık.,∅,her,poster,quantifiers
+Şu halde dikkati dağılmadığı sürece çalışırken müzik dinler.,Şu halde dikkati dağılmadığı sürece çalışırken çoğu müzik dinler.,∅,çoğu,müzik,quantifiers
+Maçta kişiler tezahürat yaptı.,Maçta kişiler her tezahürat yaptı.,∅,her,tezahürat,quantifiers  
+O halde i̇nşaatta tuğla taşıdılar.,O halde i̇nşaatta çoğu tuğla taşıdılar.,∅,çoğu,tuğla,quantifiers  
+Konserde davul enstrüman çaldı.,Konserde davul çoğu enstrüman çaldı.,∅,çoğu,enstrüman,quantifiers  
+Kafede kap tepsi taşıdı.,Kafede kap her tepsi taşıdı.,∅,her,tepsi,quantifiers
+Yani tarlada mahsul topladılar.,Yani tarlada çoğu mahsul topladılar.,∅,çoğu,mahsul,quantifiers  
+Anlaşılan meydanda heykel gördük.,Anlaşılan meydanda her heykel gördük.,∅,her,heykel,quantifiers  
+O halde mağazada vitrin düzenlediler.,O halde mağazada her vitrin düzenlediler.,∅,her,vitrin,quantifiers
+Otobüste bilet hata ettiler.,Otobüste her bilet hata ettiler.,∅,her,bilet,quantifiers  
+Konser sırası poster aldık.,Konser sırası her poster aldık.,∅,her,poster,quantifiers
+Doğa turunda sincap gördük.,Doğa turunda her sincap gördük.,∅,her,sincap,quantifiers  
+Belli ki sergide tablo beğendik.,Belli ki sergide her tablo beğendik.,∅,her,tablo,quantifiers
+Kamp etkinde şarkı söyledik.,Kamp etkinde her şarkı söyledik.,∅,her,şarkı,quantifiers  
+Anlaşılan atölyede mobilya yaptık.,Anlaşılan atölyede çoğu mobilya yaptık.,∅,çoğu,mobilya,quantifiers
+Anlaşılan manavda sebze tarttık.,Anlaşılan manavda çoğu sebze tarttık.,∅,çoğu,sebze,quantifiers
