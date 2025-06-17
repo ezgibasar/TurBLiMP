@@ -49,7 +49,7 @@ To validate our benchmark, we collected acceptability judgments from native spea
   - Covers **16 linguistic phenomena** and **20 experimental paradigms**  
   - 6 sentences per category  
 - **Design**:  
-  - Online survey
+  - Online survey on Qualtrics
   - Two survey versions with flipped acceptability conditions  
 - **Data included**:  
   - Raw ratings for all phenomena
@@ -59,7 +59,7 @@ To validate our benchmark, we collected acceptability judgments from native spea
 
 To use the TurBLiMP benchmark:
 
-1. Clone the repository:
+- Clone the repository:
 ```bash
 git clone https://github.com/yourusername/TurBLiMP.git
 ```
