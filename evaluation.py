@@ -23,7 +23,8 @@ def compute_score(data, model, mode):
     return score
 
 def process_files(model, mode, model_name, output_folder):
-    file_names = ["argument_structure_ditransitive_ken.csv",
+    file_names = ["argument_structure_ditransitive_original.csv",
+              "argument_structure_ditransitive_ken.csv",
               "argument_structure_ditransitive_dik.csv",
               "argument_structure_ditransitive_inca.csv",
               "argument_structure_ditransitive_OSV.csv",
@@ -33,6 +34,7 @@ def process_files(model, mode, model_name, output_folder):
               "argument_structure_ditransitive_SVO.csv",
               "argument_structure_ditransitive_VOS.csv",
               "argument_structure_ditransitive_VSO.csv",
+              "argument_structure_transitive_original.csv",
               "argument_structure_transitive_ken.csv",
               "argument_structure_transitive_dik.csv",
               "argument_structure_transitive_inca.csv",
